@@ -1,36 +1,30 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
-
-# Theme Settings
-#
-# Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+
+
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Keep trying"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Sierra"
-description              : "delveloper blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+locale                   : "en-US"  # "en-US"
+title                    : "Keep trying" # Meta 태그에 들어가는 영역 , masthead_title등이 없으면 기본값으로 나온다.
+title_separator          : "&#124;" # 타이틀 사이 구분자 <title>Welcome to Jekyll | Minimal Mistakes</title> 해당 형식으로 들어갑니다.
+subtitle                 :  # 타이틀 아래에 나올 작은 글씨 
+name                     : "Sierra"  # 맨 하단 이름 찍히는 영역
+description              : "Delveloper blog" # Meta 태그에 들어가는 영역
+url                      : "https://seojang.github.io/"  #GitBlog 호스트 주소
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+repository               : "seoJang/sierra41.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png" # 홈페이지 기본 티져 이미지
+logo                     : # 타이틀 옆에 작게 들어갈 이미지.
+masthead_title           : "Keep trying" # 홈페이지 최 상탄에 들어갈 타이틀
+# breadcrumbs            : true # 브래드크럼 사용 여부 true, false (default) , _data/ui-text.yml에 다국어 지원 가능합니다.
+words_per_minute         : 200 # 해당 포스트 읽는데 걸리는 시간을 계산하기 위해 대락 분당 읽는 수가 몇글자가 될지 적는 공간.
+
+
+# 댓글 관련 부분
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -43,27 +37,19 @@ comments:
   utterances:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
-  giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+
+# 구글 reCaptcha: 세팅
 reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true # true, false (default)
+search_full_content      : true # true, false (default)
 search_provider          : # lunr (default), algolia, google
-lunr:
-  search_within_pages    : # true, false (default)
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -72,12 +58,12 @@ algolia:
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-naver_site_verification  :
 yandex_site_verification :
-baidu_site_verification  :
+naver_site_verification  :
 
 # Social Sharing
 twitter:
@@ -96,7 +82,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
     anonymize_ip         : # true, false (default)
@@ -105,14 +91,14 @@ analytics:
 # Site Author
 author:
   name             : "Sierra"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Keep going"
+  avatar           : "/assets/images/profile/poto.jpg" # 프로필 이미지
+  bio              : "keep going"
   location         : "South Korea"
-  email            : 
+  email            : "actin45@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:actin45@gmail.com"
+      url: "actin45@gmail.com" # url: "mailto:your.name@email.com"
     - #label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -124,7 +110,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sierra41"
+      url: "https://github.com/Sierra41/" # url: "https://github.com/"
     - #label: "Instagram"
       #icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -132,15 +118,15 @@ author:
 # Site Footer
 footer:
   links:
-    - #label: "Twitter"
-      #icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label: "Email"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "actin45@gmail.com"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sierra41"
+      url: "https://github.com/Sierra41/"
     - #label: "GitLab"
       #icon: "fab fa-fw fa-gitlab"
       # url:
@@ -276,7 +262,7 @@ compress_html:
   ignore:
     envs: development
 
-
+#Defaults Post들에 적용될 기본 설정들
 # Defaults
 defaults:
   # _posts
@@ -287,6 +273,14 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+
+# _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
