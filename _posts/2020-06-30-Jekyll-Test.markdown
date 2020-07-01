@@ -1,18 +1,14 @@
 ---
-layout: single
 title: "Jekyll Test"
-read_time: true
+excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories: 
  - Blog
 tags: 
  - Blog
 last_modified_at: '2020-07-01 14:16:00 +0800'
-toc: true
-toc_sticky: true
-toc_label: 목차
-
 ---
+
 ## Blog First Post 
 jekyll 포스트 업로드 test를 위해 생성한 글입니다.
  
