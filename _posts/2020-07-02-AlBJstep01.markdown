@@ -1,0 +1,30 @@
+---
+layout: single
+title: "BaeckJoon 단계별_ 입출력과 사칙연산 2557 Hello World"
+read_time: true
+
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-02 14:16:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+## 백준 알고리즘 _단계별로 풀어보기
+### 입출력과 사칙연산
+#### - 2557 문제
+![image](https://user-images.githubusercontent.com/66898243/86330567-cf6cb600-bc82-11ea-88cf-a39d88cda742.png)
+
+
+### 풀이 
+Hello World! 를 출력하기
+
+### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86331674-5c643f00-bc84-11ea-9a50-5b444da2e8fb.png)
+ 
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
