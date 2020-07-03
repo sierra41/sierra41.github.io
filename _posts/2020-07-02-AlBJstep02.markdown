@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "단계별문제풀이_10718 We love kriii"
+title: "BaeckJoon 단계별 입출력과 사칙연산 10718 We love kriii"
 read_time: true
 categories: 
  - BaeckJoon 
