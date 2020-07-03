@@ -1,0 +1,80 @@
+---
+layout: single
+title: "BaeckJoon 단계별_ 입출력과 사칙연산 10171, 10172, 1000, 1001, 10998, 1008, 10869, 10430, 2588"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-03 10:31:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기
+### 입출력과 사칙연산
+### - 10171 고양이 문제
+![image](https://user-images.githubusercontent.com/66898243/86418813-56b23c00-bd0c-11ea-8bc8-b0d0d186608e.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86418678-e2779880-bd0b-11ea-8362-c927a0de70e6.png)
+
+***
+### - 10172 개 문제
+![image](https://user-images.githubusercontent.com/66898243/86418872-8a8d6180-bd0c-11ea-9eaf-a930a355cd69.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86419175-6716e680-bd0d-11ea-8407-b88975baddc6.png)
+
+***
+### - 1000 A + B 문제
+![image](https://user-images.githubusercontent.com/66898243/86419255-8746a580-bd0d-11ea-9cb8-8552b923338a.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86419584-8e21e800-bd0e-11ea-8a8f-500f9ad1184e.png)
+
+***
+### - 1001 A - B 문제
+![image](https://user-images.githubusercontent.com/66898243/86419624-b3aef180-bd0e-11ea-9ca9-ab1cfb6e2ac1.png)
+
+#### 코드
+![image](https://user-images.githubusercontent.com/66898243/86419734-20c28700-bd0f-11ea-80b9-cdfc109d8b58.png)
+
+***
+### - 10998 A * B 문제
+![image](https://user-images.githubusercontent.com/66898243/86419692-f1137f00-bd0e-11ea-9a59-8b9a59246c9c.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86419803-5f584180-bd0f-11ea-803b-0587740fa196.png)
+
+***
+### - 1008 A / B 문제
+![image](https://user-images.githubusercontent.com/66898243/86419925-c675f600-bd0f-11ea-9a0e-7a10c1c8f9bf.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86420361-58323300-bd11-11ea-8a05-4ceb1566368b.png)
+
+***
+### - 10869 사칙연산 문제
+![image](https://user-images.githubusercontent.com/66898243/86419906-b2ca8f80-bd0f-11ea-970e-f66ad04c6804.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86420639-384f3f00-bd12-11ea-82f0-2e28fb28fc5b.png)
+
+***
+### - 10430 나머지 문제
+![image](https://user-images.githubusercontent.com/66898243/86419937-d2fa4e80-bd0f-11ea-87aa-114fcbdb2c5c.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86420928-130f0080-bd13-11ea-91cc-7cdd5a0fd50d.png)
+
+***
+### - 2588 곱셈 문제
+![image](https://user-images.githubusercontent.com/66898243/86419965-e7d6e200-bd0f-11ea-999d-19e569107eae.png)
+
+#### 코드
+> ![image](https://user-images.githubusercontent.com/66898243/86421237-36867b00-bd14-11ea-9bea-2d09505a0abd.png)
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
