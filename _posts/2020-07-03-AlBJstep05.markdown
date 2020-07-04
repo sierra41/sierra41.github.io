@@ -1,0 +1,84 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별_ For문 2739, 10950, 8393, 15552, 2741, 2742, 11021, 11022, 2438, 2439, 10871"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-06 09:08:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기
+### for문 
+### - 2739 구구단 문제
+![image](https://user-images.githubusercontent.com/66898243/86443901-e2e35400-bd4a-11ea-9ea7-2b4c5da05ef7.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86449601-62752100-bd53-11ea-810f-2a4dc69b2e6b.png)
+***
+### - 10950 A + B - 3 문제
+![image](https://user-images.githubusercontent.com/66898243/86443995-08705d80-bd4b-11ea-961b-c286d4512816.png)
+
+#### 코드1(if방식)
+>  ![image](https://user-images.githubusercontent.com/66898243/86450854-1c20c180-bd55-11ea-82fb-cc90877cb8a5.png)
+***
+### - 8393 합 문제
+![image](https://user-images.githubusercontent.com/66898243/86444050-23db6880-bd4b-11ea-8bb0-e3e8f66eb2e6.png)
+
+#### 코드
+>  
+***
+### - 15552 빠른 A + B 문제
+![image](https://user-images.githubusercontent.com/66898243/86444176-5a18e800-bd4b-11ea-8b8a-7ce4c0d53c86.png)
+
+#### 코드
+>  
+***
+### - 2741 N 찍기 문제
+![image](https://user-images.githubusercontent.com/66898243/86444218-67ce6d80-bd4b-11ea-918d-8af09f0b1c96.png)
+
+#### 코드 1 (Scanner)
+>  
+***
+### - 2742 기찍 N 문제
+![image](https://user-images.githubusercontent.com/66898243/86444332-90566780-bd4b-11ea-841a-6b32ab9bc17f.png)
+
+#### 코드 1 (Scanner)
+>  
+***
+### - 11021 A + B - 7 문제
+![image](https://user-images.githubusercontent.com/66898243/86444501-c72c7d80-bd4b-11ea-9626-6cf655038718.png)
+
+#### 코드 1 (Scanner)
+>  
+***
+### - 11022 A + B - 8 문제
+![image](https://user-images.githubusercontent.com/66898243/86444593-e9260000-bd4b-11ea-9120-5362c778960d.png)
+
+#### 코드 1 (Scanner)
+>  
+***
+### - 2438 별 찍기- 1 문제
+![image](https://user-images.githubusercontent.com/66898243/86444665-0d81dc80-bd4c-11ea-977c-c1551eaa7194.png)
+
+#### 코드 1 (Scanner)
+> 
+***
+### - 2439 별 찍기- 2 문제
+![image](https://user-images.githubusercontent.com/66898243/86448723-1fff1480-bd52-11ea-9905-9776b291a2af.png)
+
+#### 코드 1 (Scanner)
+>  
+***
+### - 10871 X보다 작은 수 문제
+![image](https://user-images.githubusercontent.com/66898243/86448723-1fff1480-bd52-11ea-9905-9776b291a2af.png)
+
+#### 코드 1 (Scanner)
+>  
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
