@@ -43,5 +43,28 @@ read_time: true
 ![image](https://user-images.githubusercontent.com/66898243/86444501-c72c7d80-bd4b-11ea-9626-6cf655038718.png)
 
 #### 코드 
+>  ![image](https://user-images.githubusercontent.com/66898243/86525743-23b3a800-bec6-11ea-90d6-f957c91307b9.png)
+***
+### - 11022 A + B - 8 문제
+![image](https://user-images.githubusercontent.com/66898243/86444593-e9260000-bd4b-11ea-9120-5362c778960d.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86525793-9b81d280-bec6-11ea-92a2-fd0a2e04c3a8.png)
+***
+### - 2438 별 찍기- 1 문제
+![image](https://user-images.githubusercontent.com/66898243/86444665-0d81dc80-bd4c-11ea-977c-c1551eaa7194.png)
+
+#### 코드 1 (Scanner)
+> ![image](https://user-images.githubusercontent.com/66898243/86525911-126b9b00-bec8-11ea-93b4-deca5b402009.png)
+***
+### - 2439 별 찍기- 2 문제
+![image](https://user-images.githubusercontent.com/66898243/86448723-1fff1480-bd52-11ea-9905-9776b291a2af.png)
+
+#### 코드 
+>  ![image](https://user-images.githubusercontent.com/66898243/86525960-dc7ae680-bec8-11ea-94b4-9bb6632f05ac.png)
+***
+### - 10871 X보다 작은 수 문제
+
+#### 코드 
 >  
 ***
