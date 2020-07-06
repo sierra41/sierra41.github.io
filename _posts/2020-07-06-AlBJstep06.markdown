@@ -21,6 +21,8 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/86546309-36ce8280-bf6f-11ea-846d-769f1ee494f0.png)
 #### 코드2. StringBuilder 사용 80ms (메모리는 더 적게 사용함)
 >  
+>  ![image](https://user-images.githubusercontent.com/66898243/86546287-1c94a480-bf6f-11ea-8c34-209a3c2f03af.png)
+
 ***
 ### - 10951 A + B -4 문제 : EOP 해결 문제
 ![image](https://user-images.githubusercontent.com/66898243/86545348-3df29200-bf69-11ea-9738-569954206e42.png)
