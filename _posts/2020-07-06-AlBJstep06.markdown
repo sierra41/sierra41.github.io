@@ -1,0 +1,41 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ While문 10952, 10951, 1110"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-06 13:21:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### While문 
+### - 10952 A + B -5 문제
+![image](https://user-images.githubusercontent.com/66898243/86545335-274c3b00-bf69-11ea-9894-67608f6c870f.png)
+
+#### 코드1. BufferedWriter 사용 80ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86546309-36ce8280-bf6f-11ea-846d-769f1ee494f0.png)
+#### 코드2. StringBuilder 사용 80ms (메모리는 더 적게 사용함)
+>  
+***
+### - 10951 A + B -4 문제 : EOP 해결 문제
+![image](https://user-images.githubusercontent.com/66898243/86545348-3df29200-bf69-11ea-9738-569954206e42.png)
+
+#### 코드1. BufferReader (null 반환) + StringTokenizer 80ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86548426-4225ac00-bf77-11ea-8848-41b2817b606b.png)
+#### 코드2.  BufferReader (null 반환) + charAt() (10이하 정수 값에서 사용 가능) 76ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86548516-a9436080-bf77-11ea-95cd-641d2d3cf42e.png)
+***
+### - 1110 더하기 사이클 문제
+![image](https://user-images.githubusercontent.com/66898243/86545359-5367bc00-bf69-11ea-9ccf-812be7a5d1ed.png)
+
+#### 코드 
+>  ![image](https://user-images.githubusercontent.com/66898243/86556288-d995f980-bf8d-11ea-9b90-a9cd59d978f4.png)
+
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557

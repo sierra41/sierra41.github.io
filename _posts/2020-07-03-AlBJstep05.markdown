@@ -2,7 +2,26 @@
 layout: single
 title: "BaeckJoon 단계별_ For문 2739, 10950, 8393, 15552, 2741, 2742, 11021, 11022, 2438, 2439, 10871"
 read_time: true
-	@@ -24,42 +24,51 @@ toc_label: 목차
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-06 09:08:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+## 백준 알고리즘 _단계별로 풀어보기
+### for문 
+### - 2739 구구단 문제
+![image](https://user-images.githubusercontent.com/66898243/86443901-e2e35400-bd4a-11ea-9ea7-2b4c5da05ef7.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86449601-62752100-bd53-11ea-810f-2a4dc69b2e6b.png)
+
+***
 ### - 10950 A + B - 3 문제
 ![image](https://user-images.githubusercontent.com/66898243/86443995-08705d80-bd4b-11ea-961b-c286d4512816.png)
 
@@ -68,3 +87,7 @@ read_time: true
 #### 코드 
 >  
 ***
+
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
