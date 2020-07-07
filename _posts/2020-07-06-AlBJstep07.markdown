@@ -52,13 +52,14 @@ toc_label: 목차
 #### 코드1. 84ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86571917-2f2dce80-bfad-11ea-8ece-1aa6bf85400f.png)
 #### 코드2. 개선
->  
+#### 코드2. 개선
+>  ![image](https://user-images.githubusercontent.com/66898243/86681209-4e267200-c03a-11ea-9a91-25b713a72c91.png)
 ***
 ### - 10996 별 찍기 -21 문제
 ![image](https://user-images.githubusercontent.com/66898243/86557065-0519e380-bf90-11ea-8ee7-177007c610a7.png)
 
-#### 코드
->  
+#### 코드1. 84ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86680808-e96b1780-c039-11ea-8053-df284a207b8a.png)
 
 
 #### - 참고 목록
