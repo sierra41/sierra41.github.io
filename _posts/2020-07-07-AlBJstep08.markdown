@@ -43,13 +43,18 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/86719696-44fbcc00-c05f-11ea-9eea-4729e6ebd6ac.png)
 
 #### 코드
->  
+> ![image](https://user-images.githubusercontent.com/66898243/86869119-f27ae800-c110-11ea-8a12-8057530c137f.png)
+
 ***
 ### - 8958 OX퀴즈 문제
 ![image](https://user-images.githubusercontent.com/66898243/86719752-5349e800-c05f-11ea-9271-e2eedbf01587.png)
 
-#### 코드
->  
+#### 코드1 하나하나 잘라서 비교
+>  ![image](https://user-images.githubusercontent.com/66898243/86876302-5c9a8980-c11f-11ea-882d-43c5b12c3d3c.png)
+
+#### 코드2 .CharAt() 사용
+>  ![image](https://user-images.githubusercontent.com/66898243/86876262-4d1b4080-c11f-11ea-99d9-18386e932fe7.png)
+
 ***
 ### - 4344 평균은 넘겠지 문제
 ![image](https://user-images.githubusercontent.com/66898243/86719830-66f54e80-c05f-11ea-9085-84b26e7146d2.png)
