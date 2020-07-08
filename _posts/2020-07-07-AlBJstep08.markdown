@@ -1,0 +1,61 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ 1차원 배열 10818, 2562, 2577, 3052, 1546, 8958, 4344"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-07 13:21:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 1차원 배열
+### - 10818 최소, 최대
+![image](https://user-images.githubusercontent.com/66898243/86696800-c1cf7b80-c048-11ea-9257-87a41daff17d.png)
+
+#### 코드1. Math 사용안함 448ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86732625-84301a00-c06b-11ea-9abf-3185f501f198.png)
+#### 코드2. Math 사용 412ms
+>  ![image](https://user-images.githubusercontent.com/66898243/86732699-9316cc80-c06b-11ea-9505-e929ff31f69d.png)
+***
+### - 2562 최댓값 문제
+![image](https://user-images.githubusercontent.com/66898243/86697431-576b0b00-c049-11ea-98e9-4107a54733fc.png)
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86734049-a5453a80-c06c-11ea-93f5-ff7a44a7815f.png)
+***
+### - 2577 숫자의 개수 문제
+![image](https://user-images.githubusercontent.com/66898243/86697529-6e116200-c049-11ea-8092-4be7a8eacfb7.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86737904-98761600-c06f-11ea-8bcc-7c0ff6d14dca.png)
+***
+### - 3052 나머지 문제
+![image](https://user-images.githubusercontent.com/66898243/86697593-7f5a6e80-c049-11ea-97a0-5cde9086f806.png)
+
+#### 코드
+>  
+***
+### - 1546 평균 문제
+![image](https://user-images.githubusercontent.com/66898243/86719696-44fbcc00-c05f-11ea-9eea-4729e6ebd6ac.png)
+
+#### 코드
+>  
+***
+### - 8958 OX퀴즈 문제
+![image](https://user-images.githubusercontent.com/66898243/86719752-5349e800-c05f-11ea-9271-e2eedbf01587.png)
+
+#### 코드
+>  
+***
+### - 4344 평균은 넘겠지 문제
+![image](https://user-images.githubusercontent.com/66898243/86719830-66f54e80-c05f-11ea-9085-84b26e7146d2.png)
+
+#### 코드
+>  
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
