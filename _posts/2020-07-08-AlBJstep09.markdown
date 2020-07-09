@@ -1,0 +1,37 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ 함수 15596, 4673, 1065"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-03 17:21:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 함수
+### - 15596 정수 N개의 합 문제
+![image](https://user-images.githubusercontent.com/66898243/86991913-39351480-c1db-11ea-886c-543ebe0cb8e6.png)
+
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/86991723-bdd36300-c1da-11ea-8bc4-2922dada164e.png)
+***
+### - 4673 셀프 넘버 문제
+
+
+#### 코드
+>  
+***
+### - 1065 한수 문제
+
+
+#### 코드1. 사용 ms
+>  
+#### 코드2.  사용 ms
+>  
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
