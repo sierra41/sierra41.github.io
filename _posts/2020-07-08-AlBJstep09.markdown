@@ -27,11 +27,10 @@ toc_label: 목차
 >  
 ***
 ### - 1065 한수 문제
+![image](https://user-images.githubusercontent.com/66898243/87115246-aa44fc80-c2ad-11ea-8fc7-3bbd68ebb909.png)
 
+#### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/87111502-7dd8b280-c2a4-11ea-9109-e431a163bd0a.png)
 
-#### 코드1. 사용 ms
->  
-#### 코드2.  사용 ms
->  
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

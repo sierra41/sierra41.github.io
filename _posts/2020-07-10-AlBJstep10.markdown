@@ -1,0 +1,81 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ 문자열 11654, 11720, 10809, 2675, 1157, 1152, 2908, 5622, 2941, 1316"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-10 13:11:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 문자열
+### - 11654 아스키 코드 문제
+![image](https://user-images.githubusercontent.com/66898243/87115952-a3b78480-c2af-11ea-997d-1177e57c3652.png)
+
+#### 코드1. BufferedReader 사용
+>  ![image](https://user-images.githubusercontent.com/66898243/87119473-07927b00-c2b9-11ea-9644-ba37f9dc7f00.png)
+#### 코드2. System.in.read() 사용
+>  ![image](https://user-images.githubusercontent.com/66898243/87119483-14af6a00-c2b9-11ea-92e1-ee1eed772f2a.png)
+***
+### - 11720 숫자의 합 문제
+![image](https://user-images.githubusercontent.com/66898243/87115975-b0d47380-c2af-11ea-9191-2f5be380f77a.png)
+
+#### 코드
+>  
+***
+### - 10809 알파벳 찾기 문제
+![image](https://user-images.githubusercontent.com/66898243/87116000-c184e980-c2af-11ea-8ad8-c1cb25ef6d3a.png)
+
+#### 코드
+>  
+***
+### - 2675 문자열 반복 문제
+![image](https://user-images.githubusercontent.com/66898243/87116025-cc3f7e80-c2af-11ea-88d2-e6574963083f.png)
+
+####  코드
+>  
+***
+### - 1157 단어 공부 문제
+![image](https://user-images.githubusercontent.com/66898243/87116080-e37e6c00-c2af-11ea-8c03-06f734412857.png)
+
+#### 코드
+>  
+***
+### - 1152 단어의 개수 문제
+![image](https://user-images.githubusercontent.com/66898243/87116132-f98c2c80-c2af-11ea-9e5b-fb2ceedd728a.png)
+
+#### 코드
+>  
+***
+### - 2908 상수 문제
+![image](https://user-images.githubusercontent.com/66898243/87116178-1294dd80-c2b0-11ea-97ef-912b3693f5b5.png)
+
+#### 코드
+>  
+***
+### - 5622 다이얼 문제
+![image](https://user-images.githubusercontent.com/66898243/87116207-20e2f980-c2b0-11ea-95c0-3a2332064bb9.png)
+
+#### 코드
+>  
+***
+### - 2941 크로아티아 알파벳 문제
+![image](https://user-images.githubusercontent.com/66898243/87116241-39531400-c2b0-11ea-80ec-e65250aa16b4.png
+
+#### 코드1. 사용 ms
+>  
+#### 코드2.  사용 ms
+>  
+***
+### - 1316 그룹 단어 체커 문제
+![image](https://user-images.githubusercontent.com/66898243/87116278-5556b580-c2b0-11ea-99fb-3d4266bab3eb.png)
+
+#### 코드
+>  
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
