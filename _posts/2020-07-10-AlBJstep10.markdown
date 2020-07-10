@@ -26,7 +26,8 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87115975-b0d47380-c2af-11ea-9191-2f5be380f77a.png)
 
 #### 코드
->  
+>  >  ![image](https://user-images.githubusercontent.com/66898243/87120362-2eea4780-c2bb-11ea-9571-2249e8b0cdb1.png)
+
 ***
 ### - 10809 알파벳 찾기 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116000-c184e980-c2af-11ea-8ad8-c1cb25ef6d3a.png)
@@ -38,7 +39,11 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87116025-cc3f7e80-c2af-11ea-88d2-e6574963083f.png)
 
 ####  코드
->  
+>  #### 코드1. char 비교
+>  ![image](https://user-images.githubusercontent.com/66898243/87127038-349a5a00-c2c8-11ea-8f0b-84839bbc26a2.png)
+#### 코드2. 아스키코드 이용
+>  ![image](https://user-images.githubusercontent.com/66898243/87128627-e89ce480-c2ca-11ea-9407-15163de7dc8c.png)
+
 ***
 ### - 1157 단어 공부 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116080-e37e6c00-c2af-11ea-8c03-06f734412857.png)
