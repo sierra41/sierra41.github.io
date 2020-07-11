@@ -49,7 +49,9 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87116080-e37e6c00-c2af-11ea-8c03-06f734412857.png)
 
 #### 코드
->  
+>  #### 코드1 시간초과
+>  ![image](https://user-images.githubusercontent.com/66898243/87226229-5a5d5700-c3cd-11ea-8720-7936654ab983.png)
+
 ***
 ### - 1152 단어의 개수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116132-f98c2c80-c2af-11ea-9e5b-fb2ceedd728a.png)
