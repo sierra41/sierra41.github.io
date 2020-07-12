@@ -66,7 +66,8 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87116178-1294dd80-c2b0-11ea-97ef-912b3693f5b5.png)
 
 #### 코드
->  
+>  ![image](https://user-images.githubusercontent.com/66898243/87249394-d3c27b80-c499-11ea-87d4-d4636a933f84.png)
+
 ***
 ### - 5622 다이얼 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116207-20e2f980-c2b0-11ea-95c0-3a2332064bb9.png)
