@@ -56,8 +56,11 @@ toc_label: 목차
 ### - 1152 단어의 개수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116132-f98c2c80-c2af-11ea-9e5b-fb2ceedd728a.png)
 
-#### 코드
->  
+#### 코드1 sprit() 사용. 앞뒤공백 읽음/ 공백만 있어도 단어 1개로 계산함.
+>  ![image](https://user-images.githubusercontent.com/66898243/87249064-e0de6b00-c497-11ea-886e-97b7c979f84e.png)
+#### 코드2 StringTokenizer 사용. 앞뒤 공백 무시/ 구분자 기준으로 단어 수만 계산해주는 countTokens() 함수 있음.
+>  ![image](https://user-images.githubusercontent.com/66898243/87249071-f81d5880-c497-11ea-9fc4-507c838d8360.png)
+
 ***
 ### - 2908 상수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116178-1294dd80-c2b0-11ea-97ef-912b3693f5b5.png)
