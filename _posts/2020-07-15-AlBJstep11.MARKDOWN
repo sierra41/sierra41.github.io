@@ -1,0 +1,67 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ 수학1 1712, 2839, 2292, 1193, 2869, 10250, 2775, 1011"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-15 23:21:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 수학 1 
+### - 1712 손익분기점 문제
+![image](https://user-images.githubusercontent.com/66898243/87558442-12537280-c6f4-11ea-8acc-91451a4199ed.png)
+
+#### 코드
+>  
+***
+### - 2839 설탕 배달 문제
+![image](https://user-images.githubusercontent.com/66898243/87558524-27c89c80-c6f4-11ea-9ff0-460c567801bd.png)
+
+#### 코드
+>  
+***
+### - 2292 벌집 문제
+![image](https://user-images.githubusercontent.com/66898243/87558618-475fc500-c6f4-11ea-9abd-6a3ea07f88b4.png)
+
+#### 코드1. 사용 ms
+>  
+#### 코드2.  사용 ms
+>  
+***
+### - 1193 분수찾기 문제
+![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
+
+#### 코드
+>  
+***
+### - 2869 달팽이는 올라가고 싶다 문제
+![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
+
+#### 코드
+>  
+***
+### - 10250 ACM 호텔 문제
+![image](https://user-images.githubusercontent.com/66898243/87559219-f8665f80-c6f4-11ea-8c88-f16a63847960.png)
+
+#### 코드
+>  
+***
+### - 2775 부녀회장이 될테야 문제
+![image](https://user-images.githubusercontent.com/66898243/87559328-1fbd2c80-c6f5-11ea-9688-4e1173f488fa.png)
+
+#### 코드
+>  
+***
+### - 1011 Fly me to the Alpha Centauri 문제
+![image](https://user-images.githubusercontent.com/66898243/87559535-61e66e00-c6f5-11ea-9aae-2f42f56ac02a.png)
+
+#### 코드
+>  
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
