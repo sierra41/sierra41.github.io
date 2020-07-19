@@ -7,7 +7,7 @@ categories:
 tags: 
  - Algorithm
  - BaeckJoon 
-last_modified_at: '2020-07-10 13:11:00 +0800'
+last_modified_at: '2020-07-12 23:11:00 +0800'
 toc: true
 toc_sticky: true
 toc_label: 목차
@@ -19,38 +19,48 @@ toc_label: 목차
 
 #### 코드1. BufferedReader 사용
 >  ![image](https://user-images.githubusercontent.com/66898243/87119473-07927b00-c2b9-11ea-9644-ba37f9dc7f00.png)
+
 #### 코드2. System.in.read() 사용
 >  ![image](https://user-images.githubusercontent.com/66898243/87119483-14af6a00-c2b9-11ea-92e1-ee1eed772f2a.png)
+
 ***
 ### - 11720 숫자의 합 문제
 ![image](https://user-images.githubusercontent.com/66898243/87115975-b0d47380-c2af-11ea-9191-2f5be380f77a.png)
 
 #### 코드
->  >  ![image](https://user-images.githubusercontent.com/66898243/87120362-2eea4780-c2bb-11ea-9571-2249e8b0cdb1.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/87120362-2eea4780-c2bb-11ea-9571-2249e8b0cdb1.png)
+
 
 ***
 ### - 10809 알파벳 찾기 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116000-c184e980-c2af-11ea-8ad8-c1cb25ef6d3a.png)
 
-#### 코드
->  
+#### 코드1. char 비교
+>  ![image](https://user-images.githubusercontent.com/66898243/87127038-349a5a00-c2c8-11ea-8f0b-84839bbc26a2.png)
+
+#### 코드2. 아스키코드 이용
+>  ![image](https://user-images.githubusercontent.com/66898243/87128627-e89ce480-c2ca-11ea-9407-15163de7dc8c.png)
+
+
 ***
 ### - 2675 문자열 반복 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116025-cc3f7e80-c2af-11ea-88d2-e6574963083f.png)
 
 ####  코드
->  #### 코드1. char 비교
->  ![image](https://user-images.githubusercontent.com/66898243/87127038-349a5a00-c2c8-11ea-8f0b-84839bbc26a2.png)
-#### 코드2. 아스키코드 이용
->  ![image](https://user-images.githubusercontent.com/66898243/87128627-e89ce480-c2ca-11ea-9407-15163de7dc8c.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/87130497-f56f0780-c2cd-11ea-830b-a84674f631cd.png)
 
 ***
 ### - 1157 단어 공부 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116080-e37e6c00-c2af-11ea-8c03-06f734412857.png)
 
-#### 코드
->  #### 코드1 시간초과
+#### 코드1 시간초과
 >  ![image](https://user-images.githubusercontent.com/66898243/87226229-5a5d5700-c3cd-11ea-8720-7936654ab983.png)
+
+#### 코드2 아스키 코드 208ms
+>  ![image](https://user-images.githubusercontent.com/66898243/87248550-f605ca80-c494-11ea-9a1e-2c88c9a41985.png)
+
+#### 코드3 아스키 코드 + System.in.read() 116ms
+>  ![image](https://user-images.githubusercontent.com/66898243/87248576-19c91080-c495-11ea-9d64-05f494a0ff99.png)
 
 ***
 ### - 1152 단어의 개수 문제
@@ -58,6 +68,7 @@ toc_label: 목차
 
 #### 코드1 sprit() 사용. 앞뒤공백 읽음/ 공백만 있어도 단어 1개로 계산함.
 >  ![image](https://user-images.githubusercontent.com/66898243/87249064-e0de6b00-c497-11ea-886e-97b7c979f84e.png)
+
 #### 코드2 StringTokenizer 사용. 앞뒤 공백 무시/ 구분자 기준으로 단어 수만 계산해주는 countTokens() 함수 있음.
 >  ![image](https://user-images.githubusercontent.com/66898243/87249071-f81d5880-c497-11ea-9fc4-507c838d8360.png)
 
@@ -66,28 +77,31 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87116178-1294dd80-c2b0-11ea-97ef-912b3693f5b5.png)
 
 #### 코드
->  ![image](https://user-images.githubusercontent.com/66898243/87249394-d3c27b80-c499-11ea-87d4-d4636a933f84.png)
+>   ![image](https://user-images.githubusercontent.com/66898243/87249394-d3c27b80-c499-11ea-87d4-d4636a933f84.png)
 
 ***
 ### - 5622 다이얼 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116207-20e2f980-c2b0-11ea-95c0-3a2332064bb9.png)
 
 #### 코드
->  
+>  ![image](https://user-images.githubusercontent.com/66898243/87439708-10be7780-c62c-11ea-887f-5163f487e44b.png)
+
 ***
 ### - 2941 크로아티아 알파벳 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116241-39531400-c2b0-11ea-80ec-e65250aa16b4.png
 
 #### 코드
-> #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/87796047-d0f1cd00-c883-11ea-918f-c96f127849e3.png)
-
 
 ***
 ### - 1316 그룹 단어 체커 문제
 ![image](https://user-images.githubusercontent.com/66898243/87116278-5556b580-c2b0-11ea-99fb-3d4266bab3eb.png)
 
-#### 코드
->  
+#### 코드1 이클립스에서는 실행되나 실패
+>  ![image](https://user-images.githubusercontent.com/66898243/87876925-265de380-ca16-11ea-92f8-ed64d58c5a5f.png)
+
+#### 코드2 80ms
+> ![image](https://user-images.githubusercontent.com/66898243/87876945-47becf80-ca16-11ea-8af4-5d30d245ce6b.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
