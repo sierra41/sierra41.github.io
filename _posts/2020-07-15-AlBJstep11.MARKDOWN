@@ -17,8 +17,11 @@ toc_label: 목차
 ### - 1712 손익분기점 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558442-12537280-c6f4-11ea-8acc-91451a4199ed.png)
 
-#### 코드
->  
+#### 코드1 이클립스에서는 성공. 실패
+>  ![image](https://user-images.githubusercontent.com/66898243/87877889-e568cd80-ca1b-11ea-9c2c-98082a6171a5.png)
+#### 코드2 76ms
+>  ![image](https://user-images.githubusercontent.com/66898243/87877864-c1a58780-ca1b-11ea-9ceb-9db732943a7a.png)
+
 ***
 ### - 2839 설탕 배달 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558524-27c89c80-c6f4-11ea-9ff0-460c567801bd.png)
