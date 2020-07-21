@@ -28,8 +28,9 @@ toc_label: 목차
 
 #### 코드1 break설정 안함 실패
 >  ![image](https://user-images.githubusercontent.com/66898243/88062477-da40a980-cba3-11ea-8c96-d079eccdb4d7.png)
-#### 코드2
-> 
+#### 코드2 break설정, 반복문 조건 추가
+>  ![image](https://user-images.githubusercontent.com/66898243/88063471-0577c880-cba5-11ea-8b2c-d6d0d7c3943b.png)
+
 
 ***
 ### - 2292 벌집 문제
