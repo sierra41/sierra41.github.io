@@ -49,8 +49,11 @@ toc_label: 목차
 ### - 2869 달팽이는 올라가고 싶다 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
 
-#### 코드
->  
+#### 코드1 시간초과
+>  ![image](https://user-images.githubusercontent.com/66898243/88299214-16f3d880-cd3d-11ea-9419-43f7a717198a.png)
+#### 코드2
+> 
+
 ***
 ### - 10250 ACM 호텔 문제
 ![image](https://user-images.githubusercontent.com/66898243/87559219-f8665f80-c6f4-11ea-8c88-f16a63847960.png)
