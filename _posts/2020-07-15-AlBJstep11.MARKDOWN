@@ -43,8 +43,11 @@ toc_label: 목차
 ### - 1193 분수찾기 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 코드
->  
+#### 코드1  출력초과
+>  ![image](https://user-images.githubusercontent.com/66898243/88681781-e5a84d80-d12c-11ea-85b5-b33d21cda6f0.png)
+#### 코드2 80ms
+> ![image](https://user-images.githubusercontent.com/66898243/88681874-fce73b00-d12c-11ea-8829-14c2e0a1c99a.png)
+
 ***
 ### - 2869 달팽이는 올라가고 싶다 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
