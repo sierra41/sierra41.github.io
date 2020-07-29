@@ -1,0 +1,52 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_ 재귀 10872, 10870, 2447, 11729"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2020-07-29 23:11:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 재귀 
+### - 10872 팩토리얼
+![image](https://user-images.githubusercontent.com/66898243/88813886-6d0cc400-d1f4-11ea-8a94-cbec79dc1049.png)
+
+#### 코드1 
+> 
+
+#### 코드2 
+>  
+
+***
+### - 10870 피보나치 수 5
+![image](https://user-images.githubusercontent.com/66898243/88813963-7eee6700-d1f4-11ea-86bc-5de6ffeeaf4c.png)
+
+#### 코드
+> 
+
+***
+### - 2447 별찍기 - 10
+![image](https://user-images.githubusercontent.com/66898243/88814263-d42a7880-d1f4-11ea-9988-0cf2d21f7455.png)
+
+#### 코드 
+> 
+
+***
+### - 11729 하노이 탑 이동순서
+![image](https://user-images.githubusercontent.com/66898243/88814456-1653ba00-d1f5-11ea-955c-b6b59a9f9f6c.png)
+
+#### 코드1 
+> 
+
+#### 코드2 
+> 
+
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
