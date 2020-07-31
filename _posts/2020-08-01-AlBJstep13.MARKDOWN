@@ -17,12 +17,15 @@ toc_label: 목차
 ### - 10872 팩토리얼
 ![image](https://user-images.githubusercontent.com/66898243/88813886-6d0cc400-d1f4-11ea-8a94-cbec79dc1049.png)
 
-#### 코드1 
+#### 코드1 단순반복문 80
 > ![image](https://user-images.githubusercontent.com/66898243/88817644-beb74d80-d1f8-11ea-87cd-301b32d01c27.png)
 
+#### 코드2 재귀반복문 76
+> ![image](https://user-images.githubusercontent.com/66898243/88818170-5e74db80-d1f9-11ea-9e70-c82bd8adc057.png)
 
-#### 코드2 
->  
+#### 코드3 재귀함수 84
+> ![image](https://user-images.githubusercontent.com/66898243/88818973-54071180-d1fa-11ea-9896-f26330bd3f9f.png)
+ 
 
 ***
 ### - 10870 피보나치 수 5
