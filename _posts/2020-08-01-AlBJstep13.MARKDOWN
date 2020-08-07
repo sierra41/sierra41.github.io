@@ -38,8 +38,10 @@ toc_label: 목차
 ### - 2447 별찍기 - 10 (별찍기 11과 비슷 https://www.youtube.com/watch?v=WjmEVp-Lgns 참고하기)
 ![image](https://user-images.githubusercontent.com/66898243/88814263-d42a7880-d1f4-11ea-9988-0cf2d21f7455.png)
 
-#### 코드 (블로그참고, 실패)
+#### 코드1 (블로그참고, 실패)
 >  ![image](https://user-images.githubusercontent.com/66898243/89544856-943f4300-d83d-11ea-85fb-a7284c0c8d14.png)
+#### 코드2 296ms
+>  ![image](https://user-images.githubusercontent.com/66898243/89657333-e2b91400-d907-11ea-9757-b91fd046c41d.png)
 
 
 ***
