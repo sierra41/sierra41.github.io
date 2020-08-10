@@ -24,8 +24,8 @@ toc_label: 목차
 ### - 2581 소수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558524-27c89c80-c6f4-11ea-9ff0-460c567801bd.png)
 
-#### 코드
->  
+### 코드
+>  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
 
 ***
 ### - 1929 소수구하기 문제
