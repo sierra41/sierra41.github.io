@@ -1,0 +1,35 @@
+﻿---
+layout: single
+title: "이클립스 단축키"
+read_time: true
+categories: 
+ - Certificate
+tags: 
+ - Eclipse
+last_modified_at: '2020-08-13 23:11:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 이클립스 단축키
+
+Ctrl + D : 줄 삭제
+Ctrl + Alt + 위/아래 : 줄 복사
+Ctrl + Shift + / : 주석처리 (Ctrl + Shit + \ 주석 풀기)
+Ctrl + / : 라인별로 주석처리
+Ctrl + Shift + O : import 정리
+Ctrl + K : 다음 찾기(Ctrl + Shift + K 이전 찾기)  - 현재 블럭설정된 단어 찾기
+Ctrl + H : 검색 다이얼로그(메서드, 타입, 패키지 등 검색 가능)
+Tab : 들여쓰기 (Shift + Tab : 내어쓰기)
+
+Ctrl + Shift + R : 리소스 찾기
+Ctrl + Shift  + Space : 메서드의 괄호안에서 누르면 파라미터 타입 볼 수 있음.
+Ctrl + 1 : 에러난 곳(빨간 줄 표시)에서 누르면 레이어로 해결방법이 나옴.
+F3 : 해당 메서드나 클래스가 정의된 곳으로 이동
+
+Ctrl + Shift + L : 단축키 리스트
+Alt + Shift + X, R : Run on Server
+F11 or Ctrl + F11 : 최근 실행한 Run 실행
+
+#### - 참고 
+- https://blog.outsider.ne.kr/243

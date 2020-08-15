@@ -18,7 +18,7 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87558442-12537280-c6f4-11ea-8acc-91451a4199ed.png)
 
 #### 코드
->  
+>  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
 
 ***
 ### - 2581 소수 문제
