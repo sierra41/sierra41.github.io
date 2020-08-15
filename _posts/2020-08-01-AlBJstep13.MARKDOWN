@@ -31,8 +31,8 @@ toc_label: 목차
 ### - 10870 피보나치 수 5
 ![image](https://user-images.githubusercontent.com/66898243/88813963-7eee6700-d1f4-11ea-86bc-5de6ffeeaf4c.png)
 
-#### 코드
-> 
+> ![image](https://user-images.githubusercontent.com/66898243/90314444-c55ef800-df4e-11ea-8fa7-c55ac9a2db4b.png)
+
 
 ***
 ### - 2447 별찍기 - 10 (별찍기 11과 비슷 https://www.youtube.com/watch?v=WjmEVp-Lgns 참고하기)
