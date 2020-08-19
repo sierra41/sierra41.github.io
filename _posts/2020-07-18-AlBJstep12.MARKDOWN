@@ -41,8 +41,8 @@ toc_label: 목차
 ### - 4948 베르트랑 공준 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 코드
->  
+#### 코드1. 컴파일에러
+>  ![image](https://user-images.githubusercontent.com/66898243/90650093-69f67800-e276-11ea-82df-8a4d5699e53b.png)
 
 ***
 ### - 9020 골드하브의 추측 문제
