@@ -65,13 +65,14 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87559219-f8665f80-c6f4-11ea-8c88-f16a63847960.png)
 
 #### 코드
->  
+>  ![image](https://user-images.githubusercontent.com/66898243/91661050-9468f080-eb14-11ea-8892-b4d79fde1e83.png)
+
 ***
 ### - 2775 부녀회장이 될테야 문제
 ![image](https://user-images.githubusercontent.com/66898243/87559328-1fbd2c80-c6f5-11ea-9688-4e1173f488fa.png)
 
 #### 코드
->  ![image](https://user-images.githubusercontent.com/66898243/91661050-9468f080-eb14-11ea-8892-b4d79fde1e83.png)
+> ![image](https://user-images.githubusercontent.com/66898243/111906749-8b7e4300-8a95-11eb-92fa-21b65b44c93a.png)
 
 ***
 ### - 1011 Fly me to the Alpha Centauri 문제
