@@ -78,7 +78,8 @@ toc_label: 목차
 ### - 1011 Fly me to the Alpha Centauri 문제
 ![image](https://user-images.githubusercontent.com/66898243/87559535-61e66e00-c6f5-11ea-9aae-2f42f56ac02a.png)
 
-#### 코드
->  
+#### 코드1 시간초과
+>  ![image](https://user-images.githubusercontent.com/66898243/112009155-7e328880-8b69-11eb-9177-935a144d1f03.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
