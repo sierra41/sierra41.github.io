@@ -72,7 +72,7 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/87559328-1fbd2c80-c6f5-11ea-9688-4e1173f488fa.png)
 
 #### 코드
-> ![image](https://user-images.githubusercontent.com/66898243/111906749-8b7e4300-8a95-11eb-92fa-21b65b44c93a.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/111906749-8b7e4300-8a95-11eb-92fa-21b65b44c93a.png) 
 
 ***
 ### - 1011 Fly me to the Alpha Centauri 문제
