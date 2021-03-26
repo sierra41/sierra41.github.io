@@ -1,0 +1,48 @@
+---
+layout: single
+title: "Android 개발공부 - APK"
+read_time: true
+
+categories: 
+ - Android
+tags: 
+ - Android
+ - APK
+last_modified_at: '2021-03-27 21:55:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+## APK(Android Package) 란?
+안드로이드 앱을 설치하는 역할을 하는 안드로이드 앱 확장자.    
+간단히 말하면 안드로이드 기기에 어플리케이션을 설치 할 수 있도록하는 포맷 형태로    
+인증을 위한 서명(Sign)이  포함되어있으며 압축형식(jar, zip 등)으로 되어 있다.   
+     
+     
+### 1. APK의 구조   
+**META-INF** : 인증에 필요한 서명(Sign) 정보가 담긴 디렉토리.   
+**assets** : 앱 실행에 필요한 대용량 자원(동영상 등)들이 저장되는 디렉토리로 하위 디렉토리를 유지할 수 있다. 컴파일되지 않고 원시형태(raw)그대로 패키징   
+**res** : 앱 실행에 필요한 저용량 자원들이 저장되는 디렉토리로 하위 디렉토리를 가질 수 없다. 빌드시 각 고유 리소스 ID가 부여되며 컴파일.   
+**lib** : 라이브러리 파일(*.so)이 저장되는 디렉토리.    
+**AndroidManifest.xml** : 앱의 패키지명, 버전과 같은 정보가 기록되어 있는 xml파일   
+**class.dex** : *.class 파일을 바이트코드로 변환시켜 *.dex 파일로 바꾼 소스파일    
+**resources.arsc** : res의 정보가 담긴 리소스 배열.   
+    
+     
+### 2. APK의 생성
+*.class 파일을 안드로이드 가상 머신 달빅Dalvik이 인식할 수 있는 *.dex 파일로 변환   
+ ![image](https://user-images.githubusercontent.com/66898243/112721369-bf021700-8f46-11eb-8afc-3bb9fa17ee1d.png)
+     
+      
+### 3. APK의 앱 설치
+apk 파일이 압축 해제   
+⇒ *.dex 파일이 달빅(Dalvik) 가상 머신에서 동작
+   
+   
+
+   
+## 참고 목록
+- [developer.android.com](https://developer.android.com/google/play/expansion-files#Overview)
+- [APK란? 그 구조는?](https://m.blog.naver.com/PostView.nhn?blogId=ilikebigmac&logNo=221466806806&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [[안드로이드] Resources 개요](https://ecogeo.tistory.com/274)
