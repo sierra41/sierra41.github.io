@@ -1,0 +1,70 @@
+---
+layout: single
+title: "Android 개발공부 - 생명주기"
+read_time: true
+
+categories: 
+ - Android
+tags: 
+ - Android
+last_modified_at: '2021-03-29 20:55:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+# Android 생명 주기   
+> 유투브는 사용자가 다른 앱을 키거나 전화를 받으면 자동으로 일시정지 되고, 네트워크 연결을 종료시킬 수 있다.    
+> 그리고 사용자가 앱으로 돌아갔을 때 다시 네트워크를 연결하고 일시중지한 시점에서 실행할 수 있도록 준비한다.    
+> 이렇게 화면의 전환을 안정적으로 처리하려면 어떻게 해야할까?       
+![image](https://user-images.githubusercontent.com/66898243/112962435-5783db80-9181-11eb-963d-b3147681477e.png)
+
+## 1. Android 활동 생명 주기의 개념   
+사용자는 앱을 사용하면서 시스템을 실행하거나 중지하거나 일시중지하는 등 상태를 계속해서 전환하는데,    
+활동이 실행되고 소멸되기까지의 주기를 활동 생명 주기라고 한다.   
+
+### 액티비티 (Activity)
+**액티비티 (Activity) 클래스**에서는 시스템이 활동을 생성, 중단, 재시작, 활동있는 프로세스 종료 등을 알아차릴 수 있는 여러가지 **콜백**을 제공하는데   
+Android 활동 생명 주기의 각 상태 전환마다 적절한 콜백을 구현하게 되면, 앱에서 상태의 변화가 안정적으로 이루어지고 사용자가 앱을 편리하게 사용할 수 있다.       
+
+### 수명 주기 콜백이 잘 구현되지 않을 경우   
+ - 앱 사용 도중 전화가 오거나 다른 앱이 전환되면 비정상 종료되는 문제   
+ - 앱을 활발하게 사용하지 않을 때에도 시스템 리소스가 소비되는 문제   
+ - 앱을 잠시 나갔다가 돌아왔을 때 진행 상태가 저장되지 않는 문제   
+ - 화면이 가로/세로 방향 회전 될 때 앱이 종료되거나 진행상태가 저장되지 않는 문제        
+
+## 2. Android 생명 주기 콜백    
+
+### onCreate()   
+시스템이 활동을 생성할 때 실행되는 필수 콜백   
+전체 활동생명주기 동안 한 번만 발생.   
+'생성됨' 상태에 머무르지 않는다. 메소드가 실행이 완료되면 '시작됨' 상태가 되고 onStart()나 onResume() 메소드를 호출한다.   
+이전 저장 상태가 포함 된 Bundle (savedInstanceState 매개변수) 객체를 수신한다. 처음 생성이면 Bundle 값은 null   
+
+### onCreate()       
+활동이 '시작됨' 상태에서 호출되는 콜백   
+'시작됨'상태로 전환하면 연결된 모든 수명주기인식 구성요소는 ON_START 이벤트를 수진   
+활동이 사용자에게 표시되고 앱은 활동을 포그라운드에 보내 상호작용을 준비한다   
+'시작됨' 상태에 머무르지 않는다. 메소드가 실행이 완료되면 활동이 '재개됨' 상태에 들어가고 onResume() 메소드를 호출한다.          
+
+### onResume()   
+-- 하단 추가
+
+### onPause()   
+
+
+### onStop()   
+
+
+### onDestroy()   
+
+
+
+
+
+
+## 참고 목록
+[활동 수명 주기에 관한 이해](https://developer.android.com/guide/components/activities/activity-lifecycle?hl=ko)   
+[Android 액티비티 생명주기](https://medium.com/@nsh235482/android-%EC%95%A1%ED%8B%B0%EB%B9%84%ED%8B%B0-%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0-893c872c72ae)   
+[애플리케이션 수명 주기](https://developer.android.com/guide/components/activities/process-lifecycle?hl=ko)   
+[안드로이드 액티비티 생명주기(Life Cycle)](https://brunch.co.kr/@mystoryg/80)  
