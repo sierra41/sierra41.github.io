@@ -12,7 +12,9 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
----## 안드로이드 계층 구조
+---
+
+## 안드로이드 계층 구조
 ![image](https://user-images.githubusercontent.com/66898243/113152750-66e25200-9271-11eb-876e-f4190ca0ac17.png)
 [System APP 계층]   
 [JAVA API Framework 계층]    
