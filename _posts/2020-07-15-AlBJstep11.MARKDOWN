@@ -81,5 +81,8 @@ toc_label: 목차
 #### 코드1 시간초과
 >  ![image](https://user-images.githubusercontent.com/66898243/112009155-7e328880-8b69-11eb-9177-935a144d1f03.png)
 
+#### 코드 264ms
+>  ![image](https://user-images.githubusercontent.com/66898243/113305713-4633fe00-933e-11eb-818c-fa96e6cfea84.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
