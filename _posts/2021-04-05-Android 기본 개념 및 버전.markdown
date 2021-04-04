@@ -107,3 +107,4 @@ toc_label: 목차
 [minSdkVersion, targetSdkVersion 이란 무엇인가](https://dreamaz.tistory.com/78)
 [안드로이드 SDK](https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ko)
 [compileSdkVersion, targetSdkVersion 등 SDK 버전 설정 이해하기](https://duzi077.tistory.com/141)
+[안드로이드 개념](https://kairo96.gitbooks.io/android/content/ch1.1.html)
