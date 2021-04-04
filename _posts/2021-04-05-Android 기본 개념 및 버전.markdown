@@ -1,0 +1,143 @@
+---
+layout: single
+title: "Android 개발공부 - 기본 개념 및 버전 선택.markdown"
+read_time: true
+
+categories: 
+ - Android
+tags: 
+ - Android
+last_modified_at: '2021-04-02 20:55:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+## Android 개발 언어 및 개념
+
+안드로이드는 휴대폰과 같은 다양한 소형기기에서 사용가능한 모바일 플랫폼이다.   
+
+현재 아이폰과 더불어 전세계 사람들이 이용 중이며 운영체제, 미들웨어, 기본 앱 등을 포함한 완전한 소프트웨어 스택이라고 할 수 있다.  
+
+또한 완전하게 개방적이고 무료인 플랫폼으로, 커널부터 개발을 도와주는 다양한 Tool(SDK, AVD)과 API까지 전부 무료로 제공하고 있어    
+개인도 쉽게 개발이 가능하고 오픈소스인 만큼 다양한 기기에서 지원되고 점유율 또한 현재 85%(ios : 14%)가 넘고 있다.   
+
+## Android 버전
+
+현재(2021년 4월)  버전 11.0 (개발자용 베타버전) 까지  출시되어 있다.    
+
+
+
+### **2021년 기준 점유율**   
+
+![image](https://user-images.githubusercontent.com/66898243/113575048-40009300-9658-11eb-8bb0-954d63ac0068.png)   
+
+
+### **버전별 API**
+
+![image](https://user-images.githubusercontent.com/66898243/113575078-4b53be80-9658-11eb-900d-7ef7a52d6e85.png)
+
+
+
+### **주요버전 설명**   
+
+**4.4: 킷캣 (KitKat)**   
+
+2013년 10월 31일 공개.   
+갤럭시 S5에 탑재.     
+2021년 4월부터 카카오톡 최신버전 지원 중단     
+
+**5.0/ 5.1: 롤리팝 (Lollipop)**     
+2014년 10월 16일 공개.   
+
+갤럭시 S6에 탑재되었으며 2021 기준 안드로이드 최소 요구 버전에 가깝다.    
+
+2021년 4월부터 카카오톡 최신버전 지원 중단    
+
+**6.0/ 6.0.1: 마시멜로 (Marshmallow)**    
+
+2015년 10월 6일 공개.    
+
+갤럭시 S7에 탑재.    
+
+2020년 8월 기준 점유율은 11.2%    
+
+**7.0/ 7.1: 누가 (Nougat)**    
+
+2016년 8월 23일 공개.    
+
+갤럭시 S8에 탑재.    
+
+2020년 8월 기준으로 7.0 - 7.5%, 7.1 - 5.4% 합쳐서 12.9%    
+
+
+
+### 버전 선택에 대한 고민     
+
+2021년 기준으로 최소 버전을 5-롤리팝이나 6-마시멜로로 한다 점유율면에서 대부분 접근이 가능할 것 같다.    
+
+다만 현재 목표로 하는 앱의 주 타겟층이 상당히 젊은 2030 층이기 때문에 최신 기기를 많이 사용할 것으로 예상되고,     
+향후 버전업의 어려움도 감안하면 6-마시멜로나 7-누가까지도 고려해보는 것이 좋을 것 같다.
+
+### SDK 버전의 상위호환, 하위호환 설정    
+
+**상위호환 :** 이전 버전이 상위 기기에서 실행이 잘 되도록 지원하는 설정.    
+
+예시) 갤럭시 S20 기기에서  터치로 확대-축소 기능이 나왔는데, 이 기능이 예전 버전에서 작동하면 지원이 되는 것.    
+
+**하위호환 :**이전 버전에서 만든 입력값, 기능을 처리할 수 있다면 하위 호환이 되는 것    
+
+
+
+- compileSdkVersion
+
+    Gradle에 어떤 SDK 버전으로 컴파일 할 것인지 지정한다.    
+
+    지원가능한 가장 높은 API 버전을 의미한다.        
+
+    가능한 한 현재 버전 중에서 가장 최신 버전의 SDK로 지정하는 것이 좋다.        
+
+    런타임 동안에는 영향을 미치지 않고 컴파일에만 적용된다.    
+
+    import로 참조되는 클래스나 메소드는 여기에 해당되는 버전에서 찾는다.    
+
+- minSdkVersion        
+
+    애플리 케이션에 설치될 수 있는 최소 API 레벨을 지정한다.        
+
+    지정된 API 레벨보다 낮은 레벨에서는 작동하지 않고 높은 레벨에서는 호환성위험이 있다.        
+
+    최소 지원 SDK를 정하고 해당 SDK가 지원하는 API 버전을 입력하면 호환성 모드가 활성화 된다.    
+
+    Support Library나 Google Play Service에서 자체 최소 버전을 가지는데 이 중에서 가장 높은 버전을 선택하는 것이 좋다.    
+
+- targetSdkVersion        
+
+    minSdkVersion에서 지정한 버전 이상에서 지원하는 특정 기능을 사용하고자 할 때 사용한다.    
+
+    실제 컴파일에는 관여하지 않고 빌드시 버전을 낮춰도 메소드에 컴파일 할 수 있다.    
+
+    지정한 버전까지 앱을 테스트 했음을 의미한다. (해당 앱의 상위호환성을 의미)    
+
+**세 버전 관계**    
+
+> minSdkVersion <= targetSdkVersion <= compileSdkVersion    
+**안정성**    
+
+> minSdkVersion <= targetSdkVersion == compileSdkVersion    
+    
+
+
+## 참고
+
+[안드로이드 버전 대시보드](https://developer.android.com/about/dashboards?hl=ko)
+
+[21년도 안드로이드 버전 현황](https://soo0100.tistory.com/1431)
+
+[초이스토리](https://choistory20.tistory.com/2)
+
+[minSdkVersion, targetSdkVersion 이란 무엇인가](https://dreamaz.tistory.com/78)
+
+[안드로이드 SDK](https://developer.android.com/guide/topics/manifest/uses-sdk-element?hl=ko)
+
+[compileSdkVersion, targetSdkVersion 등 SDK 버전 설정 이해하기](https://duzi077.tistory.com/141)
