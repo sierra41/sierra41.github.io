@@ -1,0 +1,82 @@
+---
+layout: single
+title: "[Algorithm] 시간복잡도.markdown"
+read_time: true
+
+categories: 
+ - Android
+tags: 
+ - Android
+last_modified_at: '2021-04-06 20:55:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+
+---
+
+##시간복잡도
+문제를 해결하는데 걸리는 시간과 입력의 함수 관계.   
+**알고리즘의 시간복잡도**    
+ ⇒ 입력하는 자료의 양과 알고리즘 실행에 걸리는 시간사이의 관계   
+
+알고리즘 성능을 판단하는데 있어 중요한 것은 최악의 경우를 찾는 것.    
+(못해도 이 정도의 성능을  보장한다는 의미)   
+
+1부터 N 까지의 합을 구한다고 할 때
+
+```java
+// 1번 
+int n, sum = 0;
+for (int i = 1; i <= n;, i++) {
+    sum += i;
+}
+System.out.println(sum);
+// 2번
+int n, sum = 0;
+sum = n*(n+1)/2;
+System.out.println(sum);
+```
+
+여기서 첫번째 코드는 반복문안에서만 최소 n번의 연산이 필요한 반면에   
+두번째코드는 n의 크기와 관계없이 한번의 연산만 한다.       
+⇒ 이는 첫번째 코드보다 두번째 코드가 더 작은 시간복잡도를 가지고 있고 효율적이라는 의미.   
+
+### 시간복잡도의 종류   
+Θ 표기법은 계산하는 것이 이상적이지만 계산이 복잡하다.    
+Big O표기법은 최대 차항만 계수없이 표기하면 되기 때문에 간편하여 자주 사용한다.      
+![image](https://user-images.githubusercontent.com/66898243/113701898-b7dfc380-9713-11eb-8d8c-79910620b359.png)
+
+- Big O 표기법   
+(Asymptotic Upper Bound) 점근적 상한   
+f(n)이 n0보다 크거나 같은 모든 n에서 0 이상이고 cg(n) 이하이면, O(g(n)) = f(n)   
+
+- Ω 표기법   
+(Asymptotic Lower Bound) 점근적 하한    
+f(n)이 n0보다 크거나 같은 모든 n에서 0 이상이고 cg(n) 이상이면,Ω(g(n)) = f(n)   
+
+- Θ 표기법   
+(Asymptotically Tight Bound) 점근적 상한과 하한의 교집합    
+f(n)이 n0보다 크거나 같은 모든 n에서 0 이상이고 c1g(n) 이상 c2g(n) 이하이면, Θ(g(n)) = f(n)   
+
+### Big O의 시간복잡도 표기법
+> O(1) < O(logn) < O(n) < O(n*logn) < O(n²) < O(n³) < O(2n) < O(n!)    
+    
+|<center> O(1) </center> | <center> 상수 형태. n의 값에 상관없이 일정한 양의 계산만 한다. </center>|   
+|<center> O(logn) </center> | <center> 로그 형태 </center>|   
+|<center> O(n) </center> | <center> 선형 </center>|   
+|<center> O(n*logn) </center> | <center> 선형로그 </center>|   
+|<center> O(n²) </center> | <center> 다차 형태 </center> |   
+|<center> O(n³) </center> | <center> 지수 형태 </center> |   
+|<center> O(2n) </center> | <center> 팩토리얼 형태 </center> |   
+
+위에서 아래로 내려올수록 시간복잡도가 높고 느려진다.   
+
+> (추가 예정)
+    
+
+## 참고
+[구하는 법 + 코딩 팁](https://mimimimamimimo.tistory.com/2)   
+[시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
+[시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
+[알고리즘 공부 시작 방법 및 순서](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)   
+[0x01강 - 기초 코드 작성 요령 I](https://blog.encrypted.gg/922)   
