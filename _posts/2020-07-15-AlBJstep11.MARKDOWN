@@ -81,8 +81,8 @@ toc_label: 목차
 #### 코드1 BigInteger 사용 268 ms
 >  ![image](https://user-images.githubusercontent.com/66898243/117995747-885c5080-b37c-11eb-8246-ab26f10c652e.png)
 
-#### 코드2
->  
+#### 코드2 BufferedReader + 직접구현
+>  ![image](https://user-images.githubusercontent.com/66898243/118144062-fa00d100-b446-11eb-9252-3dc900ac818d.png)'
 
 ***
 ### - 1011 Fly me to the Alpha Centauri 문제
