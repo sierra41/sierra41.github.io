@@ -69,11 +69,11 @@ toc_label: 목차
 >  
 
 ***
-### - 3009 네 번째 점 문제
-![image](https://user-images.githubusercontent.com/66898243/87559328-1fbd2c80-c6f5-11ea-9688-4e1173f488fa.png)
+### - 3009 네 번째 점 문제 (21/05/16)
+![image](https://user-images.githubusercontent.com/66898243/118397080-50f7e780-b68d-11eb-9096-8ae288e466f6.png)
 
-#### 코드
->  
+#### 코드 148ms
+>  ![image](https://user-images.githubusercontent.com/66898243/118398406-6b34c400-b693-11eb-8359-8fe29540881e.png)
 
 ***
 ### - 4153 직각삼각형 문제
