@@ -76,11 +76,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/118398406-6b34c400-b693-11eb-8359-8fe29540881e.png)
 
 ***
-### - 4153 직각삼각형 문제
-![image](https://user-images.githubusercontent.com/66898243/87559535-61e66e00-c6f5-11ea-9aae-2f42f56ac02a.png)
+### - 4153 직각삼각형 문제 (21/05/17)
+![image](https://user-images.githubusercontent.com/66898243/118492365-e7dea580-b75a-11eb-982f-5d6c4188995e.png)
 
-#### 코드
->  
+#### 코드148ms
+>  ![image](https://user-images.githubusercontent.com/66898243/118492294-d7c6c600-b75a-11eb-9b16-8f2acb8a262c.png)
 
 ***
 ### - 3053 택시 기하학 문제
