@@ -17,83 +17,72 @@ toc_label: 목차
 ### - 1978 소수 찾기 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558442-12537280-c6f4-11ea-8acc-91451a4199ed.png)
 
-#### 코드
+#### 1978 풀이 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
-
 ***
 ### - 2581 소수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558524-27c89c80-c6f4-11ea-9ff0-460c567801bd.png)
 
-### 코드
+#### 2581 풀이 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
-
 *** 
 ### - 11653 소인수분해
 ![image](https://user-images.githubusercontent.com/66898243/117808469-e2371a80-b297-11eb-8e17-f5fce3639bde.png)
 
-#### 코드1 BufferedReader/Scanner 사용 168ms
+#### 11653 풀이 코드1 BufferedReader/Scanner 사용 168ms
 > ![image](https://user-images.githubusercontent.com/66898243/117813096-a2733180-b29d-11eb-856a-4f1a906725b8.png)
-#### 코드2 BufferedReader/StringBuilder 사용 168ms(같음..)
+#### 11653 풀이 코드2 BufferedReader/StringBuilder 사용 168ms(같음..)
 > ![image](https://user-images.githubusercontent.com/66898243/117813373-f847d980-b29d-11eb-83e1-1495b605c0ec.png)
-
 ***
 ### - 1929 소수구하기 문제
 ![image](https://user-images.githubusercontent.com/66898243/118285303-45c97e00-b50c-11eb-8dc6-b2eeb7e2fc77.png)
 
-#### 코드1. 이중for문사용 시간초과
+#### 1929 풀이 코드1. 이중for문사용 시간초과
 >  ![image](https://user-images.githubusercontent.com/66898243/118287515-7ad6d000-b50e-11eb-863c-1295fd8e5d1c.png)
-
-#### 코드2. [에라토스테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4) 사용 336ms
+#### 1929 풀이 코드2. [에라토스테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4) 사용 336ms
 >  ![image](https://user-images.githubusercontent.com/66898243/118364453-70323e80-b5d3-11eb-998b-fd06495d20e5.png)
-
-
 ***
 ### - 4948 베르트랑 공준 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 코드1. 컴파일에러
+#### 4948 풀이 코드1. 컴파일에러
 >  ![image](https://user-images.githubusercontent.com/66898243/90650093-69f67800-e276-11ea-82df-8a4d5699e53b.png)
-
 ***
 ### - 9020 골드하브의 추측 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
 
-#### 코드
+#### 9020 풀이 코드
 >  
-
 ***
-### - 1085 직사각형에서 탈출 문제  (21/05/18)
+### - 1085 직사각형에서 탈출 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118651768-d9f35800-b820-11eb-9e65-f07965466e89.png)
 
-#### 코드 136ms
+#### 1085 풀이 코드 136ms  (21/05/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/118653754-d19c1c80-b822-11eb-9618-42792372f67f.png)
-
 ***
-### - 3009 네 번째 점 문제 (21/05/16)
+### - 3009 네 번째 점 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118397080-50f7e780-b68d-11eb-9096-8ae288e466f6.png)
 
-#### 코드 148ms
+#### 3009 풀이 코드 148ms (21/05/16)
 >  ![image](https://user-images.githubusercontent.com/66898243/118398406-6b34c400-b693-11eb-8359-8fe29540881e.png)
-
 ***
-### - 4153 직각삼각형 문제 (21/05/17)
+### - 4153 직각삼각형 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118492365-e7dea580-b75a-11eb-982f-5d6c4188995e.png)
 
-#### 코드148ms
+#### 4153 풀이 코드148ms (21/05/17)
 >  ![image](https://user-images.githubusercontent.com/66898243/118492294-d7c6c600-b75a-11eb-9b16-8f2acb8a262c.png)
-
 ***
 ### - 3053 택시 기하학 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 코드
+#### 3053 풀이 코드
 > 
-
 ***
 ### - 1002 터렛 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 코드
+#### 1002 풀이 코드
 > 
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
