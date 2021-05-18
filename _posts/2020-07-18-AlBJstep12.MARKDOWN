@@ -62,11 +62,11 @@ toc_label: 목차
 >  
 
 ***
-### - 1085 직사각형에서 탈출 문제
-![image](https://user-images.githubusercontent.com/66898243/87559219-f8665f80-c6f4-11ea-8c88-f16a63847960.png)
+### - 1085 직사각형에서 탈출 문제  (21/05/18)
+![image](https://user-images.githubusercontent.com/66898243/118651768-d9f35800-b820-11eb-9e65-f07965466e89.png)
 
-#### 코드
->  
+#### 코드 136ms
+>  ![image](https://user-images.githubusercontent.com/66898243/118653754-d19c1c80-b822-11eb-9618-42792372f67f.png)
 
 ***
 ### - 3009 네 번째 점 문제 (21/05/16)
