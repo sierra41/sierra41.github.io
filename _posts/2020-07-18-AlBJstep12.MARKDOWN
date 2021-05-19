@@ -57,8 +57,12 @@ toc_label: 목차
 ### - 1085 직사각형에서 탈출 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118651768-d9f35800-b820-11eb-9e65-f07965466e89.png)
 
-#### 1085 풀이 코드 136ms  (21/05/18)
+#### 1085 풀이 코드1 136ms  (21/05/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/118653754-d19c1c80-b822-11eb-9618-42792372f67f.png)
+
+#### 1085 풀이 코드2 Math 사용 148ms (21/05/19)
+>  ![image](https://user-images.githubusercontent.com/66898243/118821360-222e7b00-b8f2-11eb-9fd9-e0841a02f929.png)
+
 ***
 ### - 3009 네 번째 점 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118397080-50f7e780-b68d-11eb-9096-8ae288e466f6.png)
