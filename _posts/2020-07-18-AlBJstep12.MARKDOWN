@@ -51,11 +51,15 @@ toc_label: 목차
 #### 4948 풀이 코드2. n까지 나누기. 시간초과 (21/05/20)
 >  ![image](https://user-images.githubusercontent.com/66898243/118999376-2ecfd380-b9c5-11eb-98bf-a7ee5d6fde16.png)
 
-#### 4948 풀이 코드3. n/2까지 나누기. 시간초과
+#### 4948 풀이 코드3. n/2까지 나누기. 시간초과 (21/05/20)
 >  ![image](https://user-images.githubusercontent.com/66898243/118999700-75bdc900-b9c5-11eb-91a6-8dfc2816c083.png)
 
-#### 4948 풀이 코드4.
-> 
+#### 4948 풀이 코드4. √N까지 나머지 찾기 시간초과 (21/05/21)
+>  ![image](https://user-images.githubusercontent.com/66898243/119152302-280b9400-ba8b-11eb-81c9-77f9525f6794.png)
+
+#### 4948 풀이 코드5. Math.sqrt() 사용. scanner 사용.820ms (21/05/21)
+>  ![image](https://user-images.githubusercontent.com/66898243/119156386-280d9300-ba8f-11eb-9687-21c8f8254f55.png)
+
 ***
 ### - 9020 골드하브의 추측 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
