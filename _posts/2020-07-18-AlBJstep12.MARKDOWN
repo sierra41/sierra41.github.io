@@ -21,10 +21,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
 ***
 ### - 2581 소수 문제
-![image](https://user-images.githubusercontent.com/66898243/87558524-27c89c80-c6f4-11ea-9ff0-460c567801bd.png)
+![image](https://user-images.githubusercontent.com/66898243/119229531-68cee000-bb53-11eb-8934-4732a29b0ae0.png)
 
-#### 2581 풀이 코드
->  ![image](https://user-images.githubusercontent.com/66898243/89734669-7cafc680-da98-11ea-9018-f030b7c19bfc.png)
+#### 2581 풀이 코드1 (21/05/22)
+>  ![image](https://user-images.githubusercontent.com/66898243/119230739-82265b00-bb58-11eb-8da2-2f96dde715ed.png)
+
 *** 
 ### - 11653 소인수분해
 ![image](https://user-images.githubusercontent.com/66898243/117808469-e2371a80-b297-11eb-8e17-f5fce3639bde.png)
