@@ -24,7 +24,9 @@ toc_label: 목차
 
 #### 2231 풀이 코드
 >
+
 ### - 7568 덩치
+![image](https://user-images.githubusercontent.com/66898243/119849403-8e8b2900-bf47-11eb-9fb4-04c3e891f483.png)
 
 #### 7568 풀이 코드
 >  
