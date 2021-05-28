@@ -36,16 +36,20 @@ toc_label: 목차
 
 #### 11653 풀이 코드1 BufferedReader/Scanner 사용 168ms
 > ![image](https://user-images.githubusercontent.com/66898243/117813096-a2733180-b29d-11eb-856a-4f1a906725b8.png)
+
 #### 11653 풀이 코드2 BufferedReader/StringBuilder 사용 168ms(같음..)
 > ![image](https://user-images.githubusercontent.com/66898243/117813373-f847d980-b29d-11eb-83e1-1495b605c0ec.png)
+
 ***
 ### - 1929 소수구하기 문제
 ![image](https://user-images.githubusercontent.com/66898243/118285303-45c97e00-b50c-11eb-8dc6-b2eeb7e2fc77.png)
 
 #### 1929 풀이 코드1. 이중for문사용 시간초과
 >  ![image](https://user-images.githubusercontent.com/66898243/118287515-7ad6d000-b50e-11eb-863c-1295fd8e5d1c.png)
+
 #### 1929 풀이 코드2. [에라토스테네스의 체](https://ko.wikipedia.org/wiki/%EC%97%90%EB%9D%BC%ED%86%A0%EC%8A%A4%ED%85%8C%EB%84%A4%EC%8A%A4%EC%9D%98_%EC%B2%B4) 사용 336ms
 >  ![image](https://user-images.githubusercontent.com/66898243/118364453-70323e80-b5d3-11eb-998b-fd06495d20e5.png)
+
 ***
 ### - 4948 베르트랑 공준 문제
 ![image](https://user-images.githubusercontent.com/66898243/118990872-393a9f00-b9be-11eb-82bb-3071e7aa5cb5.png)
@@ -101,8 +105,9 @@ toc_label: 목차
 ### - 3053 택시 기하학 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
 
-#### 3053 풀이 코드
-> 
+#### 3053 풀이 코드 128ms 
+> ![image](https://user-images.githubusercontent.com/66898243/119999442-b85a5380-c00c-11eb-89f9-16d1ae0c5006.png)
+
 ***
 ### - 1002 터렛 문제
 ![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
