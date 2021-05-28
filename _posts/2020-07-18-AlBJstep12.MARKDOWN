@@ -103,9 +103,9 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/118492294-d7c6c600-b75a-11eb-9b16-8f2acb8a262c.png)
 ***
 ### - 3053 택시 기하학 문제
-![image](https://user-images.githubusercontent.com/66898243/87558751-6b230b00-c6f4-11ea-982a-bf34c1a5f5e2.png)
+![image](https://user-images.githubusercontent.com/66898243/119999699-f9eafe80-c00c-11eb-9e51-c9f8f9f671fb.png)
 
-#### 3053 풀이 코드 128ms 
+#### 3053 풀이 코드 128ms (21/05/28)
 > ![image](https://user-images.githubusercontent.com/66898243/119999442-b85a5380-c00c-11eb-89f9-16d1ae0c5006.png)
 
 ***
