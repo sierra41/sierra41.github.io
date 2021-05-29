@@ -17,8 +17,9 @@ toc_label: 목차
 ### - 2798 블랙잭
 ![image](https://user-images.githubusercontent.com/66898243/119677586-cf1c7100-be79-11eb-9e2f-033704327c7e.png)
 
-#### 2798 풀이 코드
->  
+#### 2798 풀이 코드1 132ms 3중 for문 사용 (21/05/29)
+>  ![image](https://user-images.githubusercontent.com/66898243/120074713-16ed0380-c0d9-11eb-9cd2-8fad9e7e90d8.png)
+
 ### - 2231 분해합
 ![image](https://user-images.githubusercontent.com/66898243/119849261-72878780-bf47-11eb-89af-6d88155f9169.png)
 
