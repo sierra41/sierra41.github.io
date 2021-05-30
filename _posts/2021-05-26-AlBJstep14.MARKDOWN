@@ -23,8 +23,8 @@ toc_label: 목차
 ### - 2231 분해합
 ![image](https://user-images.githubusercontent.com/66898243/119849261-72878780-bf47-11eb-89af-6d88155f9169.png)
 
-#### 2231 풀이 코드
->
+#### 2231 풀이 코드1 140 (21/05/30) 
+> ![image](https://user-images.githubusercontent.com/66898243/120108636-0902b580-c1a1-11eb-9a1c-cf1472c6152b.png)
 
 ### - 7568 덩치
 ![image](https://user-images.githubusercontent.com/66898243/119849403-8e8b2900-bf47-11eb-9fb4-04c3e891f483.png)
