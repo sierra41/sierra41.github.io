@@ -50,5 +50,8 @@ toc_label: 목차
 #### 1436 풀이 코드1 시간초과 실패 (21/06/02)
 > ![image](https://user-images.githubusercontent.com/66898243/120503296-24b6c780-c3fe-11eb-8988-66c43faf2456.png)
 
+#### 1436 풀이 코드2 실패 (21/06/03)
+> ![image](https://user-images.githubusercontent.com/66898243/120664901-47acae80-c4c6-11eb-8489-e83e3c60a87e.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
