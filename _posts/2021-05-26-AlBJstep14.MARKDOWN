@@ -53,5 +53,8 @@ toc_label: 목차
 #### 1436 풀이 코드2 실패 (21/06/03)
 > ![image](https://user-images.githubusercontent.com/66898243/120664901-47acae80-c4c6-11eb-8489-e83e3c60a87e.png)
 
+#### 1436 풀이 코드3 300ms (21/06/03)
+> ![image](https://user-images.githubusercontent.com/66898243/120665144-7b87d400-c4c6-11eb-9ec1-217cc83dc214.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
