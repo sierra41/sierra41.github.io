@@ -41,8 +41,8 @@ toc_label: 목차
 ### - 1018 체스판 다시 칠하기
 ![image](https://user-images.githubusercontent.com/66898243/119849553-afec1500-bf47-11eb-8081-0cb311fde2a8.png)
 
-#### 1018 풀이 코드
->
+#### 1018 풀이코드1 컴파일에러 (21/06/04)
+> ![image](https://user-images.githubusercontent.com/66898243/120818396-8b1e2000-c58d-11eb-9cdc-a93484ebebc4.png)
 
 ### - 1436 영화감독 숌
 ![image](https://user-images.githubusercontent.com/66898243/119849598-b8dce680-bf47-11eb-88d1-03adbec62f38.png)
