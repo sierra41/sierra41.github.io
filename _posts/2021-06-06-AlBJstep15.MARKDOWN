@@ -23,6 +23,9 @@ toc_label: 목차
 #### 2750 풀이 코드2 -Arrays.sort()이용 156ms (21/06/08)
 >  ![image](https://user-images.githubusercontent.com/66898243/121203157-db102600-c8b0-11eb-8a69-10969ff844bb.png)
 
+#### 2750 풀이 코드3 -Counting Sort 방식 이용. 시간복잡도 O(n)로 효율적. 범위가 적고 중복값이 없는 경우 사용. 164ms (21/06/09)
+> ![image](https://user-images.githubusercontent.com/66898243/121377295-2ee84100-c97d-11eb-91bb-070f296696dd.png)
+
 ### - 2751 수 정렬하기2
 
 #### 2751 풀이 코드
