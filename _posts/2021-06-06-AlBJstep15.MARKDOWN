@@ -28,9 +28,12 @@ toc_label: 목차
 
 ### - 2751 수 정렬하기2
 
-#### 2751 풀이 코드1  -Arrays.sort()이용 1712ms (21/06/10)
+#### 2751 풀이 코드1 -Arrays.sort()이용 1712ms (21/06/10)
 > ![image](https://user-images.githubusercontent.com/66898243/121543202-b39d9280-ca43-11eb-9434-08eb164e8956.png)
  
+#### 2750 풀이 코드2 -Counting Sort 방식 이용. 900ms (21/06/11)
+> ![image](https://user-images.githubusercontent.com/66898243/121696665-418e8180-cb07-11eb-97a0-dc4fa6c7fb86.png)
+
 ### - 10989 수 정렬하기3
 
 #### 10989 풀이 코드
