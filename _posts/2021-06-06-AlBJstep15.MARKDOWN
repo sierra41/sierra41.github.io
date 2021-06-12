@@ -34,6 +34,9 @@ toc_label: 목차
 #### 2750 풀이 코드2 -Counting Sort 방식 이용. 900ms (21/06/11)
 > ![image](https://user-images.githubusercontent.com/66898243/121696665-418e8180-cb07-11eb-97a0-dc4fa6c7fb86.png)
 
+#### 2751 풀이 코드3 -Collections.sort()이용 1724ms (21/06/12)
+> ![image](https://user-images.githubusercontent.com/66898243/121779940-11171800-cbd9-11eb-8518-db81f54784c7.png)
+
 ### - 10989 수 정렬하기3
 
 #### 10989 풀이 코드
