@@ -46,6 +46,9 @@ toc_label: 목차
 #### 10989 풀이 코드2 -Arrays.sort()이용 2560ms (21/06/14)
 > ![image](https://user-images.githubusercontent.com/66898243/121909298-bf04fc80-cd68-11eb-845e-ce7519e88864.png)
 
+#### 10989 풀이 코드3 -Counting Sort 사용 1696ms (21/06/15)
+> ![image](https://user-images.githubusercontent.com/66898243/122061360-63e70e80-ce29-11eb-802c-d85eb91c5773.png)
+
 ### - 2108 통계학
 
 #### 2108 풀이 코드
