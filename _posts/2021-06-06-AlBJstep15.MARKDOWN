@@ -53,7 +53,13 @@ toc_label: 목차
 
 #### 2108 풀이 코드
 >
- 
+
+### - 1427 소트인사이드
+![image](https://user-images.githubusercontent.com/66898243/122238309-fe635280-cefa-11eb-9ddc-760aca3a3771.png)
+
+#### 1427 풀이 코드1 - Arrays.sort() : 142ms (21/06/16)
+> ![image](https://user-images.githubusercontent.com/66898243/122238225-edb2dc80-cefa-11eb-8a2c-9418a892dcd1.png)
+
 ### - 11650 좌표 정렬하기
 
 #### 11650 풀이 코드
