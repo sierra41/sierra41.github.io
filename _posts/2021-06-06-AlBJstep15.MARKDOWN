@@ -60,6 +60,9 @@ toc_label: 목차
 #### 1427 풀이 코드1 - Arrays.sort() : 142ms (21/06/16)
 > ![image](https://user-images.githubusercontent.com/66898243/122238225-edb2dc80-cefa-11eb-8a2c-9418a892dcd1.png)
 
+#### 1427 풀이 코드3 -Counting  124ms (21/06/17)
+> ![image](https://user-images.githubusercontent.com/66898243/122418539-3df67100-cfc5-11eb-9ef0-49f6c9e61b3f.png)
+
 ### - 11650 좌표 정렬하기
 
 #### 11650 풀이 코드
