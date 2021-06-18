@@ -64,9 +64,10 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/122418539-3df67100-cfc5-11eb-9ef0-49f6c9e61b3f.png)
 
 ### - 11650 좌표 정렬하기
+![image](https://user-images.githubusercontent.com/66898243/122576237-70b76c80-d08c-11eb-8836-8a6fc22dd6b9.png)
 
-#### 11650 풀이 코드
->
+#### 11650 풀이 코드1 Comparator 이용 836ms (21/06/18)
+> ![image](https://user-images.githubusercontent.com/66898243/122576212-67c69b00-d08c-11eb-9bb6-2ab3626ad553.png)
  
 ### - 11651 좌표 정렬하기2
 
