@@ -73,9 +73,11 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/122645446-93fa1e80-d155-11eb-8eb7-1739023ae9e0.png)
 
 ### - 11651 좌표 정렬하기2
+![image](https://user-images.githubusercontent.com/66898243/122675023-91113380-d212-11eb-9c8e-dc304e664e25.png)
 
-#### 11651 풀이 코드
->
+#### 11651 풀이 코드1 Comparator 이용 744ms (21/06/20)
+> ![image](https://user-images.githubusercontent.com/66898243/122675137-067d0400-d213-11eb-8dd5-fc8af164a0d5.png)
+
  
 ### - 1181 단어정렬
 
