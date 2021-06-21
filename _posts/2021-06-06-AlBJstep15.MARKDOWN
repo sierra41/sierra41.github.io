@@ -78,7 +78,9 @@ toc_label: 목차
 #### 11651 풀이 코드1 Comparator 이용 744ms (21/06/20)
 > ![image](https://user-images.githubusercontent.com/66898243/122675137-067d0400-d213-11eb-8dd5-fc8af164a0d5.png)
 
- 
+#### 11651 풀이 코드2  Arrays.sort 이용 804ms (21/06/21)
+> ![image](https://user-images.githubusercontent.com/66898243/122778205-bb80f080-d2e7-11eb-871e-d23a930284f8.png)
+
 ### - 1181 단어정렬
 
 #### 1181 풀이 코드
