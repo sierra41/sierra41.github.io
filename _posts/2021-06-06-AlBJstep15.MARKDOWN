@@ -69,8 +69,8 @@ toc_label: 목차
 #### 11650 풀이 코드1 Comparator 이용 836ms (21/06/18)
 > ![image](https://user-images.githubusercontent.com/66898243/122576212-67c69b00-d08c-11eb-9bb6-2ab3626ad553.png)
 
-#### 11650 풀이 코드2  Arrays.sort 이용 1340ms (21/06/19)
-> ![image](https://user-images.githubusercontent.com/66898243/122645446-93fa1e80-d155-11eb-8eb7-1739023ae9e0.png)
+#### 11650 풀이 코드2  Arrays.sort 이용 776ms (21/06/19)
+> ![image](https://user-images.githubusercontent.com/66898243/122942062-e2572980-d3b0-11eb-80e6-d6223b9d22e3.png)
 
 ### - 11651 좌표 정렬하기2
 ![image](https://user-images.githubusercontent.com/66898243/122675023-91113380-d212-11eb-9c8e-dc304e664e25.png)
