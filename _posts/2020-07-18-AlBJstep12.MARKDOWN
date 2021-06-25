@@ -33,6 +33,9 @@ toc_label: 목차
 #### 2581 풀이 코드2 120ms (21/06/24)
 >  ![image](https://user-images.githubusercontent.com/66898243/123281864-fcc20c00-d544-11eb-99c6-9097baa4c0b0.png)
 
+#### 2581 풀이 코드3 168ms (21/06/25)
+>  ![image](https://user-images.githubusercontent.com/66898243/123438550-c13e4500-d60b-11eb-9998-b359b07aeb74.png)
+
 *** 
 ### - 11653 소인수분해
 ![image](https://user-images.githubusercontent.com/66898243/117808469-e2371a80-b297-11eb-8e17-f5fce3639bde.png)
