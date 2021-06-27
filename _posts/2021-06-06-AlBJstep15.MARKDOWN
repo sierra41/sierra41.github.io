@@ -82,9 +82,10 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/122778205-bb80f080-d2e7-11eb-871e-d23a930284f8.png)
 
 ### - 1181 단어정렬
+![image](https://user-images.githubusercontent.com/66898243/123549053-55daab80-d7a2-11eb-9c8c-13d58af119bd.png)
 
-#### 1181 풀이 코드
->
+#### 1181 풀이 코드1 Comparator 이용 384ms (21/06/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/123549018-317ecf00-d7a2-11eb-9584-be304256491d.png)
  
 ### - 10814 나이순 정렬
 
