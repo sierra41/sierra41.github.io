@@ -88,9 +88,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/123549018-317ecf00-d7a2-11eb-9584-be304256491d.png)
  
 ### - 10814 나이순 정렬
+![image](https://user-images.githubusercontent.com/66898243/123644525-694c4c00-d860-11eb-921c-fb6c9e331e1e.png)
 
-#### 10814 풀이 코드
->
+#### 10814 풀이 코드 Arrays.sort 이용 827ms (21/06/28)
+> ![image](https://user-images.githubusercontent.com/66898243/123644438-589bd600-d860-11eb-9acc-ac0baf247f04.png)
+
 ### - 18870 좌표 압축
 
 #### 18870 풀이 코드
