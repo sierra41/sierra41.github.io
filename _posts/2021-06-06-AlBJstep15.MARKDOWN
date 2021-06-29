@@ -90,8 +90,11 @@ toc_label: 목차
 ### - 10814 나이순 정렬
 ![image](https://user-images.githubusercontent.com/66898243/123644525-694c4c00-d860-11eb-921c-fb6c9e331e1e.png)
 
-#### 10814 풀이 코드 Arrays.sort 이용 827ms (21/06/28)
+#### 10814 풀이 코드1 Arrays.sort 이용 827ms (21/06/28)
 > ![image](https://user-images.githubusercontent.com/66898243/123644438-589bd600-d860-11eb-9acc-ac0baf247f04.png)
+
+#### 10814 풀이 코드2 클래스, 생성자 이용 700ms (21/06/29)
+> ![image](https://user-images.githubusercontent.com/66898243/123814574-c1528380-d930-11eb-8f75-daad2a0b4da1.png)
 
 ### - 18870 좌표 압축
 
