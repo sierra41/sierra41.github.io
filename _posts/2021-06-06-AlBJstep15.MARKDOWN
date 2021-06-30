@@ -96,6 +96,9 @@ toc_label: 목차
 #### 10814 풀이 코드2 클래스, 생성자 이용 700ms (21/06/29)
 > ![image](https://user-images.githubusercontent.com/66898243/123814574-c1528380-d930-11eb-8f75-daad2a0b4da1.png)
 
+#### 10814 풀이 코드3 StringBuilder 객체배열 이용 564ms (21/06/30)
+>  ![image](https://user-images.githubusercontent.com/66898243/123973150-7ac75c80-d9f6-11eb-8d3b-de0514c3ba21.png)
+
 ### - 18870 좌표 압축
 
 #### 18870 풀이 코드
