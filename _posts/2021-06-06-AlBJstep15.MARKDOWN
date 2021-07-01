@@ -100,9 +100,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/123973150-7ac75c80-d9f6-11eb-8d3b-de0514c3ba21.png)
 
 ### - 18870 좌표 압축
+![image](https://user-images.githubusercontent.com/66898243/124141672-8ed98f80-dac4-11eb-89bf-ce96310ea271.png)
 
-#### 18870 풀이 코드
->
+#### 18870 풀이 코드1  564ms (21/07/01)
+>  ![image](https://user-images.githubusercontent.com/66898243/124142232-04ddf680-dac5-11eb-85e9-4edb5da34d73.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
