@@ -15,9 +15,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 백트래킹
 ### - 15649 N과 M (1)
+![image](https://user-images.githubusercontent.com/66898243/124388667-d196a400-dd1e-11eb-9ac7-346b6b907e0c.png)
 
-#### 15649 풀이 코드1 
->  
+#### 15649 풀이 코드1 : 1048ms 
+>  ![image](https://user-images.githubusercontent.com/66898243/124389430-00624980-dd22-11eb-8ed7-0c2a74410e49.png)
+
 ### - 14550 N과 M (2)
 
 #### 14550 풀이 코드1 
