@@ -24,7 +24,7 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/124485305-649b1100-dde7-11eb-81bb-da9b2047ceb5.png)
 
 #### 15649 풀이 코드3 전역변수활용2 348ms (21/07/06)
->   ![image](https://user-images.githubusercontent.com/66898243/124616862-66c9a200-deb1-11eb-8b82-3ba8e0b2e632.png)
+> ![image](https://user-images.githubusercontent.com/66898243/124616862-66c9a200-deb1-11eb-8b82-3ba8e0b2e632.png)
 
 ### - 14550 N과 M (2)
 
