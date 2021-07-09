@@ -39,9 +39,11 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/124941714-facc7280-e045-11eb-9892-63e78071db74.png)
 
 ### - 15652 N과 M (4)
+![image](https://user-images.githubusercontent.com/66898243/125094577-595d2380-e10e-11eb-900a-4d5012e81f14.png)
 
-#### 15652 풀이 코드1 
->  
+#### 15652 풀이 코드1 204ms (21/07/09)
+>  ![image](https://user-images.githubusercontent.com/66898243/125095268-f9b34800-e10e-11eb-8d29-f056ee1be9e0.png)
+
 ### - 9663 N-Queen
 
 #### 9663 풀이 코드1 
