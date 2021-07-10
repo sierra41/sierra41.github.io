@@ -44,10 +44,12 @@ toc_label: 목차
 #### 15652 풀이 코드1 204ms (21/07/09)
 >  ![image](https://user-images.githubusercontent.com/66898243/125095268-f9b34800-e10e-11eb-8d29-f056ee1be9e0.png)
 
-### - 9663 N-Queen
+### - 9663 N-Queen 
+ ![image](https://user-images.githubusercontent.com/66898243/125166856-9e4d8c80-e1d8-11eb-9a95-6273d51b9a44.png)
 
-#### 9663 풀이 코드1 
->  
+#### 9663 풀이 코드1 6980ms (21/07/10)
+>  ![image](https://user-images.githubusercontent.com/66898243/125166893-bf15e200-e1d8-11eb-97a5-2dce057d0c57.png)
+
 ### - 2580 스도쿠
 
 #### 2580 풀이 코드1 
