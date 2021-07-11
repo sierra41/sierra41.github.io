@@ -50,6 +50,9 @@ toc_label: 목차
 #### 9663 풀이 코드1 6980ms (21/07/10)
 >  ![image](https://user-images.githubusercontent.com/66898243/125166893-bf15e200-e1d8-11eb-97a5-2dce057d0c57.png)
 
+#### 9663 풀이 코드2 5644ms (21/07/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/125199796-ea650380-e2a2-11eb-99ca-a46959c948c6.png)
+
 ### - 2580 스도쿠
 
 #### 2580 풀이 코드1 
