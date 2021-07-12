@@ -54,9 +54,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/125199796-ea650380-e2a2-11eb-99ca-a46959c948c6.png)
 
 ### - 2580 스도쿠
+![image](https://user-images.githubusercontent.com/66898243/125305965-c3253980-e369-11eb-9faa-559f4ebb43b6.png)
 
-#### 2580 풀이 코드1 
->  
+#### 2580 풀이 코드1 (21/07/12)
+>  ![image](https://user-images.githubusercontent.com/66898243/125309724-f0271b80-e36c-11eb-9939-6d7ea8c2be4d.png)
+
 ### - 14888 연산자 끼워넣기
 
 #### 14888 풀이 코드1 
