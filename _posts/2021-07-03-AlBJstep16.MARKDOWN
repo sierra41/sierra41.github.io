@@ -56,13 +56,18 @@ toc_label: 목차
 ### - 2580 스도쿠
 ![image](https://user-images.githubusercontent.com/66898243/125305965-c3253980-e369-11eb-9faa-559f4ebb43b6.png)
 
-#### 2580 풀이 코드1 (21/07/12)
->  ![image](https://user-images.githubusercontent.com/66898243/125309724-f0271b80-e36c-11eb-9939-6d7ea8c2be4d.png)
+#### 2580 풀이 코드1
+>
 
 ### - 14888 연산자 끼워넣기
+![image](https://user-images.githubusercontent.com/66898243/125305965-c3253980-e369-11eb-9faa-559f4ebb43b6.png)
 
-#### 14888 풀이 코드1 
->  
+#### 14888 풀이 코드1 (21/07/12) 140ms
+>  ![image](https://user-images.githubusercontent.com/66898243/125472169-13c82a3e-c293-4599-9c9c-071a204d96fb.png)
+
+#### 14888 풀이 코드2 (21/07/13) 132ms
+>  ![image](https://user-images.githubusercontent.com/66898243/125472264-4b25b9fb-6fa4-4a68-856a-a7ef5e7fb58a.png)
+
 ### - 14889 스타트와 링크
 
 #### 14889 풀이 코드1 
