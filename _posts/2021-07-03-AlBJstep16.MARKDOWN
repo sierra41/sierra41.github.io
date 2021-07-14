@@ -54,21 +54,23 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/125199796-ea650380-e2a2-11eb-99ca-a46959c948c6.png)
 
 ### - 2580 스도쿠
-![image](https://user-images.githubusercontent.com/66898243/125305965-c3253980-e369-11eb-9faa-559f4ebb43b6.png)
+![image](https://user-images.githubusercontent.com/66898243/125639233-a5500380-c9e4-4435-bc08-a6deedc4755d.png)
+![image](https://user-images.githubusercontent.com/66898243/125639293-99a7e70a-969b-459a-a0b6-e206907e438b.png)
 
 #### 2580 풀이 코드1
 >
 
 ### - 14888 연산자 끼워넣기
-![image](https://user-images.githubusercontent.com/66898243/125305965-c3253980-e369-11eb-9faa-559f4ebb43b6.png)
+![image](https://user-images.githubusercontent.com/66898243/125638735-80303348-b25c-4c5d-aa3c-e304937dbfd5.png)
 
 #### 14888 풀이 코드1 (21/07/12) 140ms
 >  ![image](https://user-images.githubusercontent.com/66898243/125472169-13c82a3e-c293-4599-9c9c-071a204d96fb.png)
 
 #### 14888 풀이 코드2 (21/07/13) 132ms
->  ![image](https://user-images.githubusercontent.com/66898243/125472264-4b25b9fb-6fa4-4a68-856a-a7ef5e7fb58a.png)
+> ![image](https://user-images.githubusercontent.com/66898243/125638929-1bcb0a45-42d8-45b3-90c8-9e60078f2f63.png)
 
 ### - 14889 스타트와 링크
+![image](https://user-images.githubusercontent.com/66898243/125638480-b41405b7-48a2-44da-8531-c1ac0355fe46.png)
 
 #### 14889 풀이 코드1 
 >  
