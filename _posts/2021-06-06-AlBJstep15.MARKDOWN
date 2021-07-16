@@ -50,9 +50,10 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/122061360-63e70e80-ce29-11eb-802c-d85eb91c5773.png)
 
 ### - 2108 통계학
+![image](https://user-images.githubusercontent.com/66898243/125810192-e045561a-e563-45b4-a113-cad8af64e36a.png)
 
 #### 2108 풀이 코드
->
+> ![image](https://user-images.githubusercontent.com/66898243/125810192-e045561a-e563-45b4-a113-cad8af64e36a.png
 
 ### - 1427 소트인사이드
 ![image](https://user-images.githubusercontent.com/66898243/122238309-fe635280-cefa-11eb-9ddc-760aca3a3771.png)
