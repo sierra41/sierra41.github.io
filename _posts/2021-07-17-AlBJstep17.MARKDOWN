@@ -15,10 +15,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 동적 계획법 1
 ### - 1003 피보나치 함수
+![image](https://user-images.githubusercontent.com/66898243/126070705-3546f67a-73e1-42bb-9193-8a344e9cb222.png)
 
-#### 1003 풀이 코드1 
->
- 
+#### 1003 풀이 코드1 164ms (21/07/18)
+>  ![image](https://user-images.githubusercontent.com/66898243/126070885-aed15a4e-6b0a-4098-bd8b-309fb13b995f.png)
+
 ### - 9184 신나는 함수 실행
 
 #### 9184 풀이 코드1 
