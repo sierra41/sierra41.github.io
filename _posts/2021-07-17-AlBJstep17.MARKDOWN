@@ -21,7 +21,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/126070885-aed15a4e-6b0a-4098-bd8b-309fb13b995f.png)
 
 #### 1003 풀이 코드2 168ms (21/07/19)
->   ![image](https://user-images.githubusercontent.com/66898243/126178033-8376e73d-cf56-4bfa-ac19-ac69c8a601bb.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/126178033-8376e73d-cf56-4bfa-ac19-ac69c8a601bb.png)
+
+#### 1003 풀이 코드3 168ms (21/07/20)
+>  ![image](https://user-images.githubusercontent.com/66898243/126342830-5617eb82-0a43-44d0-86a7-d84c21471fc4.png)
 
 ### - 9184 신나는 함수 실행
 
