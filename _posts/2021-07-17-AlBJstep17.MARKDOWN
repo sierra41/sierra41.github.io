@@ -48,7 +48,7 @@ toc_label: 목차
 ### - 1932 정수 삼각형
  ![image](https://user-images.githubusercontent.com/66898243/126501481-4071d570-445e-429e-b3e9-1560b8591f06.png)
 
-#### 1932 풀이 코드1 976ms (21/07/21)
+#### 1932 풀이 코드1 Scanner사용 976ms (21/07/21)
 >  ![image](https://user-images.githubusercontent.com/66898243/126506275-4c6368a3-a3ec-477d-bb87-416878f7fd3b.png)
  
 ### - 2579 계단 오르기
