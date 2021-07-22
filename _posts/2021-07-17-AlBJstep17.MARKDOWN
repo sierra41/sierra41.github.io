@@ -51,6 +51,9 @@ toc_label: 목차
 #### 1932 풀이 코드1 Scanner사용 976ms (21/07/21)
 >  ![image](https://user-images.githubusercontent.com/66898243/126506275-4c6368a3-a3ec-477d-bb87-416878f7fd3b.png)
  
+#### 1932 풀이 코드2 328ms (21/07/22)
+>  ![image](https://user-images.githubusercontent.com/66898243/126657838-e15ad98d-a6e0-4511-bedc-d3028dda2b2c.png)
+
 ### - 2579 계단 오르기
 
 #### 2579 풀이 코드1 
