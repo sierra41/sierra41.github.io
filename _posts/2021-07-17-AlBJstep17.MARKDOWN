@@ -27,10 +27,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/126342830-5617eb82-0a43-44d0-86a7-d84c21471fc4.png)
 
 ### - 9184 신나는 함수 실행
+![image](https://user-images.githubusercontent.com/66898243/126794589-f1c61901-0415-487c-8a34-a1657459525a.png)
 
-#### 9184 풀이 코드1 
->
- 
+#### 9184 풀이 코드1 400ms (21/07/23)
+>  ![image](https://user-images.githubusercontent.com/66898243/126796694-5db0e7e3-cf9b-4645-90d7-5f6f82c7bb48.png)
+
 ### - 1904 01타일
 
 #### 1904 풀이 코드1 
