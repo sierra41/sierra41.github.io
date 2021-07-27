@@ -76,6 +76,8 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/127009100-09e4675c-f7dd-432b-886a-20d47f59a12d.png)
 >  ![image](https://user-images.githubusercontent.com/66898243/127009234-aea4b870-4c98-45c6-a791-2f5783b2c424.png)
 
+#### 14889 풀이 코드2 404ms (21/07/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/127164783-dde1037c-328a-4415-9742-ec9d86fe91fa.png)
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
