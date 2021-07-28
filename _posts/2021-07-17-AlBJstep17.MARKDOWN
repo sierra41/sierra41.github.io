@@ -36,9 +36,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/126902826-c5ca93d0-3486-4223-80d6-573aeffabf13.png)
 
 ### - 1904 01타일
+![image](https://user-images.githubusercontent.com/66898243/127337331-ed0fa124-eae7-4d8e-91ce-d4db9ac38489.png)
 
-#### 1904 풀이 코드1 
->
+#### 1904 풀이 코드1 160ms (21/07/28)
+>  ![image](https://user-images.githubusercontent.com/66898243/127338375-961bdf84-2d03-4d83-9179-4014d4e47aa8.png)
+
 ### - 9461 파도반 수열
 
 #### 9461 풀이 코드1 
