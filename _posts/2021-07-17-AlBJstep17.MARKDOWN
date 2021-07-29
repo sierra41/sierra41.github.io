@@ -41,6 +41,9 @@ toc_label: 목차
 #### 1904 풀이 코드1 160ms (21/07/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/127338375-961bdf84-2d03-4d83-9179-4014d4e47aa8.png)
 
+#### 1904 풀이 코드2 360ms (21/07/29)
+>  ![image](https://user-images.githubusercontent.com/66898243/127514035-0fa0f9fe-a2df-4a53-b136-ba780994655a.png)
+
 ### - 9461 파도반 수열
 
 #### 9461 풀이 코드1 
