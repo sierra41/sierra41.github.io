@@ -68,9 +68,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/126657838-e15ad98d-a6e0-4511-bedc-d3028dda2b2c.png)
 
 ### - 2579 계단 오르기
+ ![image](https://user-images.githubusercontent.com/66898243/127743507-e88e28ba-5af1-4d4b-8b69-32a625e6afdd.png)
+ ![image](https://user-images.githubusercontent.com/66898243/127743518-b80eae6a-5a70-4c98-b2b3-e6cb8f7f8825.png)
 
-#### 2579 풀이 코드1 
->
+#### 2579 풀이 코드1 140ms (21/07.31)
+>  ![image](https://user-images.githubusercontent.com/66898243/127743622-056143d5-0f15-4cc0-8a2d-4a080c03a685.png)
  
 ### - 1463 1로 만들기
 
