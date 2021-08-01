@@ -71,9 +71,12 @@ toc_label: 목차
  ![image](https://user-images.githubusercontent.com/66898243/127743507-e88e28ba-5af1-4d4b-8b69-32a625e6afdd.png)
  ![image](https://user-images.githubusercontent.com/66898243/127743518-b80eae6a-5a70-4c98-b2b3-e6cb8f7f8825.png)
 
-#### 2579 풀이 코드1 140ms (21/07.31)
+#### 2579 풀이 코드1 140ms (21/07/31)
 >  ![image](https://user-images.githubusercontent.com/66898243/127743622-056143d5-0f15-4cc0-8a2d-4a080c03a685.png)
- 
+
+#### 2579 풀이 코드2 144ms (21/08/01)
+>  ![image](https://user-images.githubusercontent.com/66898243/127772953-7ec76cab-db6e-4003-bd61-ca9a6554a3fa.png)
+
 ### - 1463 1로 만들기
 
 #### 1463 풀이 코드1 
