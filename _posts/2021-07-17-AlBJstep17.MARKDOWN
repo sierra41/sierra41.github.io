@@ -78,9 +78,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/127772953-7ec76cab-db6e-4003-bd61-ca9a6554a3fa.png)
 
 ### - 1463 1로 만들기
+  ![image](https://user-images.githubusercontent.com/66898243/127881125-57f352b2-0967-40da-a4af-7a3eaa96e093.png)
 
-#### 1463 풀이 코드1 
->
+#### 1463 풀이 코드1 184ms (21/08/02)
+>  ![image](https://user-images.githubusercontent.com/66898243/127881045-ddea3fb7-7a71-45e6-9331-0ee22c22c97f.png)
  
 ### - 10844 쉬운 계단 수
 
