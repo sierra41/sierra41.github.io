@@ -86,6 +86,9 @@ toc_label: 목차
 #### 1463 풀이 코드2 292ms (21/08/03)
 >  ![image](https://user-images.githubusercontent.com/66898243/128032700-fbbab849-6a01-473f-b60e-0de9738ea884.png)
 
+#### 1463 풀이 코드3 132ms (21/08/04)
+>  ![image](https://user-images.githubusercontent.com/66898243/128198167-a4247692-3572-4b83-bccf-fb6dbb8ba5a5.png)
+
 ### - 10844 쉬운 계단 수
 
 #### 10844 풀이 코드1 
