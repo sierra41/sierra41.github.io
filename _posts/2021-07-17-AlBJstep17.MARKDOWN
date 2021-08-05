@@ -120,9 +120,10 @@ toc_label: 목차
 >
  
 ### - 1912 연속합
+ ![image](https://user-images.githubusercontent.com/66898243/128365949-5d52c3f7-6fee-4664-a399-69a7e542b10e.png)
 
-#### 1912 풀이 코드1 
->
+#### 1912 풀이 코드1 388ms (21/08/05)
+>  ![image](https://user-images.githubusercontent.com/66898243/128367981-6d937f81-111e-4189-973c-e8d6a8f4aba9.png)
  
 ### - 12865 평범한 배낭
 
