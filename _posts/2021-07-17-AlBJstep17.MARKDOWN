@@ -125,6 +125,9 @@ toc_label: 목차
 #### 1912 풀이 코드1 388ms (21/08/05)
 >  ![image](https://user-images.githubusercontent.com/66898243/128367981-6d937f81-111e-4189-973c-e8d6a8f4aba9.png)
  
+#### 1912 풀이 코드2 304ms (21/08/06)
+>  ![image](https://user-images.githubusercontent.com/66898243/128525453-6cd8bebe-9986-4a84-a631-57b0dd8fe5c6.png)
+
 ### - 12865 평범한 배낭
 
 #### 12865 풀이 코드1 
