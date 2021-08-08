@@ -109,10 +109,11 @@ toc_label: 목차
 #### 11054 풀이 코드1 
 >
  
-### - 2565 전깃줄	출처
+### - 2565 전깃줄	
+ ![image](https://user-images.githubusercontent.com/66898243/128633943-575fd63f-456e-442f-a286-805ac4abcc07.png)
 
-#### 2565 풀이 코드1 
->
+#### 2565 풀이 코드1 140ms (21/08/08)
+>   ![image](https://user-images.githubusercontent.com/66898243/128633924-c791a318-4391-4099-9d87-49559f29e3d6.png)
  
 ### - 9251 LCS
 
