@@ -113,10 +113,13 @@ toc_label: 목차
  ![image](https://user-images.githubusercontent.com/66898243/128633943-575fd63f-456e-442f-a286-805ac4abcc07.png)
 
 #### 2565 풀이 코드1 140ms (21/08/08)
->   ![image](https://user-images.githubusercontent.com/66898243/128633924-c791a318-4391-4099-9d87-49559f29e3d6.png)
- 
+>  ![image](https://user-images.githubusercontent.com/66898243/128633924-c791a318-4391-4099-9d87-49559f29e3d6.png)
+
 #### 2565 풀이 코드2 124ms (21/08/09)
->   ![image](https://user-images.githubusercontent.com/66898243/128729346-176495ea-6e29-43dc-8f28-b89f1e91a66d.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/128729346-176495ea-6e29-43dc-8f28-b89f1e91a66d.png)
+
+#### 2565 풀이 코드3 144ms (21/08/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/129034201-3ae50d12-01fd-4b20-8589-876d7c860d4c.png)
 
 ### - 9251 LCS
 
