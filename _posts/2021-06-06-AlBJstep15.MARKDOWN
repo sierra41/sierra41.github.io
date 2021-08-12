@@ -55,6 +55,9 @@ toc_label: 목차
 #### 2108 풀이 코드1 (21/07/16)
 >  ![image](https://user-images.githubusercontent.com/66898243/125814060-367cf1b2-47c4-4d1c-86b4-38296e541008.png)
 
+#### 2108 풀이 코드2 380ms (21/08/12)
+>  ![image](https://user-images.githubusercontent.com/66898243/129193996-c46e96c1-8d38-406e-a56c-b2189c960a82.png)
+
 ### - 1427 소트인사이드
 ![image](https://user-images.githubusercontent.com/66898243/122238309-fe635280-cefa-11eb-9ddc-760aca3a3771.png)
 
