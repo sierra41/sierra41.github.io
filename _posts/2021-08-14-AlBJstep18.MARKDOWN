@@ -1,0 +1,44 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_그리디 알고리즘 11047, 1931, 11399, 1541, 13305"
+read_time: true
+Write Preview
+Attach files by dragging & dropping, selecting or pasting them.
+Add single comment
+Cancel
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2021-08-14 19:35:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 그리디 알고리즘
+### - 11047 동전
+
+#### 11047 풀이 코드
+>
+### - 1931 회의실 배정
+
+#### 1931 풀이 코드
+>
+### - 11399 ATM
+
+#### 11399 풀이 코드
+>
+### - 1541 잃어버린 괄호
+
+#### 1541 풀이 코드
+>
+### - 13305 주유소
+
+#### 13305 풀이 코드
+>
+
+	13305	주유소
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
