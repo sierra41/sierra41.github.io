@@ -19,9 +19,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 그리디 알고리즘
 ### - 11047 동전
+![image](https://user-images.githubusercontent.com/66898243/129481631-ba3f6e2b-c9d7-46a3-ae85-5efc0afb175e.png)
 
-#### 11047 풀이 코드
->
+#### 11047 풀이 코드1 376ms (21/08/15)
+>  ![image](https://user-images.githubusercontent.com/66898243/129481891-63d4aa9a-b4b3-4fa4-925c-b9ffcc374409.png)
+
 ### - 1931 회의실 배정
 
 #### 1931 풀이 코드
