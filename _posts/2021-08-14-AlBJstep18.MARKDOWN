@@ -25,9 +25,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/129481891-63d4aa9a-b4b3-4fa4-925c-b9ffcc374409.png)
 
 ### - 1931 회의실 배정
+![image](https://user-images.githubusercontent.com/66898243/129582416-5f5ba442-734c-4452-81dd-a990abee40af.png)
 
-#### 1931 풀이 코드
->
+#### 1931 풀이 코드1 560ms (21/08/16)
+>  ![image](https://user-images.githubusercontent.com/66898243/129583819-6e267806-4ade-40a8-a06b-e49f15d56e1c.png)
+
 ### - 11399 ATM
 
 #### 11399 풀이 코드
