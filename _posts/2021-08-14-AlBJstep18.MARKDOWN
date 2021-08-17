@@ -31,9 +31,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/129583819-6e267806-4ade-40a8-a06b-e49f15d56e1c.png)
 
 ### - 11399 ATM
+![image](https://user-images.githubusercontent.com/66898243/129727399-b362a6d2-c89e-45a9-a5cc-1e154cc96b65.png)
 
-#### 11399 풀이 코드
->
+#### 11399 풀이 코드 144ms (21/08/17)
+>  ![image](https://user-images.githubusercontent.com/66898243/129727792-65820d29-830e-4b1f-a225-a3e5ba3ccc22.png)
+
 ### - 1541 잃어버린 괄호
 
 #### 1541 풀이 코드
