@@ -37,9 +37,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/129727792-65820d29-830e-4b1f-a225-a3e5ba3ccc22.png)
 
 ### - 1541 잃어버린 괄호
+![image](https://user-images.githubusercontent.com/66898243/129915547-e83b6609-7c69-4baa-b906-814c58c88546.png)
 
-#### 1541 풀이 코드
->
+#### 1541 풀이 코드 220ms (21/08/18)
+>  ![image](https://user-images.githubusercontent.com/66898243/129918392-fc71bf99-2321-4532-a840-a8170796f7df.png)
+
 ### - 13305 주유소
 
 #### 13305 풀이 코드
