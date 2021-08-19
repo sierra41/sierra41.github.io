@@ -42,6 +42,9 @@ toc_label: 목차
 #### 1541 풀이 코드 220ms (21/08/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/129918392-fc71bf99-2321-4532-a840-a8170796f7df.png)
 
+#### 1541 풀이 코드2 140ms (21/08/19)
+>  ![image](https://user-images.githubusercontent.com/66898243/130077549-eec6cf98-38f0-4e6a-85da-e6e66281527a.png)
+
 ### - 13305 주유소
 
 #### 13305 풀이 코드
