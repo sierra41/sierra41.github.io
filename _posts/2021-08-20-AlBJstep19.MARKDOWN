@@ -15,9 +15,10 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 정수론 및 조합론
 ### - 5086 배수와 약수
+![image](https://user-images.githubusercontent.com/66898243/130322580-a2dd413b-96bc-4756-a5b3-32eb069c35b0.png)
 
-#### 5086 풀이 코드
->  
+#### 5086 풀이 코드 124ms (21/08/21)
+>  ![image](https://user-images.githubusercontent.com/66898243/130322768-b326c4d4-963d-4a27-b6c6-096648d8efee.png)
  
 ### - 1037 약수
 
