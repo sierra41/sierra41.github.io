@@ -21,9 +21,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/130322768-b326c4d4-963d-4a27-b6c6-096648d8efee.png)
  
 ### - 1037 약수
+![image](https://user-images.githubusercontent.com/66898243/130356164-0340a8b5-f475-4a52-8f62-5c6f5cc4a01c.png)
 
-#### 1037 풀이 코드
->  
+#### 1037 풀이 코드  132ms (21/08/22)
+>  ![image](https://user-images.githubusercontent.com/66898243/130356172-86e7d3e4-29f1-40c3-ae58-a970169e4a02.png)
   
 ### - 2609 최대공약수와 최소공배수
 
