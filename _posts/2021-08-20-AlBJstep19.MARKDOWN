@@ -27,9 +27,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/130356172-86e7d3e4-29f1-40c3-ae58-a970169e4a02.png)
   
 ### - 2609 최대공약수와 최소공배수
+![image](https://user-images.githubusercontent.com/66898243/130462181-64d1393d-fd9f-4e1d-96a8-dc57fe55b2d9.png)
 
-#### 2609 풀이 코드
->  
+#### 2609 풀이 코드  160ms (21/08/23)
+>  ![image](https://user-images.githubusercontent.com/66898243/130462449-54de6cec-d5c4-46fb-886f-a8a166ea6c2a.png)
  
 ### - 1934 최소공배수
 
