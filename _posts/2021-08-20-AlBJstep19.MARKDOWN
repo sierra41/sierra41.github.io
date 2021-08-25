@@ -36,6 +36,7 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/130634719-460011a1-eb9b-403f-98c6-2eb9e234cced.png)
  
 ### - 1934 최소공배수
+![image](https://user-images.githubusercontent.com/66898243/130785934-2dea59f3-2894-46ea-8de9-587130470df1.png)
 
 #### 1934 풀이 코드
 >  
