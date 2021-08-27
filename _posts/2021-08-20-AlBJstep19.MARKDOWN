@@ -38,8 +38,8 @@ toc_label: 목차
 ### - 1934 최소공배수
 ![image](https://user-images.githubusercontent.com/66898243/130785934-2dea59f3-2894-46ea-8de9-587130470df1.png)
 
-#### 1934 풀이 코드
->  
+#### 1934 풀이 코드 340ms  (21/08/25)
+>  ![image](https://user-images.githubusercontent.com/66898243/130787091-78c186f6-d1ac-4d2c-972f-1b0bca2f62c0.png)
  
 ### - 2981 검문
 
