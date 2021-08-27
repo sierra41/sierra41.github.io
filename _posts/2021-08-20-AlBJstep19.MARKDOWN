@@ -41,15 +41,19 @@ toc_label: 목차
 #### 1934 풀이 코드 340ms  (21/08/25)
 >  ![image](https://user-images.githubusercontent.com/66898243/130787091-78c186f6-d1ac-4d2c-972f-1b0bca2f62c0.png)
  
+#### 1934 풀이 코드 188ms  (21/08/26)
+>  ![image](https://user-images.githubusercontent.com/66898243/130934258-62cdcd8e-da0f-40aa-ab82-cdaab355126d.png)
+
 ### - 2981 검문
 
 #### 2981 풀이 코드
 >  
  
 ### - 3036 링
+![image](https://user-images.githubusercontent.com/66898243/131129633-714e0b67-27bb-431f-a824-e39699b11e45.png)
 
-#### 3036 풀이 코드
->  
+#### 3036 풀이 코드 172ms (21/08/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/131129604-cbb4b6e2-beb1-46c4-8cc2-d4bdfe873dde.png)
  
 ### - 11050 이항 계수 1
 
