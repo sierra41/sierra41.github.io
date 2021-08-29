@@ -58,9 +58,12 @@ toc_label: 목차
 ### - 11050 이항 계수 1
 ![image](https://user-images.githubusercontent.com/66898243/131221440-dc00a5ff-95bb-4dd6-afbb-60bdde3e8423.png)
 
-#### 11050 풀이 코드
+#### 11050 풀이 코드1 140ms (21/08/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/131221432-45b4f083-fe8b-4935-a237-2e95dddafac0.png)
- 
+
+#### 11050 풀이 코드2 124ms (21/08/29)
+>  ![image](https://user-images.githubusercontent.com/66898243/131249522-5605223d-6300-481d-a5fb-35c93737ccf0.png)
+
 ### - 11051 이항 계수 2
 
 #### 11051 풀이 코드
