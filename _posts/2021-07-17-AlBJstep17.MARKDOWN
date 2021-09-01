@@ -96,9 +96,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/131522305-c7c0e5e9-9db2-44ce-8ba2-916b86c859da.png)
  
 ### - 2156 포도주 시식
+![image](https://user-images.githubusercontent.com/66898243/131684835-956afb39-c967-4ddc-b550-3720ec2c918e.png)
 
-#### 2156 풀이 코드1 
->
+#### 2156 풀이 코드1 144ms (21/09/01)
+>  ![image](https://user-images.githubusercontent.com/66898243/131684790-1f7c84cb-a3c9-472e-bf04-07f1970802ba.png)
  
 ### - 11053 가장 긴 증가하는 부분 수열
 
