@@ -101,6 +101,9 @@ toc_label: 목차
 #### 2156 풀이 코드1 144ms (21/09/01)
 >  ![image](https://user-images.githubusercontent.com/66898243/131684790-1f7c84cb-a3c9-472e-bf04-07f1970802ba.png)
  
+#### 2156 풀이 코드2 172ms (21/09/02)
+>  ![image](https://user-images.githubusercontent.com/66898243/131864138-9a696025-c47d-4b7f-a106-339f98cb40c5.png)
+
 ### - 11053 가장 긴 증가하는 부분 수열
 
 #### 11053 풀이 코드1 
