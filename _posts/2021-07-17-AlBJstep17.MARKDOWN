@@ -105,9 +105,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/131864138-9a696025-c47d-4b7f-a106-339f98cb40c5.png)
 
 ### - 11053 가장 긴 증가하는 부분 수열
+![image](https://user-images.githubusercontent.com/66898243/132002331-a1e480d5-86f6-45c0-a0ca-fa8a70968339.png)
 
 #### 11053 풀이 코드1 
->
+>  ![image](https://user-images.githubusercontent.com/66898243/132003431-51676b21-05cf-456b-bd01-5e244d0dfa5d.png)
  
 ### - 11054 가장 긴 바이토닉 부분 수열
 
