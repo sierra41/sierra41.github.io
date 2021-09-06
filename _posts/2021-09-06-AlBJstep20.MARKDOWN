@@ -1,0 +1,46 @@
+﻿---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_스택 10828, 10773, 9012, 4949, 1874, 17298"
+read_time: true
+categories: 
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2021-09-06 23:32:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 스택
+### - 10828 스택
+
+#### 10828 풀이 코드
+>  
+### - 10773 제로
+
+#### 10773 풀이 코드
+>  
+ 
+### - 9012 괄호
+
+#### 9012 풀이 코드
+>  
+ 
+### - 4949 균형잡힌 세상	
+
+#### 4949 풀이 코드
+>  
+ 
+### - 1874 스택 수열	
+
+#### 1874 풀이 코드
+>   
+### - 17298 오큰수
+
+#### 17298 풀이 코드
+>
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
