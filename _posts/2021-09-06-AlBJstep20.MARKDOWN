@@ -15,9 +15,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 스택
 ### - 10828 스택
+![image](https://user-images.githubusercontent.com/66898243/132350745-225336dc-0ab7-488d-9543-f65e66a3f6a0.png)
 
-#### 10828 풀이 코드
->  
+#### 10828 풀이 코드 140ms (21/09/07)
+>  ![image](https://user-images.githubusercontent.com/66898243/132353048-666f3a37-d310-4084-befa-ce64662ff91a.png)
+
 ### - 10773 제로
 
 #### 10773 풀이 코드
