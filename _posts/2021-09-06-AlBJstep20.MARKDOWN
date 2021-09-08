@@ -17,8 +17,11 @@ toc_label: 목차
 ### - 10828 스택
 ![image](https://user-images.githubusercontent.com/66898243/132350745-225336dc-0ab7-488d-9543-f65e66a3f6a0.png)
 
-#### 10828 풀이 코드 140ms (21/09/07)
+#### 10828 풀이 코드1 140ms (21/09/07)
 >  ![image](https://user-images.githubusercontent.com/66898243/132353048-666f3a37-d310-4084-befa-ce64662ff91a.png)
+
+#### 10828 풀이 코드2 216ms (21/09/08)
+>  ![image](https://user-images.githubusercontent.com/66898243/132493367-9c784d0b-ea63-4f18-8b10-a38c8210a2da.png)
 
 ### - 10773 제로
 
