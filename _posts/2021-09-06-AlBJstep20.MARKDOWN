@@ -24,9 +24,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/132493367-9c784d0b-ea63-4f18-8b10-a38c8210a2da.png)
 
 ### - 10773 제로
+![image](https://user-images.githubusercontent.com/66898243/132705555-9e042b10-73c8-495f-988c-ae342425b567.png)
 
-#### 10773 풀이 코드
->  
+#### 10773 풀이 코드 252ms (21/09/09)
+>  ![image](https://user-images.githubusercontent.com/66898243/132705944-f06796ad-5f43-4b58-9420-784adde8230f.png)
  
 ### - 9012 괄호
 
