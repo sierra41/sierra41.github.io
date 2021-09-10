@@ -29,6 +29,9 @@ toc_label: 목차
 #### 10773 풀이 코드 252ms (21/09/09)
 >  ![image](https://user-images.githubusercontent.com/66898243/132705944-f06796ad-5f43-4b58-9420-784adde8230f.png)
  
+#### 10773 풀이 코드2 236ms (21/09/010)
+>  ![image](https://user-images.githubusercontent.com/66898243/132840078-b14984b4-ee9a-4439-9657-99b2168b215b.png)
+
 ### - 9012 괄호
 
 #### 9012 풀이 코드
