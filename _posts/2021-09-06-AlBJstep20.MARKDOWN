@@ -29,13 +29,14 @@ toc_label: 목차
 #### 10773 풀이 코드 252ms (21/09/09)
 >  ![image](https://user-images.githubusercontent.com/66898243/132705944-f06796ad-5f43-4b58-9420-784adde8230f.png)
  
-#### 10773 풀이 코드2 236ms (21/09/010)
+#### 10773 풀이 코드2 236ms (21/09/10)
 >  ![image](https://user-images.githubusercontent.com/66898243/132840078-b14984b4-ee9a-4439-9657-99b2168b215b.png)
 
 ### - 9012 괄호
+![image](https://user-images.githubusercontent.com/66898243/132945972-a48da38d-17e4-4c25-844d-642b6447cb28.png)
 
-#### 9012 풀이 코드
->  
+#### 9012 풀이 코드 162ms (21/09/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/132946020-92316e5e-d6eb-497d-a625-5b07ad0045b7.png)
  
 ### - 4949 균형잡힌 세상	
 
