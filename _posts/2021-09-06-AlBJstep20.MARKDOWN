@@ -38,6 +38,9 @@ toc_label: 목차
 #### 9012 풀이 코드 162ms (21/09/11)
 >  ![image](https://user-images.githubusercontent.com/66898243/132946020-92316e5e-d6eb-497d-a625-5b07ad0045b7.png)
  
+#### 9012 풀이 코드2 160ms (21/09/12)
+>  ![image](https://user-images.githubusercontent.com/66898243/132986052-eca421ab-95bf-4d21-ad63-40854de048d3.png)
+
 ### - 4949 균형잡힌 세상	
 
 #### 4949 풀이 코드
