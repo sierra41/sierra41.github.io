@@ -77,9 +77,12 @@ toc_label: 목차
 ### - 9375 패션왕 신해빈
 ![image](https://user-images.githubusercontent.com/66898243/133101920-72d9db68-8d51-474f-bee0-f488f2e867aa.png)
 
-#### 9375 풀이 코드 152ms (21/09/13)
->  ![image](https://user-images.githubusercontent.com/66898243/133104488-f4793d52-78ed-4ff2-8d61-10bf8220dc43.png)
- 
+#### 9375 풀이 코드1 152ms (21/09/13)
+>  ![image](https://user-images.githubusercontent.com/66898243/133259450-a7d4fe37-dcb8-49b7-994b-baff7b3a93f0.png)
+
+#### 9375 풀이 코드2 152ms (21/09/14)
+>  ![image](https://user-images.githubusercontent.com/66898243/133259750-66e8c14e-d474-483c-9696-538feb07fdff.png)
+
 ### - 1676 팩토리얼 0의 개수	
 
 #### 1676 풀이 코드
