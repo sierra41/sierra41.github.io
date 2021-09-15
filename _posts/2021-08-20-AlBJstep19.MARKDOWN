@@ -70,10 +70,11 @@ toc_label: 목차
 >  
  
 ### - 1010 다리 놓기
+![image](https://user-images.githubusercontent.com/66898243/133432562-a2f2741b-7997-453e-a00c-3c6d4c10beb0.png)
 
-#### 1010 풀이 코드
->  
-
+#### 1010 풀이 코드 시간초과 (21/09/15)
+>  ![image](https://user-images.githubusercontent.com/66898243/133433657-3062c700-9164-4d78-a9a7-a8b9c287f751.png)
+ 
 ### - 9375 패션왕 신해빈
 ![image](https://user-images.githubusercontent.com/66898243/133101920-72d9db68-8d51-474f-bee0-f488f2e867aa.png)
 
