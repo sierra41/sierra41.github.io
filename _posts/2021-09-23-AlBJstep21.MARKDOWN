@@ -15,9 +15,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 큐, 덱
 ### - 18258 큐 2
+![image](https://user-images.githubusercontent.com/66898243/134674247-31431d90-3b40-4132-8edb-27e8425a59ff.png)
 
-#### 18258 풀이 코드
->  
+#### 18258 풀이 코드 1412ms (21/09/24)
+>  ![image](https://user-images.githubusercontent.com/66898243/134677193-4f3f78f7-2dc4-4a6d-85f3-32fc767df830.png)
+
 ### - 2164 카드2	
 
 #### 2164 풀이 코드
