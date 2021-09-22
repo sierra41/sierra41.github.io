@@ -20,6 +20,9 @@ toc_label: 목차
 #### 18258 풀이 코드 1412ms (21/09/24)
 >  ![image](https://user-images.githubusercontent.com/66898243/134677193-4f3f78f7-2dc4-4a6d-85f3-32fc767df830.png)
 
+#### 18258 풀이 코드2 1408ms (21/09/25)
+>  ![image](https://user-images.githubusercontent.com/66898243/134774900-297bba97-26b2-44fa-b6e8-97649a3a92c5.png)
+
 ### - 2164 카드2	
 
 #### 2164 풀이 코드
