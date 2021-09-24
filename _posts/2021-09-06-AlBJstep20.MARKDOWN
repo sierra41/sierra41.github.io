@@ -42,9 +42,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/132986052-eca421ab-95bf-4d21-ad63-40854de048d3.png)
 
 ### - 4949 균형잡힌 세상	
+![image](https://user-images.githubusercontent.com/66898243/134808429-98e96f40-d747-4b08-9749-38c37063c9a7.png)
 
-#### 4949 풀이 코드
->  
+#### 4949 풀이 코드 260ms (21/09/26)
+>  ![image](https://user-images.githubusercontent.com/66898243/134808411-1b73093b-01c9-4bdb-8801-569773f16c18.png)
  
 ### - 1874 스택 수열	
 
