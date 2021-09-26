@@ -24,9 +24,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/134774900-297bba97-26b2-44fa-b6e8-97649a3a92c5.png)
 
 ### - 2164 카드2	
+![image](https://user-images.githubusercontent.com/66898243/134899553-be4a7c96-6628-43ac-bc73-3e4714c6b839.png)
 
-#### 2164 풀이 코드
-> 
+#### 2164 풀이 코드 196ms (21/09/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/134899658-5c769503-d1a5-4f2e-b7e1-946dd8a84c12.png
+
 ### - 11866 요세푸스 문제	
 
 #### 11866 풀이 코드
