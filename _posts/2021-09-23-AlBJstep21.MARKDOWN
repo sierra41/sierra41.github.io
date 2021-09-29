@@ -33,9 +33,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/135100589-a97f750d-eea4-4e56-a20f-a018d6c70f7d.png)
 
 ### - 11866 요세푸스 문제	
+![image](https://user-images.githubusercontent.com/66898243/135289970-e74535ca-0c82-448d-bcd7-17046c7f176b.png)
 
-#### 11866 풀이 코드
-> 
+#### 11866 풀이 코드 180ms (21/09/29)  
+>  ![image](https://user-images.githubusercontent.com/66898243/135292937-0556a669-ad6c-4745-9c22-ca4ecf1ebf4a.png)
  
 ### - 1966 프린터 큐	
 
