@@ -35,11 +35,14 @@ toc_label: 목차
 ### - 11866 요세푸스 문제	
 ![image](https://user-images.githubusercontent.com/66898243/135289970-e74535ca-0c82-448d-bcd7-17046c7f176b.png)
 
-#### 11866 풀이 코드 180ms (21/09/30)  
+#### 11866 풀이 코드 180ms (21/09/29)  
 >  ![image](https://user-images.githubusercontent.com/66898243/135292937-0556a669-ad6c-4745-9c22-ca4ecf1ebf4a.png)
 
-#### 11866 풀이 코드2 184ms (21/09/29)  
+#### 11866 풀이 코드2 184ms (21/09/30)  
 >  ![image](https://user-images.githubusercontent.com/66898243/135478650-aa4b6bf9-0d79-4bda-8f7e-21c2a35f2cee.png)
+
+#### 11866 풀이 코드3 144ms (21/10/01)  
+>  ![image](https://user-images.githubusercontent.com/66898243/135637943-7e22ad01-9be0-4e3e-9a2a-ffbe139f4f50.png)
 
 ### - 1966 프린터 큐	
 
