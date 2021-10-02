@@ -46,8 +46,12 @@ toc_label: 목차
 
 #### 4949 풀이 코드 260ms (21/09/26)
 >  ![image](https://user-images.githubusercontent.com/66898243/134808411-1b73093b-01c9-4bdb-8801-569773f16c18.png)
- 
+ 	
 ### - 1874 스택 수열	
+![image](https://user-images.githubusercontent.com/66898243/135714891-126947ae-9d4e-4102-9d07-c99d319ea6c0.png)
+
+#### 1874 풀이 코드 336ms (21/10/02)
+>    ![image](https://user-images.githubusercontent.com/66898243/135715235-64ba2466-300b-4a62-8529-4c8d8a83b384.png)
 
 #### 1874 풀이 코드
 >   
