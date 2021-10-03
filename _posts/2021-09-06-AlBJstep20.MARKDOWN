@@ -51,10 +51,11 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/135714891-126947ae-9d4e-4102-9d07-c99d319ea6c0.png)
 
 #### 1874 풀이 코드 336ms (21/10/02)
->    ![image](https://user-images.githubusercontent.com/66898243/135715235-64ba2466-300b-4a62-8529-4c8d8a83b384.png)
-
-#### 1874 풀이 코드
->   
+>  ![image](https://user-images.githubusercontent.com/66898243/135757468-73be39da-de06-4cc2-9f18-55e99b34f443.png)
+>  
+#### 1874 풀이 코드2 312ms (21/10/03)
+>  ![image](https://user-images.githubusercontent.com/66898243/135757405-724efc08-59e5-4ad7-8724-9ade0929c414.png)
+ 
 ### - 17298 오큰수
 
 #### 17298 풀이 코드
