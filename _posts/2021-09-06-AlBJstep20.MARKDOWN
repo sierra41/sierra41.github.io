@@ -57,9 +57,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/135757405-724efc08-59e5-4ad7-8724-9ade0929c414.png)
  
 ### - 17298 오큰수
+![image](https://user-images.githubusercontent.com/66898243/135862248-6d58121e-5c08-42a9-a7f4-c30d0f1f895a.png)
 
-#### 17298 풀이 코드
->
+#### 17298 풀이 코드 1152ms (21/10/04)
+>  ![image](https://user-images.githubusercontent.com/66898243/135863678-718f77e3-52fe-4811-a15d-efcba6ccea17.png)
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
