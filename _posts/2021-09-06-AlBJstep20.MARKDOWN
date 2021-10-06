@@ -65,5 +65,8 @@ toc_label: 목차
 #### 17298 풀이 코드2 1200ms (21/10/05)
 >  ![image](https://user-images.githubusercontent.com/66898243/136045365-6da9ce3a-76b8-4441-a51c-4b7ed7c62a10.png)
 
+#### 17298 풀이 코드3 884ms (21/10/06)
+>  ![image](https://user-images.githubusercontent.com/66898243/136209215-60d33af0-8520-4d53-bf1a-e712bf991f3d.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
