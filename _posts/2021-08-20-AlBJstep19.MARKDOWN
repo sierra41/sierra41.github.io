@@ -88,9 +88,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/133259750-66e8c14e-d474-483c-9696-538feb07fdff.png)
 
 ### - 1676 팩토리얼 0의 개수	
+![image](https://user-images.githubusercontent.com/66898243/136407300-b7ee476f-4f0a-4e21-9022-4ac0bc8f2ad5.png)
 
-#### 1676 풀이 코드
->  
+#### 1676 풀이 코드 124ms  (21/10/07)
+>  ![image](https://user-images.githubusercontent.com/66898243/136407572-a3c09775-afa2-4b0e-909c-40a763a663a5.png)
  
 ### - 2004 조합 0의 개수
 
