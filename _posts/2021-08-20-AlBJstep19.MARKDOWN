@@ -65,9 +65,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/131249522-5605223d-6300-481d-a5fb-35c93737ccf0.png)
 
 ### - 11051 이항 계수 2
+![image](https://user-images.githubusercontent.com/66898243/136575843-43447890-7bd1-4b92-9700-ebb649f4628b.png)
 
-#### 11051 풀이 코드
->  
+#### 11051 풀이 코드 148ms (21/10/08)
+>  ![image](https://user-images.githubusercontent.com/66898243/136577504-1e9f555b-921e-45ae-9d87-69fd41ebb7ea.png)
  
 ### - 1010 다리 놓기
 ![image](https://user-images.githubusercontent.com/66898243/133432562-a2f2741b-7997-453e-a00c-3c6d4c10beb0.png)
