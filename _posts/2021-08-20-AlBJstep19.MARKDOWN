@@ -70,6 +70,9 @@ toc_label: 목차
 #### 11051 풀이 코드 148ms (21/10/08)
 >  ![image](https://user-images.githubusercontent.com/66898243/136577504-1e9f555b-921e-45ae-9d87-69fd41ebb7ea.png)
  
+#### 11051 풀이 코드2 124ms (21/10/09)
+>  ![image](https://user-images.githubusercontent.com/66898243/136662327-04a8149e-db01-40c0-982e-b8da8fb11812.png)
+
 ### - 1010 다리 놓기
 ![image](https://user-images.githubusercontent.com/66898243/133432562-a2f2741b-7997-453e-a00c-3c6d4c10beb0.png)
 
