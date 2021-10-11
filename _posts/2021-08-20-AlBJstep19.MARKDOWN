@@ -41,13 +41,14 @@ toc_label: 목차
 #### 1934 풀이 코드 340ms  (21/08/25)
 >  ![image](https://user-images.githubusercontent.com/66898243/130787091-78c186f6-d1ac-4d2c-972f-1b0bca2f62c0.png)
  
-#### 1934 풀이 코드 188ms  (21/08/26)
+#### 1934 풀이 코드2 188ms  (21/08/26)
 >  ![image](https://user-images.githubusercontent.com/66898243/130934258-62cdcd8e-da0f-40aa-ab82-cdaab355126d.png)
 
 ### - 2981 검문
+![image](https://user-images.githubusercontent.com/66898243/136805458-3ccdfe12-5ce2-4142-b1c3-dbef98c58a85.png)
 
-#### 2981 풀이 코드
->  
+#### 2981 풀이 코드 1548ms  (21/10/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/136806898-82f7e721-793d-4282-9ae6-0ef300ab802c.png)
  
 ### - 3036 링
 ![image](https://user-images.githubusercontent.com/66898243/131129633-714e0b67-27bb-431f-a824-e39699b11e45.png)
