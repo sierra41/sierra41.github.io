@@ -50,6 +50,9 @@ toc_label: 목차
 #### 2981 풀이 코드 1548ms  (21/10/11)
 >  ![image](https://user-images.githubusercontent.com/66898243/136806898-82f7e721-793d-4282-9ae6-0ef300ab802c.png)
  
+#### 2981 풀이 코드2 1612ms  (21/10/12)
+>   ![image](https://user-images.githubusercontent.com/66898243/136970021-e1294564-6b9e-4f09-b57f-4c05fa7817cc.png)
+
 ### - 3036 링
 ![image](https://user-images.githubusercontent.com/66898243/131129633-714e0b67-27bb-431f-a824-e39699b11e45.png)
 
