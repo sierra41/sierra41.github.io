@@ -105,9 +105,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/136407572-a3c09775-afa2-4b0e-909c-40a763a663a5.png)
  
 ### - 2004 조합 0의 개수
+![image](https://user-images.githubusercontent.com/66898243/137141101-f21fc538-bd06-4108-ae2f-b379ebe6239c.png)
 
-#### 2004 풀이 코드
->  
+#### 2004 풀이 코드 128ms  (21/10/13)
+>   ![image](https://user-images.githubusercontent.com/66898243/137142302-cb82d18d-5944-4e75-96e2-b70dafd7a499.png)
+
  
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
