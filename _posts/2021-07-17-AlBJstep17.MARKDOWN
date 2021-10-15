@@ -55,9 +55,9 @@ toc_label: 목차
 ### - 1149 RGB거리
 ![image](https://user-images.githubusercontent.com/66898243/126872321-61c4a5ef-b39f-4527-a68f-cef6d9022bd0.png)
 
-#### 1149 풀이 코드1 
->  ![image](https://user-images.githubusercontent.com/66898243/126872404-6d3a12d3-029c-42de-b31b-8a0d400142c2.png)
- 
+#### 1149 풀이 코드1 (수정) 140ms (21/10/15)
+> ![image](https://user-images.githubusercontent.com/66898243/137505380-5e6237b7-8982-46c2-ab10-5060ca204786.png)
+
 ### - 1932 정수 삼각형
  ![image](https://user-images.githubusercontent.com/66898243/126501481-4071d570-445e-429e-b3e9-1560b8591f06.png)
 
