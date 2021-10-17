@@ -52,7 +52,10 @@ toc_label: 목차
 
 #### 9461 풀이 코드1  132ms (21/10/16)
 >  ![image](https://user-images.githubusercontent.com/66898243/137586905-82c03c1f-58cd-4477-8da4-383f9c2b81cd.png)
- 
+
+#### 9461 풀이 코드2  146ms (21/10/17)
+>   ![image](https://user-images.githubusercontent.com/66898243/137625218-26d6a6a8-9611-4e61-9b90-cc0f86c920f1.png)
+
 ### - 1149 RGB거리
 ![image](https://user-images.githubusercontent.com/66898243/126872321-61c4a5ef-b39f-4527-a68f-cef6d9022bd0.png)
 
