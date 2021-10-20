@@ -44,6 +44,12 @@ toc_label: 목차
 #### 1018 풀이코드1 컴파일에러 (21/06/04)
 > ![image](https://user-images.githubusercontent.com/66898243/120818396-8b1e2000-c58d-11eb-9cdc-a93484ebebc4.png)
 
+#### 1018 풀이코드2 실패 (21/06/05)
+> ![image](https://user-images.githubusercontent.com/66898243/120895530-532fdf00-c658-11eb-8979-26755c90ea38.png)
+
+#### 1018 풀이코드3 136ms (21/10/20)
+> ![image](https://user-images.githubusercontent.com/66898243/138104489-b1742a60-fcf6-4098-abb1-8f401ab1f1db.png)
+
 ### - 1436 영화감독 숌
 ![image](https://user-images.githubusercontent.com/66898243/119849598-b8dce680-bf47-11eb-88d1-03adbec62f38.png)
 
