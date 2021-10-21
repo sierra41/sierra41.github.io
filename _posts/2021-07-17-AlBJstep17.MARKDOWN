@@ -136,9 +136,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/129034201-3ae50d12-01fd-4b20-8589-876d7c860d4c.png)
 
 ### - 9251 LCS
+![image](https://user-images.githubusercontent.com/66898243/138299700-99d2c9f5-8005-489b-85c8-b8e853c19dc9.png)
 
-#### 9251 풀이 코드1 
->
+#### 9251 풀이 코드1 160ms (21/10/21)
+> ![image](https://user-images.githubusercontent.com/66898243/138301296-100c0014-49bb-4cf9-b88d-beb83bda92b0.png)
  
 ### - 1912 연속합
  ![image](https://user-images.githubusercontent.com/66898243/128365949-5d52c3f7-6fee-4664-a399-69a7e542b10e.png)
