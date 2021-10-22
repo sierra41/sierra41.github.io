@@ -46,9 +46,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/130077549-eec6cf98-38f0-4e6a-85da-e6e66281527a.png)
 
 ### - 13305 주유소
+![image](https://user-images.githubusercontent.com/66898243/138474445-fe3c1ae7-e08c-4723-afd3-fa5562affb7b.png)
 
-#### 13305 풀이 코드
->
+#### 13305 풀이 코드  424ms (21/10/22)
+> ![image](https://user-images.githubusercontent.com/66898243/138474573-bc79cbc9-6797-4215-adc4-b1d4e3a75ca9.png)
 
 	13305	주유소
 #### - 참고 목록
