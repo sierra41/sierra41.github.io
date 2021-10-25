@@ -16,9 +16,11 @@ toc_label: 목차
 ### 이분 탐색 단계
 
 ### - 1920 수 찾기
+![image](https://user-images.githubusercontent.com/66898243/138705228-41263caf-1815-46a8-906e-8b11c0dbffbf.png)
 
-#### 1920 풀이 코드1 
-> 
+#### 1920 풀이 코드1 648ms (21/10/25)
+> ![image](https://user-images.githubusercontent.com/66898243/138706169-eb9492e3-11df-4650-a507-a3418f9f99fd.png)
+
 ### - 10816 숫자 카드 2	
 
 #### 10816 풀이 코드1 
