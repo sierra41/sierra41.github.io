@@ -21,6 +21,9 @@ toc_label: 목차
 #### 1920 풀이 코드1 648ms (21/10/25)
 > ![image](https://user-images.githubusercontent.com/66898243/138706169-eb9492e3-11df-4650-a507-a3418f9f99fd.png)
 
+#### 1920 풀이 코드2 784ms (21/10/26)
+> ![image](https://user-images.githubusercontent.com/66898243/138883536-f5c8239b-cc52-47de-9c10-d7568c2746a5.png)
+
 ### - 10816 숫자 카드 2	
 
 #### 10816 풀이 코드1 
