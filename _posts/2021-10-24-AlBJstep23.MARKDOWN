@@ -25,9 +25,11 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/138883536-f5c8239b-cc52-47de-9c10-d7568c2746a5.png)
 
 ### - 10816 숫자 카드 2	
+![image](https://user-images.githubusercontent.com/66898243/139084370-3763de76-0e04-4baa-997f-61597600c5fe.png)
 
-#### 10816 풀이 코드1 
-> 
+#### 10816 풀이 코드1  1176ms (21/10/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/139085969-2e108fad-1d6f-4a6e-a385-ec42e238aba9.png)
+
 ### - 1654 랜선 자르기	
 
 #### 1654 풀이 코드1
