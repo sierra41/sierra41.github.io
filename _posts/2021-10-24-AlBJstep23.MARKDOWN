@@ -33,6 +33,9 @@ toc_label: 목차
 #### 10816 풀이 코드2  1228ms (21/10/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/139258184-ae0849bd-80a7-421f-ba3e-179ebd09a196.png)
 
+#### 10816 풀이 코드3  952ms (21/10/29)
+>  ![image](https://user-images.githubusercontent.com/66898243/139449739-18de6109-458f-435d-b562-e82d4c877026.png
+
 ### - 1654 랜선 자르기	
 
 #### 1654 풀이 코드1
