@@ -1,0 +1,36 @@
+---
+layout: single
+title: "BaeckJoon 단계별(JAVA)_우선순위 큐 11279, 1927, 11286, 1655"
+read_time: true
+categories:  
+ - BaeckJoon 
+tags: 
+ - Algorithm
+ - BaeckJoon 
+last_modified_at: '2021-11-01 23:15:00 +0800'
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+## 백준 알고리즘 _단계별로 풀어보기(JAVA)
+### 우선순위 큐
+### - 11279 최대 힙	
+
+#### 11279 풀이 코드1
+> 
+### - 1927 최소 힙	
+
+#### 1927 풀이 코드1 
+> 
+### - 11286 절댓값 힙
+
+#### 11286 풀이 코드1
+> 
+### - 1655 가운데를 말해요
+
+#### 1655 풀이 코드1
+>
+
+
+#### - 참고 목록
+- https://www.acmicpc.net/problem/2557
