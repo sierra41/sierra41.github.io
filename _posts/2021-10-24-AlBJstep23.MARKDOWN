@@ -40,9 +40,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/139538046-3818b99d-b6eb-448c-aa88-a00150196ecf.png)
 
 ### - 1654 랜선 자르기	
+![image](https://user-images.githubusercontent.com/66898243/139864378-41790714-cb03-4eea-be27-94d7004ffdb4.png)
 
-#### 1654 풀이 코드1
-> 
+#### 1654 풀이 코드1 208ms (21/11/02)
+> ![image](https://user-images.githubusercontent.com/66898243/139865778-74ec953e-d388-4223-9680-08df2af0744b.png)
+
 ### - 2805 나무 자르기
 
 #### 2805 풀이 코드1
