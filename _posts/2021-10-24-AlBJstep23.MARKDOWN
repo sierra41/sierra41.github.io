@@ -49,9 +49,12 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/140084904-2fd3db9c-6a09-42c8-b5ee-101544b9f0aa.png)
 
 ### - 2805 나무 자르기
+![image](https://user-images.githubusercontent.com/66898243/140524927-1cefab6f-727d-4ab0-be00-4ef3cd2b5465.png)
 
-#### 2805 풀이 코드1
-> 
+
+#### 2805 풀이 코드1  980ms (수정) (21/11/06)
+>  ![image](https://user-images.githubusercontent.com/66898243/140613448-8ff008cf-5784-47df-8482-ef5afee46201.png)
+
 ### - 2110 공유기 설치 함수
 
 #### 2110 풀이 코드1 
