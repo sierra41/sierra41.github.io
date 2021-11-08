@@ -15,9 +15,11 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 우선순위 큐
 ### - 11279 최대 힙	
+![image](https://user-images.githubusercontent.com/66898243/140761800-ef3da888-1109-4a7a-9bbc-bd3fdcca7ff0.png)
 
-#### 11279 풀이 코드1
-> 
+#### 11279 풀이 코드1 1012ms (21/11/08)
+> ![image](https://user-images.githubusercontent.com/66898243/140761838-bcc0c9a2-1ba0-4c6d-8a09-c75af03f5ebd.png)
+
 ### - 1927 최소 힙	
 
 #### 1927 풀이 코드1 
