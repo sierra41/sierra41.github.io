@@ -20,6 +20,9 @@ toc_label: 목차
 #### 11279 풀이 코드1 1012ms (21/11/08)
 > ![image](https://user-images.githubusercontent.com/66898243/140761838-bcc0c9a2-1ba0-4c6d-8a09-c75af03f5ebd.png)
 
+#### 11279 풀이 코드2 1116ms (21/11/09)
+> ![image](https://user-images.githubusercontent.com/66898243/140917529-309b8e28-bf68-4c1d-9da7-bb70bb08e7a1.png)
+
 ### - 1927 최소 힙	
 
 #### 1927 풀이 코드1 
