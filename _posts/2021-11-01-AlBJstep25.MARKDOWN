@@ -24,9 +24,11 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/140917529-309b8e28-bf68-4c1d-9da7-bb70bb08e7a1.png)
 
 ### - 1927 최소 힙	
+![image](https://user-images.githubusercontent.com/66898243/141121538-1616ea5f-0863-4649-ac85-c34ea7e1c222.png)
 
-#### 1927 풀이 코드1 
-> 
+#### 1927 풀이 코드1  1004ms (21/11/10)
+> ![image](https://user-images.githubusercontent.com/66898243/141127145-bd8363cb-8570-42cd-a5a3-99b14fc2567a.png)
+
 ### - 11286 절댓값 힙
 
 #### 11286 풀이 코드1
