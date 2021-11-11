@@ -30,9 +30,11 @@ toc_label: 목차
 > ![image](https://user-images.githubusercontent.com/66898243/141127145-bd8363cb-8570-42cd-a5a3-99b14fc2567a.png)
 
 ### - 11286 절댓값 힙
+![image](https://user-images.githubusercontent.com/66898243/141316871-52b6ad8d-30c1-456f-81cf-98ab596e7dfc.png)
 
-#### 11286 풀이 코드1
-> 
+#### 11286 풀이 코드1 624ms (21/11/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/141316922-7e25ed46-5c29-4352-8531-9c471ff34d00.png)
+
 ### - 1655 가운데를 말해요
 
 #### 1655 풀이 코드1
