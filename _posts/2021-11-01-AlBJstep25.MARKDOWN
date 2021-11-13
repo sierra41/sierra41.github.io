@@ -36,9 +36,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/141316922-7e25ed46-5c29-4352-8531-9c471ff34d00.png)
 
 ### - 1655 가운데를 말해요
+![image](https://user-images.githubusercontent.com/66898243/141648333-79f833ad-f25a-42bc-9841-bec276e14161.png)
 
-#### 1655 풀이 코드1
->
+#### 1655 풀이 코드1  (21/11/13)
+> ![image](https://user-images.githubusercontent.com/66898243/141648320-730e2f88-9a56-4379-b1b0-4fd8c0b6c7fb.png)
 
 
 #### - 참고 목록
