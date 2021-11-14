@@ -110,6 +110,8 @@ toc_label: 목차
 #### 2004 풀이 코드 128ms  (21/10/13)
 >   ![image](https://user-images.githubusercontent.com/66898243/137142302-cb82d18d-5944-4e75-96e2-b70dafd7a499.png)
 
- 
+#### 2004 풀이 코드2 124ms  (21/10/14)
+>  ![image](https://user-images.githubusercontent.com/66898243/137334590-8e254afa-f5ad-4118-b8f2-da3272879037.png)
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
