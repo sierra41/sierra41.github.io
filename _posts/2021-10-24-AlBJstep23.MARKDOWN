@@ -58,9 +58,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/140650083-ad90d05a-2a27-419f-bbd1-78ed4b88266e.png)
 
 ### - 2110 공유기 설치 함수
+![image](https://user-images.githubusercontent.com/66898243/141800734-23e94102-f4da-4013-879f-19d6dc163d44.png)
 
-#### 2110 풀이 코드1 
-> 
+#### 2110 풀이 코드1 264ms (21/11/15)
+>  ![image](https://user-images.githubusercontent.com/66898243/141800681-ddd84cc5-470b-42fb-8352-303d7bee054e.png)
+
 ### - 1300 K번째 수
 
 #### 1300 풀이 코드1
