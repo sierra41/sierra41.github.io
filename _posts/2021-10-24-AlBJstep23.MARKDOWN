@@ -64,9 +64,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/141800681-ddd84cc5-470b-42fb-8352-303d7bee054e.png)
 
 ### - 1300 K번째 수
+![image](https://user-images.githubusercontent.com/66898243/142006683-112f2dd6-8b5f-4209-9960-897b6e420a32.png)
 
-#### 1300 풀이 코드1
-> 
+#### 1300 풀이 코드1 168ms (21/11/16)
+>  ![image](https://user-images.githubusercontent.com/66898243/142006713-bd663742-2ec1-433a-89cc-9f71986d4b62.png)
+
 ### - 12015 가장 긴 증가하는 부분 수열 2
 
 #### 12015 풀이 코드1
