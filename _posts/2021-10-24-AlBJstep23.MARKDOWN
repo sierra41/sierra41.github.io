@@ -70,10 +70,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/142006713-bd663742-2ec1-433a-89cc-9f71986d4b62.png)
 
 ### - 12015 가장 긴 증가하는 부분 수열 2
+![image](https://user-images.githubusercontent.com/66898243/142406215-85bffd97-425f-47a5-b58b-accb85d13c9e.png)
 
 #### 12015 풀이 코드1
->
-
+>  ![image](https://user-images.githubusercontent.com/66898243/142406440-681dba84-1377-4809-961b-ba07058f8d89.png)
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
