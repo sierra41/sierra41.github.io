@@ -45,9 +45,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/135637943-7e22ad01-9be0-4e3e-9a2a-ffbe139f4f50.png)
 
 ### - 1966 프린터 큐	
+![image](https://user-images.githubusercontent.com/66898243/142629758-ca491c13-d63e-4fde-818b-5cac6975fb14.png)
 
-#### 1966 풀이 코드
->  
+#### 1966 풀이 코드 172ms (21/11/19)  
+>  ![image](https://user-images.githubusercontent.com/66898243/142630154-f7af1d2e-b990-4e2d-91c4-7751c16d3533.png)
  
 ### - 10866 덱	
 
