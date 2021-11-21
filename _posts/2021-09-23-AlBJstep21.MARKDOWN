@@ -50,10 +50,12 @@ toc_label: 목차
 #### 1966 풀이 코드 172ms (21/11/19)  
 >  ![image](https://user-images.githubusercontent.com/66898243/142630154-f7af1d2e-b990-4e2d-91c4-7751c16d3533.png)
  
-### - 10866 덱	
+### - 10866 덱 
+![image](https://user-images.githubusercontent.com/66898243/142728862-a258d44e-24c4-4455-86c8-f4fdeb05e314.png)
 
-#### 10866 풀이 코드
->   
+#### 10866 풀이 코드	168ms (21/11/20) 
+>   ![image](https://user-images.githubusercontent.com/66898243/142728872-e7fe6f03-3fc9-48fc-9808-15237c9cce83.png)
+
 ### - 1021 회전하는 큐
 
 #### 1021 풀이 코드
