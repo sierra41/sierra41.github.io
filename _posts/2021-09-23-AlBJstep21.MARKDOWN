@@ -66,6 +66,9 @@ toc_label: 목차
 #### 1021 풀이 코드 132ms (21/11/22) 
 > ![image](https://user-images.githubusercontent.com/66898243/142869706-cb2508ca-129e-473f-a098-c1b7af446d3d.png)
 
+#### 1021 풀이 코드2 128ms (21/11/23) 
+> ![image](https://user-images.githubusercontent.com/66898243/143045738-de180182-c9d3-4e4d-98cb-834102a5025c.png)
+
 ### - 5430 AC
 
 #### 5430 풀이 코드
