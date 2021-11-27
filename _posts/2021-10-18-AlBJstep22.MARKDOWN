@@ -19,10 +19,10 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/143462968-4ca41040-a778-488e-b251-ce27a071805b.png)
 
 #### 2630 풀이 코드1 192ms (21/11/25)
->   ![image](https://user-images.githubusercontent.com/66898243/143462802-0f00277a-9947-42f7-9b6d-e6d4f7ebaa55.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/143462802-0f00277a-9947-42f7-9b6d-e6d4f7ebaa55.png)
 
-#### 2630 풀이 코드1 204ms (21/11/5)
-> ![image](https://user-images.githubusercontent.com/66898243/143599436-1a5a2521-5ad2-4437-b39c-ab5b8c59d85f.png)
+#### 2630 풀이 코드2 204ms (21/11/26)
+>  ![image](https://user-images.githubusercontent.com/66898243/143599436-1a5a2521-5ad2-4437-b39c-ab5b8c59d85f.png)
 
 ### - 1992 쿼드트리 함수
 ![image](https://user-images.githubusercontent.com/66898243/143685736-278f969c-e016-44cf-bcf8-c0b529d728db.png)
