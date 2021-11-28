@@ -28,7 +28,7 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/143685736-278f969c-e016-44cf-bcf8-c0b529d728db.png)
 
 #### 1992 풀이 코드1 120ms (21/11/27)
-> ![image](https://user-images.githubusercontent.com/66898243/143686174-221b3e5b-1e6a-45d0-a28e-3742b9e957a1.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/143686174-221b3e5b-1e6a-45d0-a28e-3742b9e957a1.png)
 
 #### 1992 풀이 코드2 124ms (21/11/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/143771506-305d4501-94ee-4747-9b54-89143650261f.png)
