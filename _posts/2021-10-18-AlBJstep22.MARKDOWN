@@ -33,11 +33,13 @@ toc_label: 목차
 #### 1992 풀이 코드2 124ms (21/11/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/143771506-305d4501-94ee-4747-9b54-89143650261f.png)
 
-### - 1780 종이의 개수 
+### - 1780 종이의 개수
+![image](https://user-images.githubusercontent.com/66898243/143888716-9da76d57-4537-43bf-b2e4-78ae04771f11.png)
 
-#### 1780 풀이 코드1
-> 
-### - 1629 곱셈 함수
+#### 1780 풀이 코드1 856ms (21/11/29)
+> ![image](https://user-images.githubusercontent.com/66898243/143888778-e9f0e85a-b1d1-4def-8e24-dcfa16ca2e40.png)
+ 
+### - 1629 곱셈 
 
 #### 1629 풀이 코드1
 > 
