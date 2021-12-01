@@ -47,9 +47,11 @@ toc_label: 목차
 #### 1629 풀이 코드1
 > 
 ### - 11401 이항 계수 3 
+![image](https://user-images.githubusercontent.com/66898243/144256974-5703f816-4c72-481f-94c3-193a624f8b8d.png)
 
-#### 11401 풀이 코드1 
-> 
+#### 11401 풀이 코드1 204ms (21/12/01)
+>  ![image](https://user-images.githubusercontent.com/66898243/144257032-2e4d47ab-cd64-404e-b491-12ed1e23694e.png
+
 ### - 2740 행렬 곱셈 
 
 #### 2740 풀이 코드1
