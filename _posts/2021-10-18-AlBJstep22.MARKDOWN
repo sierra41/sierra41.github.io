@@ -52,6 +52,9 @@ toc_label: 목차
 #### 11401 풀이 코드1 204ms (21/12/01)
 >  ![image](https://user-images.githubusercontent.com/66898243/144257032-2e4d47ab-cd64-404e-b491-12ed1e23694e.png
 
+#### 11401 풀이 코드2 248ms (21/12/02)
+>  ![image](https://user-images.githubusercontent.com/66898243/144444380-650e20d1-db70-4881-801e-8a10a9a07fd4.png)
+
 ### - 2740 행렬 곱셈 
 
 #### 2740 풀이 코드1
