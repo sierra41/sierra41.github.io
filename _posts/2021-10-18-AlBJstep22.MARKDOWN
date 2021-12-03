@@ -56,9 +56,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/144444380-650e20d1-db70-4881-801e-8a10a9a07fd4.png)
 
 ### - 2740 행렬 곱셈 
+![image](https://user-images.githubusercontent.com/66898243/144616991-467a5059-9962-4f66-b0c0-cac318864757.png)
 
-#### 2740 풀이 코드1
-> 
+#### 2740 풀이 코드1 244ms (21/12/03)
+>   ![image](https://user-images.githubusercontent.com/66898243/144623377-cd1b0325-9ee4-4164-876e-0b3304582499.png
+
 ### - 10830 행렬 제곱 
 
 #### 2630 풀이 코드1
