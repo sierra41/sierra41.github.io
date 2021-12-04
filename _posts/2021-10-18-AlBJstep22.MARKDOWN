@@ -15,7 +15,7 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 분할 정복
 ### - 2630 색종이 만들기 
-![image](https://user-images.githubusercontent.com/66898243/143462922-2a83dc82-23e1-4d0b-ba3c-44d519ea5ac2.png)
+![image](https://user-images.githubusercontent.com/66898243/144713626-00741fa2-5a81-443b-abba-b55e02c28c50.png)
 ![image](https://user-images.githubusercontent.com/66898243/143462968-4ca41040-a778-488e-b251-ce27a071805b.png)
 
 #### 2630 풀이 코드1 192ms (21/11/25)
