@@ -20,11 +20,12 @@ toc_label: 목차
 >
  
 ### - 2606 바이러스
+![image](https://user-images.githubusercontent.com/66898243/144859380-5751395f-1c9d-4ee0-95a6-f2858f83ca45.png)
 
-#### 2606 풀이 코드1
->
+#### 2606 풀이 코드1 132ms (21/12/06)
+>  ![image](https://user-images.githubusercontent.com/66898243/144859432-9f733596-8854-44d5-a30d-d7f62ab1a4d7.png)
  
-### - 2667 	단지번호붙이기
+### - 2667 단지번호붙이기
 
 #### 2667 풀이 코드1
 >
