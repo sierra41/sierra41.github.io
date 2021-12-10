@@ -32,9 +32,11 @@ toc_label: 목차
 >   ![image](https://user-images.githubusercontent.com/66898243/145054308-98d722a3-92de-4f54-b176-527e64e6064c.png)
  
 ### - 1012 유기농 배추
+![image](https://user-images.githubusercontent.com/66898243/145592734-15b64042-11ac-4baa-a62a-0018bef9e0b8.png)
 
-#### 1012 풀이 코드1
->
+#### 1012 풀이 코드1  180ms (21/12/10)
+>  ![image](https://user-images.githubusercontent.com/66898243/145592872-4aafa6ee-15a9-4b58-836b-517fb36cd5b4.png)
+
 ### - 2178 미로 탐색
 
 #### 2178 풀이 코드1
