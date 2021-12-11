@@ -37,6 +37,9 @@ toc_label: 목차
 #### 1012 풀이 코드1  180ms (21/12/10)
 >  ![image](https://user-images.githubusercontent.com/66898243/145592872-4aafa6ee-15a9-4b58-836b-517fb36cd5b4.png)
 
+#### 1012 풀이 코드2  184ms (21/12/11)
+>  ![image](https://user-images.githubusercontent.com/66898243/145681061-26ba0578-1c43-4180-80ad-a19973119d29.png)
+
 ### - 2178 미로 탐색
 
 #### 2178 풀이 코드1
