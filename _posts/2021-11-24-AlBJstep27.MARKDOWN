@@ -35,10 +35,10 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/145592734-15b64042-11ac-4baa-a62a-0018bef9e0b8.png)
 
 #### 1012 풀이 코드1  180ms (21/12/10)
->  ![image](https://user-images.githubusercontent.com/66898243/145592872-4aafa6ee-15a9-4b58-836b-517fb36cd5b4.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/145831574-cc97e5bf-dff8-4304-b31f-fb76095cc5d7.png)
 
-#### 1012 풀이 코드2  184ms (21/12/11)
->  ![image](https://user-images.githubusercontent.com/66898243/145681061-26ba0578-1c43-4180-80ad-a19973119d29.png)
+#### 1012 풀이 코드3  180ms (21/12/12)
+>  ![image](https://user-images.githubusercontent.com/66898243/145831436-6ae10ea1-a3d4-4f11-9f34-2a187ff75457.png)
 
 #### 1012 풀이 코드3  180ms (21/12/12)
 >  ![image](https://user-images.githubusercontent.com/66898243/145717009-006e0062-6d83-4c3b-8607-5337673ec63c.png)
