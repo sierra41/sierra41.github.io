@@ -44,9 +44,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/145717009-006e0062-6d83-4c3b-8607-5337673ec63c.png)
 
 ### - 2178 미로 탐색
+![image](https://user-images.githubusercontent.com/66898243/145830434-a57ce74a-6c7c-437b-8363-35ff40329a1e.png)
 
-#### 2178 풀이 코드1
->
+#### 2178 풀이 코드1  144ms (21/12/14)
+>  ![image](https://user-images.githubusercontent.com/66898243/146014073-214361da-7764-4524-85b6-df1b469f7768.png)
+
 ### - 7576 토마토
 
 #### 7576 풀이 코드1
