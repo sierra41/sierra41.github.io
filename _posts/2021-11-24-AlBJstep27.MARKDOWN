@@ -41,7 +41,7 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/145831436-6ae10ea1-a3d4-4f11-9f34-2a187ff75457.png)
 
 #### 1012 풀이 코드3  180ms (21/12/12)
->  ![image](https://user-images.githubusercontent.com/66898243/145717009-006e0062-6d83-4c3b-8607-5337673ec63c.png)
+> ![image](https://user-images.githubusercontent.com/66898243/146388100-d8205d11-be2f-42ab-b52d-e223b8be5d46.png)
 
 ### - 2178 미로 탐색
 ![image](https://user-images.githubusercontent.com/66898243/145830434-a57ce74a-6c7c-437b-8363-35ff40329a1e.png)
