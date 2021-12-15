@@ -50,6 +50,7 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/146014073-214361da-7764-4524-85b6-df1b469f7768.png)
 
 ### - 7576 토마토
+![image](https://user-images.githubusercontent.com/66898243/146183626-75abadc4-b141-4048-a583-54cf25916872.png)
 
 #### 7576 풀이 코드1
 >
