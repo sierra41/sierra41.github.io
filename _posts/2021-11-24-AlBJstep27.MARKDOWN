@@ -54,14 +54,13 @@ toc_label: 목차
 
 #### 7576 풀이 코드1
 >
-### - 7569 토마토
 
-#### 7569 풀이 코드1
->
 ### - 1697 숨바꼭질
+![image](https://user-images.githubusercontent.com/66898243/146199661-113d691b-dfe5-4307-849a-c731ce58fb07.png)
 
-#### 1697 풀이 코드1
->
+#### 1697 풀이 코드1  164ms (21/12/15)
+>  ![image](https://user-images.githubusercontent.com/66898243/146200409-567997c9-8b87-4375-a6cb-e03bebdc25ef.png
+
 ### - 2206 벽 부수고 이동하기
 
 #### 2206 풀이 코드1
