@@ -23,7 +23,7 @@ toc_label: 목차
 ### - 2470 두 용액
 ![image](https://user-images.githubusercontent.com/66898243/146678521-96a32c97-5e72-4c88-a3a7-e9a62c83a50c.png)
 
-#### 2470 풀이 코드1  196ms (21/12/19)
+#### 2470 풀이 코드1 396ms (21/12/19)
 >  ![image](https://user-images.githubusercontent.com/66898243/146678531-d46671a7-32e5-4836-8ff2-ce557c8abe8c.png
 
 ### - 1806 부분합
@@ -31,9 +31,11 @@ toc_label: 목차
 #### 1806 풀이 코드1
 >
 ### - 1644 소수의 연속합
+![image](https://user-images.githubusercontent.com/66898243/146936704-6314ce24-8f09-43fc-8c53-8f54cd561510.png)
 
-#### 1644 풀이 코드1
->
+#### 1644 풀이 코드1 228ms (21/12/20)
+>  ![image](https://user-images.githubusercontent.com/66898243/146939423-ce8d116b-fa04-4712-a676-31005c7b8e35.png
+
 ### - 1450 냅색문제
 
 #### 1450 풀이 코드1
