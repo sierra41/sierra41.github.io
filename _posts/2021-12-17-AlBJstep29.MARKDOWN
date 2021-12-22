@@ -33,8 +33,11 @@ toc_label: 목차
 ### - 1644 소수의 연속합
 ![image](https://user-images.githubusercontent.com/66898243/146936704-6314ce24-8f09-43fc-8c53-8f54cd561510.png)
 
-#### 1644 풀이 코드1 228ms (21/12/20)
+#### 1644 풀이 코드1 228ms (21/12/21)
 >  ![image](https://user-images.githubusercontent.com/66898243/146939423-ce8d116b-fa04-4712-a676-31005c7b8e35.png
+
+#### 1644 풀이 코드2 220ms (21/12/22)
+>  ![image](https://user-images.githubusercontent.com/66898243/147112147-ac315dcd-ede3-4d4a-9929-ec8a0a57bf1e.png)
 
 ### - 1450 냅색문제
 
