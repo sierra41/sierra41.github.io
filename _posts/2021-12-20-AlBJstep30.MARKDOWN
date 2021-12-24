@@ -19,9 +19,10 @@ toc_label: 목차
 #### 12852 풀이 코드1
 >
 ### - 14002 가장 긴 증가하는 부분 수열 4
+![image](https://user-images.githubusercontent.com/66898243/147360609-96aefe22-9697-4327-a038-68aa70b2f7ab.png)
 
-#### 14002 풀이 코드1
->
+#### 14002 풀이 코드1 176 (21.12.24)
+>  ![image](https://user-images.githubusercontent.com/66898243/147360705-6255e22c-79bb-497c-8d80-ffab73b87ee5.png)
  
 ### - 14003 가장 긴 증가하는 부분 수열 5
 
