@@ -28,9 +28,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/147387624-aac7c560-4a9b-4d14-9f1c-5f5a11a825bf.png)
  
 ### - 14003 가장 긴 증가하는 부분 수열 5
+![image](https://user-images.githubusercontent.com/66898243/147411413-d6186857-b546-4df7-9609-0b9492d934ad.png)
 
-#### 14003 풀이 코드1
->
+#### 14003 풀이 코드1 1048ms (21/12/26)
+>  ![image](https://user-images.githubusercontent.com/66898243/147411436-34bb20ca-6688-4048-aea6-841665470b7f.png)
+
 ### - 9252 	LCS 2
 
 #### 9252 풀이 코드1
