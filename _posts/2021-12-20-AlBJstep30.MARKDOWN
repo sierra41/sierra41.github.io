@@ -34,9 +34,10 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/147411436-34bb20ca-6688-4048-aea6-841665470b7f.png)
 
 ### - 9252 	LCS 2
+![image](https://user-images.githubusercontent.com/66898243/147483194-184c600f-3362-4dda-9527-aa867f8199fe.png)
 
-#### 9252 풀이 코드1
->
+#### 9252 풀이 코드1  192ms (21/12/27)
+>  ![image](https://user-images.githubusercontent.com/66898243/147483361-d5436ce3-2f50-43ab-9b3f-e5c4e61c9d59.png)
  
 ### - 2618 경찰차
 
