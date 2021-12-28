@@ -39,6 +39,9 @@ toc_label: 목차
 #### 9252 풀이 코드1  192ms (21/12/27)
 >  ![image](https://user-images.githubusercontent.com/66898243/147483361-d5436ce3-2f50-43ab-9b3f-e5c4e61c9d59.png)
  
+#### 9252 풀이 코드2  192ms (21/12/28)
+>  ![image](https://user-images.githubusercontent.com/66898243/147578035-8c4a0066-2989-4a37-8e7d-246d63e8fb90.png)
+
 ### - 2618 경찰차
 
 #### 2618 풀이 코드1
