@@ -15,10 +15,12 @@ toc_label: 목차
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 트리
 ### - 11725 트리의 부모 찾기
+![image](https://user-images.githubusercontent.com/66898243/147827256-0801ee65-abfe-4fb3-b855-d22808ca8980.png)
 
-#### 11725 풀이 코드1
->
-### - 1167 	트리의 지름
+#### 11725 풀이 코드1 688ms (21/12/31)
+>  ![image](https://user-images.githubusercontent.com/66898243/147828879-4f69cf11-128a-469d-9b3f-d463ff46316b.png)
+
+### - 1167 트리의 지름
 
 #### 1167 풀이 코드1
 >
