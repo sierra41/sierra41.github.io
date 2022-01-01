@@ -43,9 +43,11 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/144061308-d22e5965-983a-4dbe-a227-9c0f4127fac6.png)
 
 ### - 1629 곱셈 
+![image](https://user-images.githubusercontent.com/66898243/147853206-9edb70b8-a148-4196-8d94-8bd6b557ed55.png)
 
-#### 1629 풀이 코드1
-> 
+#### 1629 풀이 코드1 124ms (22/01/01)
+>  ![image](https://user-images.githubusercontent.com/66898243/147853208-440a098e-ea5d-42b2-96ee-16c1acaf8589.png)
+
 ### - 11401 이항 계수 3 
 ![image](https://user-images.githubusercontent.com/66898243/144256974-5703f816-4c72-481f-94c3-193a624f8b8d.png)
 
