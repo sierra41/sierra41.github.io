@@ -48,6 +48,9 @@ toc_label: 목차
 #### 1629 풀이 코드1 124ms (22/01/01)
 >  ![image](https://user-images.githubusercontent.com/66898243/147853208-440a098e-ea5d-42b2-96ee-16c1acaf8589.png)
 
+#### 1629 풀이 코드2 128ms (22/01/03)
+>  ![image](https://user-images.githubusercontent.com/66898243/147945157-029d6892-15f9-4131-b21b-52bd9acc0390.png)
+
 ### - 11401 이항 계수 3 
 ![image](https://user-images.githubusercontent.com/66898243/144256974-5703f816-4c72-481f-94c3-193a624f8b8d.png)
 
