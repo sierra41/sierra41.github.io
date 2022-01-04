@@ -58,7 +58,7 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/125639293-99a7e70a-969b-459a-a0b6-e206907e438b.png)
 
 #### 2580 풀이 코드1
->
+> ![image](https://user-images.githubusercontent.com/66898243/148078358-da7d625c-f970-4726-a0a6-1dab812dbf65.png)
 
 ### - 14888 연산자 끼워넣기
 ![image](https://user-images.githubusercontent.com/66898243/125638735-80303348-b25c-4c5d-aa3c-e304937dbfd5.png)
