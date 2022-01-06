@@ -77,6 +77,9 @@ toc_label: 목차
 #### 11444 풀이 코드1  124ms (21/12/05)
 >  ![image](https://user-images.githubusercontent.com/66898243/148238591-cfce580a-1576-484d-999f-96464ca1708a.png)
 
+#### 11444 풀이 코드2  128ms (21/12/05)
+>  ![image](https://user-images.githubusercontent.com/66898243/148395795-3554c6d6-4409-4ddd-a078-6e2a7f4ec79e.png)
+
 ### - 6549 히스토그램에서 가장 큰 직사각형 
 ![image](https://user-images.githubusercontent.com/66898243/144751897-0c95b83a-69be-4cf1-a1bb-951a7f92d0c9.png)
 
