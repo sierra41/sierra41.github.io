@@ -83,9 +83,8 @@ toc_label: 목차
 ### - 6549 히스토그램에서 가장 큰 직사각형 
 ![image](https://user-images.githubusercontent.com/66898243/144751897-0c95b83a-69be-4cf1-a1bb-951a7f92d0c9.png)
 
-#### 6549 풀이 코드1
->  ![image](https://user-images.githubusercontent.com/66898323/144751902-8sdfw5422a-af3a-4152-bb91-56bc001b86d5.png)
-
+#### 6549 풀이 코드1  808ms (21/12/08)
+>  ![image](https://user-images.githubusercontent.com/66898243/148644506-96522419-9770-40d9-b77a-a39e1fb14f8d.png)
 ### - 2261 가장 가까운 두 점 
 
 #### 2261 풀이 코드1
