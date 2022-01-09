@@ -85,6 +85,10 @@ toc_label: 목차
 
 #### 6549 풀이 코드1  808ms (21/12/08)
 >  ![image](https://user-images.githubusercontent.com/66898243/148644506-96522419-9770-40d9-b77a-a39e1fb14f8d.png)
+
+#### 6549 풀이 코드2  500ms (21/12/09)
+>  ![image](https://user-images.githubusercontent.com/66898243/148684144-d2384aab-de0a-424b-b0cf-5b51c2a854b9.png)
+
 ### - 2261 가장 가까운 두 점 
 
 #### 2261 풀이 코드1
