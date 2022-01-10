@@ -23,7 +23,7 @@ toc_label: 목차
 
 #### 1504 풀이 코드1 
 >
-### - 9370 	미확인 도착지
+### - 9370  미확인 도착지
 
 #### 9370 풀이 코드1
 >   
@@ -40,10 +40,13 @@ toc_label: 목차
 
 #### 10217 풀이 코드1
 >
-### - 1956 운동
 
-#### 1956 풀이 코드1
->
+### - 1956 운동
+![image](https://user-images.githubusercontent.com/66898243/148752080-3d25e1d3-e64c-479f-a133-63d06c912cec.png)
+
+#### 1956 풀이 코드1 692ms (21/01/10)
+>  ![image](https://user-images.githubusercontent.com/66898243/148753713-937380a7-fc76-41f0-be04-854eccf0b889.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
