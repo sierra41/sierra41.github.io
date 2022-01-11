@@ -47,6 +47,9 @@ toc_label: 목차
 #### 1956 풀이 코드1 692ms (21/01/10)
 >  ![image](https://user-images.githubusercontent.com/66898243/148753713-937380a7-fc76-41f0-be04-854eccf0b889.png)
 
+#### 1956 풀이 코드2 704ms (21/01/12)
+> ![image](https://user-images.githubusercontent.com/66898243/149153612-bdab4211-827d-4929-9e2f-860072801f93.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
