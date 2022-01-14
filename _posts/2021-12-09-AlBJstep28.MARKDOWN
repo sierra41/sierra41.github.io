@@ -35,8 +35,8 @@ toc_label: 목차
 ### - 11404 플로이드
 ![image](https://user-images.githubusercontent.com/66898243/149351624-d70f7647-460b-4ad2-8a92-9f4a60b95bb5.png)
 
-#### 11404 풀이 코드1 (21/01/13)
->  ![image](https://user-images.githubusercontent.com/66898243/149354094-48235314-bb1b-41f8-b3cd-5fc051db3103.png)
+#### 11404 풀이 코드1 실패> 504ms (21/01/13,14)
+>  ![image](https://user-images.githubusercontent.com/66898243/149533124-e2aebd53-9321-4985-8c83-ffbb220ab48e.png)
 
 ### - 10217 KCM Travel	
 
