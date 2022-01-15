@@ -1,79 +1,38 @@
-﻿---
-
+ ﻿---
 layout: single
-
 title: "BaeckJoon 단계별(JAVA)_유니온 파인드 1717, 1976, 4195, 20040"
-
 read_time: true
-
 categories:  
-
  - BaeckJoon 
-
 tags: 
-
  - Algorithm
-
  - BaeckJoon 
-
 last_modified_at: '2021-12-23 23:43:00 +0800'
-
 toc: true
-
 toc_sticky: true
-
 toc_label: 목차
-
 ---
-
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
-
 ### 유니온 파인드
-
 ### - 1717 집합의 표현
 
-
-
-
 #### 1717 풀이 코드1
-
 >
-
-
 
 ### - 1976 	행 가자
 
-
-
-
 #### 1976 풀이 코드1
-
 >
-
  
-
 ### - 4195 친구 네트워크
 
-
-
-
 #### 	4195 풀이 코드1
-
 >
-
  
-
 ### - 20040 사이클 게임
 
-
-
-
 #### 20040 풀이 코드1
-
 >
-
  
-
 #### - 참고 목록
-
 - https://www.acmicpc.net/problem/2557

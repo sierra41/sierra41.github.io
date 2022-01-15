@@ -13,34 +13,40 @@ toc_sticky: true
 toc_label: 목차
 ---
 ## 백준 알고리즘 _단계별로 풀어보기
-### if문 단계
+### if문
 ### - 1330 두 수 비교하기 문제
 ![image](https://user-images.githubusercontent.com/66898243/86426042-a4856f00-bd21-11ea-9996-2c459651eb9b.png)
 
 #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/86426333-5de44480-bd22-11ea-8f30-e5635dce8273.png)
+
 ***
 ### - 9498 시험성적 문제
 ![image](https://user-images.githubusercontent.com/66898243/86426380-84a27b00-bd22-11ea-9aa5-cc031fc9cd30.png)
 
 #### 코드1(if방식)
 >  ![image](https://user-images.githubusercontent.com/66898243/86426380-84a27b00-bd22-11ea-9aa5-cc031fc9cd30.png)
+
 #### 코드2(switch방식)
 >  ![image](https://user-images.githubusercontent.com/66898243/86431356-93435f00-bd2f-11ea-8b9c-3c205a3384fb.png)
+
 #### 코드3(switch방식)
 >  ![image](https://user-images.githubusercontent.com/66898243/86431289-64c58400-bd2f-11ea-995d-7489467e85e1.png)
+
 ***
 ### - 2753 윤년 문제
 ![image](https://user-images.githubusercontent.com/66898243/86427249-adc40b00-bd24-11ea-876d-c55a3c256306.png)
 
 #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/86432150-bb33c200-bd31-11ea-941e-d2cf6c22ac6e.png)
+
 ***
 ### - 14681 사분면 문제
 ![image](https://user-images.githubusercontent.com/66898243/86427299-d21fe780-bd24-11ea-8c73-5a92226d6862.png)
 
 #### 코드
 >![image](https://user-images.githubusercontent.com/66898243/86432497-dfdc6980-bd32-11ea-8188-9cecad5c50bc.png)
+
 ***
 ### - 2884 알람 시계 문제
 
@@ -48,8 +54,10 @@ toc_label: 목차
 
 #### 코드 1 (Scanner)
 >  ![image](https://user-images.githubusercontent.com/66898243/86438066-c9d5a580-bd40-11ea-8728-7cdc0eee0f0d.png)
+
 #### 코드 2 (BufferedReader - SpringTokenizer)
 >  ![image](https://user-images.githubusercontent.com/66898243/86438229-220ca780-bd41-11ea-984f-22b213f1c632.png)
+
 #### 코드 3 (BufferedReader - split)
 >  ![image](https://user-images.githubusercontent.com/66898243/86438282-3b155880-bd41-11ea-929a-a8f7a6717f08.png)
 

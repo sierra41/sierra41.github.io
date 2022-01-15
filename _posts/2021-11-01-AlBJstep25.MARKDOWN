@@ -1,4 +1,4 @@
----
+ ﻿---
 layout: single
 title: "BaeckJoon 단계별(JAVA)_우선순위 큐 11279, 1927, 11286, 1655"
 read_time: true
@@ -35,11 +35,14 @@ toc_label: 목차
 #### 11286 풀이 코드1 624ms (21/11/11)
 >  ![image](https://user-images.githubusercontent.com/66898243/141316922-7e25ed46-5c29-4352-8531-9c471ff34d00.png)
 
+
 ### - 1655 가운데를 말해요
 ![image](https://user-images.githubusercontent.com/66898243/141648333-79f833ad-f25a-42bc-9841-bec276e14161.png)
 
 #### 1655 풀이 코드1  (21/11/13)출력초과  > (21/11/14)
 >  ![image](https://user-images.githubusercontent.com/66898243/141686482-af25e07c-434d-453c-8f7b-8afb004919c8.png)
+
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

@@ -27,7 +27,7 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/134899553-be4a7c96-6628-43ac-bc73-3e4714c6b839.png)
 
 #### 2164 풀이 코드 196ms (21/09/27)
->  ![image](https://user-images.githubusercontent.com/66898243/134899658-5c769503-d1a5-4f2e-b7e1-946dd8a84c12.png
+>  ![image](https://user-images.githubusercontent.com/66898243/134899658-5c769503-d1a5-4f2e-b7e1-946dd8a84c12.png)
 
 #### 2164 풀이 코드2 132ms (21/09/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/135100589-a97f750d-eea4-4e56-a20f-a018d6c70f7d.png)
@@ -73,6 +73,7 @@ toc_label: 목차
 
 #### 5430 풀이 코드
 >
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

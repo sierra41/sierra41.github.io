@@ -2,10 +2,6 @@
 layout: single
 title: "BaeckJoon 단계별(JAVA)_그리디 알고리즘 11047, 1931, 11399, 1541, 13305"
 read_time: true
-Write Preview
-Attach files by dragging & dropping, selecting or pasting them.
-Add single comment
-Cancel
 categories: 
  - BaeckJoon 
 tags: 
@@ -30,17 +26,20 @@ toc_label: 목차
 #### 1931 풀이 코드1 560ms (21/08/16)
 >  ![image](https://user-images.githubusercontent.com/66898243/129583819-6e267806-4ade-40a8-a06b-e49f15d56e1c.png)
 
+
 ### - 11399 ATM
 ![image](https://user-images.githubusercontent.com/66898243/129727399-b362a6d2-c89e-45a9-a5cc-1e154cc96b65.png)
 
 #### 11399 풀이 코드 144ms (21/08/17)
 >  ![image](https://user-images.githubusercontent.com/66898243/129727792-65820d29-830e-4b1f-a225-a3e5ba3ccc22.png)
 
+
 ### - 1541 잃어버린 괄호
 ![image](https://user-images.githubusercontent.com/66898243/129915547-e83b6609-7c69-4baa-b906-814c58c88546.png)
 
 #### 1541 풀이 코드 220ms (21/08/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/129918392-fc71bf99-2321-4532-a840-a8170796f7df.png)
+
 
 #### 1541 풀이 코드2 140ms (21/08/19)
 >  ![image](https://user-images.githubusercontent.com/66898243/130077549-eec6cf98-38f0-4e6a-85da-e6e66281527a.png)
@@ -53,6 +52,8 @@ toc_label: 목차
 
 #### 13305 풀이 코드2  453ms (21/10/23)
 >  ![image](https://user-images.githubusercontent.com/66898243/138559072-60ab3b45-e024-49a8-8022-6dab0fc33a79.png)
+
+
 
 	13305	주유소
 #### - 참고 목록

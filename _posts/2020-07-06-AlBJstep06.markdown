@@ -19,8 +19,8 @@ toc_label: 목차
 
 #### 코드1. BufferedWriter 사용 80ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86546309-36ce8280-bf6f-11ea-846d-769f1ee494f0.png)
+
 #### 코드2. StringBuilder 사용 80ms (메모리는 더 적게 사용함)
->  
 >  ![image](https://user-images.githubusercontent.com/66898243/86546287-1c94a480-bf6f-11ea-8c34-209a3c2f03af.png)
 
 ***
@@ -29,8 +29,10 @@ toc_label: 목차
 
 #### 코드1. BufferReader (null 반환) + StringTokenizer 80ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86548426-4225ac00-bf77-11ea-8848-41b2817b606b.png)
+
 #### 코드2.  BufferReader (null 반환) + charAt() (10이하 정수 값에서 사용 가능) 76ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86548516-a9436080-bf77-11ea-95cd-641d2d3cf42e.png)
+
 ***
 ### - 1110 더하기 사이클 문제
 ![image](https://user-images.githubusercontent.com/66898243/86545359-5367bc00-bf69-11ea-9ccf-812be7a5d1ed.png)

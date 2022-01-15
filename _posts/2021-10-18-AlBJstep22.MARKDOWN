@@ -14,7 +14,7 @@ toc_label: 목차
 ---
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 분할 정복
-### - 2630 색종이 만들기 
+### - 2630 색종이 만들기
 ![image](https://user-images.githubusercontent.com/66898243/144713626-00741fa2-5a81-443b-abba-b55e02c28c50.png)
 ![image](https://user-images.githubusercontent.com/66898243/143462968-4ca41040-a778-488e-b251-ce27a071805b.png)
 
@@ -24,7 +24,7 @@ toc_label: 목차
 #### 2630 풀이 코드2 204ms (21/11/26)
 >  ![image](https://user-images.githubusercontent.com/66898243/143599436-1a5a2521-5ad2-4437-b39c-ab5b8c59d85f.png)
 
-### - 1992 쿼드트리 
+### - 1992 쿼드트리
 ![image](https://user-images.githubusercontent.com/66898243/143685736-278f969c-e016-44cf-bcf8-c0b529d728db.png)
 
 #### 1992 풀이 코드1 120ms (21/11/27)
@@ -42,7 +42,7 @@ toc_label: 목차
 #### 1780 풀이 코드2 1025ms (21/11/30)
 >  ![image](https://user-images.githubusercontent.com/66898243/144061308-d22e5965-983a-4dbe-a227-9c0f4127fac6.png)
 
-### - 1629 곱셈 
+### - 1629 곱셈
 ![image](https://user-images.githubusercontent.com/66898243/147853206-9edb70b8-a148-4196-8d94-8bd6b557ed55.png)
 
 #### 1629 풀이 코드1 124ms (22/01/01)
@@ -51,11 +51,11 @@ toc_label: 목차
 #### 1629 풀이 코드2 128ms (22/01/03)
 >  ![image](https://user-images.githubusercontent.com/66898243/147945157-029d6892-15f9-4131-b21b-52bd9acc0390.png)
 
-### - 11401 이항 계수 3 
+### - 11401 이항 계수 3
 ![image](https://user-images.githubusercontent.com/66898243/144256974-5703f816-4c72-481f-94c3-193a624f8b8d.png)
 
 #### 11401 풀이 코드1 204ms (21/12/01)
->  ![image](https://user-images.githubusercontent.com/66898243/144257032-2e4d47ab-cd64-404e-b491-12ed1e23694e.png
+>  ![image](https://user-images.githubusercontent.com/66898243/144257032-2e4d47ab-cd64-404e-b491-12ed1e23694e.png)
 
 #### 11401 풀이 코드2 248ms (21/12/02)
 >  ![image](https://user-images.githubusercontent.com/66898243/144444380-650e20d1-db70-4881-801e-8a10a9a07fd4.png)
@@ -64,7 +64,8 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/144616991-467a5059-9962-4f66-b0c0-cac318864757.png)
 
 #### 2740 풀이 코드1 244ms (21/12/03)
->   ![image](https://user-images.githubusercontent.com/66898243/144623377-cd1b0325-9ee4-4164-876e-0b3304582499.png
+>   ![image](https://user-images.githubusercontent.com/66898243/144623377-cd1b0325-9ee4-4164-876e-0b3304582499.png)
+
 
 ### - 10830 행렬 제곱 
 
@@ -93,6 +94,7 @@ toc_label: 목차
 
 #### 2261 풀이 코드1
 >
+
 
 
 #### - 참고 목록

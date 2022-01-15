@@ -23,7 +23,7 @@ toc_label: 목차
 ### - 2231 분해합
 ![image](https://user-images.githubusercontent.com/66898243/119849261-72878780-bf47-11eb-89af-6d88155f9169.png)
 
-#### 2231 풀이 코드1 140ms (21/05/30)  -1~n 전체 찾기
+#### 2231 풀이 코드1 140ms (21/05/30) -1~n 전체 찾기
 > ![image](https://user-images.githubusercontent.com/66898243/120108636-0902b580-c1a1-11eb-9a1c-cf1472c6152b.png)
 
 #### 2231 풀이 코드2 120ms (21/05/31) -최소값설정 
@@ -35,13 +35,10 @@ toc_label: 목차
 #### 7568 풀이 코드 140ms (21/06/01)
 >  ![image](https://user-images.githubusercontent.com/66898243/120341395-ce7c5280-c331-11eb-948d-44608452fe69.png)
 
-#### 7568 풀이 코드
->  
-
 ### - 1018 체스판 다시 칠하기
 ![image](https://user-images.githubusercontent.com/66898243/119849553-afec1500-bf47-11eb-8081-0cb311fde2a8.png)
 
-#### 1018 풀이코드1 컴파일에러 (21/06/04)
+#### 1018 풀이코드1 실패 (21/06/04)
 > ![image](https://user-images.githubusercontent.com/66898243/120818396-8b1e2000-c58d-11eb-9cdc-a93484ebebc4.png)
 
 #### 1018 풀이코드2 실패 (21/06/05)
@@ -50,23 +47,18 @@ toc_label: 목차
 #### 1018 풀이코드3 136ms (21/10/20)
 > ![image](https://user-images.githubusercontent.com/66898243/138104489-b1742a60-fcf6-4098-abb1-8f401ab1f1db.png)
 
-#### 1018 풀이코드3 136ms (21/10/20)
-> ![image](https://user-images.githubusercontent.com/66898243/138104489-b1742a60-fcf6-4098-abb1-8f401ab1f1db.png)
-
 ### - 1436 영화감독 숌
 ![image](https://user-images.githubusercontent.com/66898243/119849598-b8dce680-bf47-11eb-88d1-03adbec62f38.png)
 
-#### 1436 풀이 코드1 시간초과 실패 (21/06/02)
+#### 1436 풀이 코드1 실패 (21/06/02)
 > ![image](https://user-images.githubusercontent.com/66898243/120503296-24b6c780-c3fe-11eb-8988-66c43faf2456.png)
-
-#### 1018 풀이코드2 실패 (21/06/05)
-> ![image](https://user-images.githubusercontent.com/66898243/120895530-532fdf00-c658-11eb-8979-26755c90ea38.png)
 
 #### 1436 풀이 코드2 실패 (21/06/03)
 > ![image](https://user-images.githubusercontent.com/66898243/120664901-47acae80-c4c6-11eb-8489-e83e3c60a87e.png)
 
 #### 1436 풀이 코드3 300ms (21/06/03)
 > ![image](https://user-images.githubusercontent.com/66898243/120665144-7b87d400-c4c6-11eb-9ec1-217cc83dc214.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

@@ -19,47 +19,58 @@ toc_label: 목차
 
 #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/86557475-33e48980-bf91-11ea-8f83-cf1b43c985c3.png)
+
 ***
 ### - 5543 상근날드 문제
 ![image](https://user-images.githubusercontent.com/66898243/86556907-8cb32280-bf8f-11ea-9781-60a81f78b4ff.png)
 
 #### 코드1. 배열 하나에 담아서 비교 80ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86560096-8bd2be80-bf98-11ea-9912-64ee1c7ccd27.png)
+
 #### 코드2. 배열 나눠서 비교 76ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86560026-604fd400-bf98-11ea-809b-149e187a47cf.png)
+
 ***
 ### - 10817 세수 문제
 ![image](https://user-images.githubusercontent.com/66898243/86556983-cc7a0a00-bf8f-11ea-98f5-44b2afb79af6.png)
 
 #### 코드1. Array.sort() 사용
 >  ![image](https://user-images.githubusercontent.com/66898243/86562976-8d06ea00-bf9e-11ea-9df4-9082a28280d0.png)
+
 #### 코드2. 정렬 사용 안하고 비교
 >  ![image](https://user-images.githubusercontent.com/66898243/86563023-9e4ff680-bf9e-11ea-8f2a-d5db3656aed2.png)
+
 ***
 ### - 2523 별 찍기 -13 문제
 ![image](https://user-images.githubusercontent.com/66898243/86557003-e0be0700-bf8f-11ea-9d63-c3e3364d76ee.png)
 
 #### 코드1. sysout 출력 156ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86568168-6d27f400-bfa7-11ea-98ea-09ed32a7b502.png)
+
 #### 코드2. StringBuilder 출력 84ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86568269-90eb3a00-bfa7-11ea-90c5-463177375456.png)
+
 #### 코드3. 2번 코드 개선 80ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86569141-f25fd880-bfa8-11ea-9047-5dcfa8a1ab08.png)
+
 ***
 ### - 2446 별 찍기 -9 문제
 ![image](https://user-images.githubusercontent.com/66898243/86557040-f5020400-bf8f-11ea-8cbc-a85feb67d529.png)
 
 #### 코드1. 84ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86571917-2f2dce80-bfad-11ea-8ece-1aa6bf85400f.png)
-#### 코드2. 개선
+
 #### 코드2. 개선
 >  ![image](https://user-images.githubusercontent.com/66898243/86681209-4e267200-c03a-11ea-9a91-25b713a72c91.png)
+
 ***
 ### - 10996 별 찍기 -21 문제
 ![image](https://user-images.githubusercontent.com/66898243/86557065-0519e380-bf90-11ea-8ee7-177007c610a7.png)
 
 #### 코드1. 84ms
 >  ![image](https://user-images.githubusercontent.com/66898243/86680808-e96b1780-c039-11ea-8053-df284a207b8a.png)
+
+
 
 
 #### - 참고 목록

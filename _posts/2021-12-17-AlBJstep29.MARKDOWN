@@ -1,4 +1,4 @@
----
+ ﻿---
 layout: single
 title: "BaeckJoon 단계별(JAVA)_투 포인터 3273, 2470, 1806, 1644, 1450"
 read_time: true
@@ -19,22 +19,23 @@ toc_label: 목차
 
 #### 3273 풀이 코드1 316ms (21/12/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/146645019-061be3e8-3d0b-4101-9656-17ca5b2c2335.png)
- 
+
 ### - 2470 두 용액
 ![image](https://user-images.githubusercontent.com/66898243/146678521-96a32c97-5e72-4c88-a3a7-e9a62c83a50c.png)
 
-#### 2470 풀이 코드1 396ms (21/12/19)
->  ![image](https://user-images.githubusercontent.com/66898243/146678531-d46671a7-32e5-4836-8ff2-ce557c8abe8c.png
+#### 2470 풀이 코드1  396ms (21/12/19)
+>  ![image](https://user-images.githubusercontent.com/66898243/146678531-d46671a7-32e5-4836-8ff2-ce557c8abe8c.png)
 
 ### - 1806 부분합
 
 #### 1806 풀이 코드1
 >
+
 ### - 1644 소수의 연속합
 ![image](https://user-images.githubusercontent.com/66898243/146936704-6314ce24-8f09-43fc-8c53-8f54cd561510.png)
 
 #### 1644 풀이 코드1 228ms (21/12/21)
->  ![image](https://user-images.githubusercontent.com/66898243/146939423-ce8d116b-fa04-4712-a676-31005c7b8e35.png
+>  ![image](https://user-images.githubusercontent.com/66898243/146939423-ce8d116b-fa04-4712-a676-31005c7b8e35.png)
 
 #### 1644 풀이 코드2 220ms (21/12/22)
 >  ![image](https://user-images.githubusercontent.com/66898243/147112147-ac315dcd-ede3-4d4a-9929-ec8a0a57bf1e.png)
@@ -43,5 +44,6 @@ toc_label: 목차
 
 #### 1450 풀이 코드1
 >
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

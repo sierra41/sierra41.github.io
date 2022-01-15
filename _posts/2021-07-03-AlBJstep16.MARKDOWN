@@ -24,29 +24,29 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/124485305-649b1100-dde7-11eb-81bb-da9b2047ceb5.png)
 
 #### 15649 풀이 코드3 전역변수활용2 348ms (21/07/06)
-> ![image](https://user-images.githubusercontent.com/66898243/124616862-66c9a200-deb1-11eb-8b82-3ba8e0b2e632.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/124616862-66c9a200-deb1-11eb-8b82-3ba8e0b2e632.png)
 
 ### - 14550 N과 M (2)
  ![image](https://user-images.githubusercontent.com/66898243/124780227-6696d880-df7d-11eb-9442-7053d8a8531f.png)
 
-#### 14550 풀이 코드 148ms (21/07/07)
+#### 14550 풀이 코드1 148ms (21/07/07)
 >  ![image](https://user-images.githubusercontent.com/66898243/124782096-ea04f980-df7e-11eb-85c9-f51fca6e4c5e.png)
 
 ### - 15651 N과 M (3)
-![image](https://user-images.githubusercontent.com/66898243/124941261-a628f780-e045-11eb-8427-d6c72c8c97f5.png)
-
-#### 15651 풀이 코드
-> ![image](https://user-images.githubusercontent.com/66898243/124941714-facc7280-e045-11eb-9892-63e78071db74.png)
+ ![image](https://user-images.githubusercontent.com/66898243/124941261-a628f780-e045-11eb-8427-d6c72c8c97f5.png)
+ 
+#### 15651 풀이 코드1 592ms (21/07/08)
+>  ![image](https://user-images.githubusercontent.com/66898243/124941714-facc7280-e045-11eb-9892-63e78071db74.png)
 
 ### - 15652 N과 M (4)
-![image](https://user-images.githubusercontent.com/66898243/125094577-595d2380-e10e-11eb-900a-4d5012e81f14.png)
+ ![image](https://user-images.githubusercontent.com/66898243/125094577-595d2380-e10e-11eb-900a-4d5012e81f14.png)
 
 #### 15652 풀이 코드1 204ms (21/07/09)
 >  ![image](https://user-images.githubusercontent.com/66898243/125095268-f9b34800-e10e-11eb-8d29-f056ee1be9e0.png)
 
 ### - 9663 N-Queen 
  ![image](https://user-images.githubusercontent.com/66898243/125166856-9e4d8c80-e1d8-11eb-9a95-6273d51b9a44.png)
-
+ 
 #### 9663 풀이 코드1 6980ms (21/07/10)
 >  ![image](https://user-images.githubusercontent.com/66898243/125166893-bf15e200-e1d8-11eb-97a5-2dce057d0c57.png)
 
@@ -60,6 +60,7 @@ toc_label: 목차
 #### 2580 풀이 코드1
 > ![image](https://user-images.githubusercontent.com/66898243/148078358-da7d625c-f970-4726-a0a6-1dab812dbf65.png)
 
+
 ### - 14888 연산자 끼워넣기
 ![image](https://user-images.githubusercontent.com/66898243/125638735-80303348-b25c-4c5d-aa3c-e304937dbfd5.png)
 
@@ -67,7 +68,7 @@ toc_label: 목차
 >  ![image](https://user-images.githubusercontent.com/66898243/125472169-13c82a3e-c293-4599-9c9c-071a204d96fb.png)
 
 #### 14888 풀이 코드2 (21/07/13) 132ms
-> ![image](https://user-images.githubusercontent.com/66898243/125638929-1bcb0a45-42d8-45b3-90c8-9e60078f2f63.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/125638929-1bcb0a45-42d8-45b3-90c8-9e60078f2f63.png)
 
 ### - 14889 스타트와 링크
 ![image](https://user-images.githubusercontent.com/66898243/125638480-b41405b7-48a2-44da-8531-c1ac0355fe46.png)
@@ -78,6 +79,7 @@ toc_label: 목차
 
 #### 14889 풀이 코드2 404ms (21/07/27)
 >  ![image](https://user-images.githubusercontent.com/66898243/127164783-dde1037c-328a-4415-9742-ec9d86fe91fa.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

@@ -35,7 +35,6 @@ toc_label: 목차
 
 #### 2581 풀이 코드3 168ms (21/06/25)
 >  ![image](https://user-images.githubusercontent.com/66898243/123438550-c13e4500-d60b-11eb-9998-b359b07aeb74.png)
-
 *** 
 ### - 11653 소인수분해
 ![image](https://user-images.githubusercontent.com/66898243/117808469-e2371a80-b297-11eb-8e17-f5fce3639bde.png)
@@ -77,7 +76,7 @@ toc_label: 목차
 
 ***
 ### - 9020 골드하브의 추측 문제
-![image](https://user-images.githubusercontent.com/66898243/87558804-7bd38100-c6f4-11ea-9080-0c221c1529ad.png)
+![image](https://user-images.githubusercontent.com/66898243/119229424-fc53e100-bb52-11eb-9d79-7baae44845fa.png)
 
 #### 9020 풀이 코드1 (21/05/24) 실패
 >  ![image](https://user-images.githubusercontent.com/66898243/119365660-1fb19400-bceb-11eb-9056-98b8a82246a1.png)
@@ -101,12 +100,14 @@ toc_label: 목차
 
 #### 3009 풀이 코드 148ms (21/05/16)
 >  ![image](https://user-images.githubusercontent.com/66898243/118398406-6b34c400-b693-11eb-8359-8fe29540881e.png)
+
 ***
 ### - 4153 직각삼각형 문제 
 ![image](https://user-images.githubusercontent.com/66898243/118492365-e7dea580-b75a-11eb-982f-5d6c4188995e.png)
 
 #### 4153 풀이 코드148ms (21/05/17)
 >  ![image](https://user-images.githubusercontent.com/66898243/118492294-d7c6c600-b75a-11eb-9b16-8f2acb8a262c.png)
+
 ***
 ### - 3053 택시 기하학 문제
 ![image](https://user-images.githubusercontent.com/66898243/119999699-f9eafe80-c00c-11eb-9e51-c9f8f9f671fb.png)
@@ -120,7 +121,6 @@ toc_label: 목차
 
 #### 1002 풀이 코드 144ms (21/10/19)
 > ![image](https://user-images.githubusercontent.com/66898243/137934017-a003d7e1-e7c8-467a-a7cb-00a4b24ff8f2.png)
-
-
+   
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

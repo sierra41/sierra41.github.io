@@ -1,4 +1,4 @@
-﻿---
+ ﻿---
 layout: single
 title: "BaeckJoon 단계별(JAVA)_동적 계획법과 최단거리 역추적 12852, 14002, 14003, 9252, 2618, 13913, 9019, 11779, 11780"
 read_time: true
@@ -18,6 +18,7 @@ toc_label: 목차
 
 #### 12852 풀이 코드1
 >
+
 ### - 14002 가장 긴 증가하는 부분 수열 4
 ![image](https://user-images.githubusercontent.com/66898243/147360609-96aefe22-9697-4327-a038-68aa70b2f7ab.png)
 
@@ -26,19 +27,20 @@ toc_label: 목차
 
 #### 14002 풀이 코드2 172ms (21/12/25)
 >  ![image](https://user-images.githubusercontent.com/66898243/147387624-aac7c560-4a9b-4d14-9f1c-5f5a11a825bf.png)
- 
+
 ### - 14003 가장 긴 증가하는 부분 수열 5
 ![image](https://user-images.githubusercontent.com/66898243/147411413-d6186857-b546-4df7-9609-0b9492d934ad.png)
 
 #### 14003 풀이 코드1 1048ms (21/12/26)
 >  ![image](https://user-images.githubusercontent.com/66898243/147411436-34bb20ca-6688-4048-aea6-841665470b7f.png)
 
+
 ### - 9252 	LCS 2
 ![image](https://user-images.githubusercontent.com/66898243/147483194-184c600f-3362-4dda-9527-aa867f8199fe.png)
 
 #### 9252 풀이 코드1  192ms (21/12/27)
 >  ![image](https://user-images.githubusercontent.com/66898243/147483361-d5436ce3-2f50-43ab-9b3f-e5c4e61c9d59.png)
- 
+
 #### 9252 풀이 코드2  192ms (21/12/28)
 >  ![image](https://user-images.githubusercontent.com/66898243/147578035-8c4a0066-2989-4a37-8e7d-246d63e8fb90.png)
 

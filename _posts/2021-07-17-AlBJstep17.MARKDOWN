@@ -19,12 +19,13 @@ toc_label: 목차
 
 #### 1003 풀이 코드1 164ms (21/07/18)
 >  ![image](https://user-images.githubusercontent.com/66898243/126070885-aed15a4e-6b0a-4098-bd8b-309fb13b995f.png)
-
+>  
 #### 1003 풀이 코드2 168ms (21/07/19)
 >  ![image](https://user-images.githubusercontent.com/66898243/126178033-8376e73d-cf56-4bfa-ac19-ac69c8a601bb.png)
 
 #### 1003 풀이 코드3 168ms (21/07/20)
 >  ![image](https://user-images.githubusercontent.com/66898243/126342830-5617eb82-0a43-44d0-86a7-d84c21471fc4.png)
+
 
 ### - 9184 신나는 함수 실행
 ![image](https://user-images.githubusercontent.com/66898243/126794589-f1c61901-0415-487c-8a34-a1657459525a.png)
@@ -56,6 +57,7 @@ toc_label: 목차
 #### 9461 풀이 코드2  146ms (21/10/17)
 >   ![image](https://user-images.githubusercontent.com/66898243/137625218-26d6a6a8-9611-4e61-9b90-cc0f86c920f1.png)
 
+
 ### - 1149 RGB거리
 ![image](https://user-images.githubusercontent.com/66898243/126872321-61c4a5ef-b39f-4527-a68f-cef6d9022bd0.png)
 
@@ -67,7 +69,7 @@ toc_label: 목차
 
 #### 1932 풀이 코드1 Scanner사용 976ms (21/07/21)
 >  ![image](https://user-images.githubusercontent.com/66898243/126506275-4c6368a3-a3ec-477d-bb87-416878f7fd3b.png)
- 
+
 #### 1932 풀이 코드2 328ms (21/07/22)
 >  ![image](https://user-images.githubusercontent.com/66898243/126657838-e15ad98d-a6e0-4511-bedc-d3028dda2b2c.png)
 
@@ -98,13 +100,13 @@ toc_label: 목차
 
 #### 10844 풀이 코드1 132ms (21/08/31)
 >  ![image](https://user-images.githubusercontent.com/66898243/131522305-c7c0e5e9-9db2-44ce-8ba2-916b86c859da.png)
- 
+
 ### - 2156 포도주 시식
 ![image](https://user-images.githubusercontent.com/66898243/131684835-956afb39-c967-4ddc-b550-3720ec2c918e.png)
 
 #### 2156 풀이 코드1 144ms (21/09/01)
 >  ![image](https://user-images.githubusercontent.com/66898243/131684790-1f7c84cb-a3c9-472e-bf04-07f1970802ba.png)
- 
+
 #### 2156 풀이 코드2 172ms (21/09/02)
 >  ![image](https://user-images.githubusercontent.com/66898243/131864138-9a696025-c47d-4b7f-a106-339f98cb40c5.png)
 
@@ -122,6 +124,7 @@ toc_label: 목차
 
 #### 11054 풀이 코드1 168ms (21/09/05)
 >  ![image](https://user-images.githubusercontent.com/66898243/132125936-064f5d87-0bc4-4b7e-9237-913f616babb8.png)
+
  
 ### - 2565 전깃줄	
  ![image](https://user-images.githubusercontent.com/66898243/128633943-575fd63f-456e-442f-a286-805ac4abcc07.png)
@@ -146,13 +149,14 @@ toc_label: 목차
 
 #### 1912 풀이 코드1 388ms (21/08/05)
 >  ![image](https://user-images.githubusercontent.com/66898243/128367981-6d937f81-111e-4189-973c-e8d6a8f4aba9.png)
- 
+
 #### 1912 풀이 코드2 304ms (21/08/06)
 >  ![image](https://user-images.githubusercontent.com/66898243/128525453-6cd8bebe-9986-4a84-a631-57b0dd8fe5c6.png)
 
 #### 1912 풀이 코드3 616ms (21/08/07)
 >  ![image](https://user-images.githubusercontent.com/66898243/128604208-60bfd1a8-6965-452a-8459-133701ac8c52.png)
 
+ 
 ### - 12865 평범한 배낭
 ![image](https://user-images.githubusercontent.com/66898243/131355230-a46f38de-c8ef-4496-b38e-cbcd95ec47fd.png)
 

@@ -7,7 +7,7 @@ categories:
 tags: 
  - Algorithm
  - BaeckJoon 
-last_modified_at: '2020-07-03 17:21:00 +0800'
+last_modified_at: '2020-07-10 13:01:00 +0800'
 toc: true
 toc_sticky: true
 toc_label: 목차
@@ -19,18 +19,24 @@ toc_label: 목차
 
 #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/86991723-bdd36300-c1da-11ea-8bc4-2922dada164e.png)
+
 ***
 ### - 4673 셀프 넘버 문제
+![image](https://user-images.githubusercontent.com/66898243/87018418-2be44e00-c20c-11ea-9174-b2d0353a291d.png)
 
+#### 코드1. 배열 10001개
+>  ![image](https://user-images.githubusercontent.com/66898243/87008372-99897d80-c1fe-11ea-823e-0bdae86c3757.png)
 
-#### 코드
->  
+#### 코드2. 배열 10000개
+>  ![image](https://user-images.githubusercontent.com/66898243/87018008-a8c2f800-c20b-11ea-889e-fff43647ccc4.png)
+
 ***
 ### - 1065 한수 문제
 ![image](https://user-images.githubusercontent.com/66898243/87115246-aa44fc80-c2ad-11ea-8fc7-3bbd68ebb909.png)
 
 #### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/87111502-7dd8b280-c2a4-11ea-9109-e431a163bd0a.png)
+
 
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

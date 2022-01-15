@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "BaeckJoon 단계별 입출력과 사칙연산 10718 We love kriii"
+title: "BaeckJoon 단계별_ 입출력과 사칙연산 10718 We love kriii"
 read_time: true
 categories: 
  - BaeckJoon 
@@ -14,11 +14,14 @@ toc_label: 목차
 ---
 ## 백준 알고리즘 _단계별로 풀어보기
 ### 입출력과 사칙연산
-#### - 10718 문제
+### - 10718 문제
 ![image](https://user-images.githubusercontent.com/66898243/86335663-bfa4a000-bc89-11ea-8434-1997d287b0e6.png)
-#### - 풀이 
+
+#### 풀이 
 글자 출력
-#### - 코드
+
+#### 코드
 >  ![image](https://user-images.githubusercontent.com/66898243/86335957-232ecd80-bc8a-11ea-85fd-5dc577f6c902.png)
+
  #### - 참고 목록
 - https://www.acmicpc.net/problem/2557

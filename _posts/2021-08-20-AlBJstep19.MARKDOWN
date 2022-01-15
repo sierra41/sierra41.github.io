@@ -29,18 +29,18 @@ toc_label: 목차
 ### - 2609 최대공약수와 최소공배수
 ![image](https://user-images.githubusercontent.com/66898243/130462181-64d1393d-fd9f-4e1d-96a8-dc57fe55b2d9.png)
 
-#### 2609 풀이 코드1  160ms (21/08/23)
+#### 2609 풀이 코드  160ms (21/08/23)
 >  ![image](https://user-images.githubusercontent.com/66898243/130462449-54de6cec-d5c4-46fb-886f-a8a166ea6c2a.png)
 
 #### 2609 풀이 코드2  156ms (21/08/24)
 >  ![image](https://user-images.githubusercontent.com/66898243/130634719-460011a1-eb9b-403f-98c6-2eb9e234cced.png)
- 
+
 ### - 1934 최소공배수
 ![image](https://user-images.githubusercontent.com/66898243/130785934-2dea59f3-2894-46ea-8de9-587130470df1.png)
 
 #### 1934 풀이 코드 340ms  (21/08/25)
 >  ![image](https://user-images.githubusercontent.com/66898243/130787091-78c186f6-d1ac-4d2c-972f-1b0bca2f62c0.png)
- 
+
 #### 1934 풀이 코드2 188ms  (21/08/26)
 >  ![image](https://user-images.githubusercontent.com/66898243/130934258-62cdcd8e-da0f-40aa-ab82-cdaab355126d.png)
 
@@ -52,12 +52,13 @@ toc_label: 목차
  
 #### 2981 풀이 코드2 1612ms  (21/10/12)
 >   ![image](https://user-images.githubusercontent.com/66898243/136970021-e1294564-6b9e-4f09-b57f-4c05fa7817cc.png)
-
+ 
 ### - 3036 링
 ![image](https://user-images.githubusercontent.com/66898243/131129633-714e0b67-27bb-431f-a824-e39699b11e45.png)
 
 #### 3036 풀이 코드 172ms (21/08/27)
 >  ![image](https://user-images.githubusercontent.com/66898243/131129604-cbb4b6e2-beb1-46c4-8cc2-d4bdfe873dde.png)
+
  
 ### - 11050 이항 계수 1
 ![image](https://user-images.githubusercontent.com/66898243/131221440-dc00a5ff-95bb-4dd6-afbb-60bdde3e8423.png)
@@ -73,7 +74,7 @@ toc_label: 목차
 
 #### 11051 풀이 코드 148ms (21/10/08)
 >  ![image](https://user-images.githubusercontent.com/66898243/136577504-1e9f555b-921e-45ae-9d87-69fd41ebb7ea.png)
- 
+
 #### 11051 풀이 코드2 124ms (21/10/09)
 >  ![image](https://user-images.githubusercontent.com/66898243/136662327-04a8149e-db01-40c0-982e-b8da8fb11812.png)
 
@@ -91,7 +92,7 @@ toc_label: 목차
 
 ### - 9375 패션왕 신해빈
 ![image](https://user-images.githubusercontent.com/66898243/133101920-72d9db68-8d51-474f-bee0-f488f2e867aa.png)
-
+ 
 #### 9375 풀이 코드1 152ms (21/09/13)
 >  ![image](https://user-images.githubusercontent.com/66898243/133259450-a7d4fe37-dcb8-49b7-994b-baff7b3a93f0.png)
 
@@ -103,6 +104,7 @@ toc_label: 목차
 
 #### 1676 풀이 코드 124ms  (21/10/07)
 >  ![image](https://user-images.githubusercontent.com/66898243/136407572-a3c09775-afa2-4b0e-909c-40a763a663a5.png)
+
  
 ### - 2004 조합 0의 개수
 ![image](https://user-images.githubusercontent.com/66898243/137141101-f21fc538-bd06-4108-ae2f-b379ebe6239c.png)

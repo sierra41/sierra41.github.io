@@ -24,8 +24,9 @@ toc_label: 목차
 
 #### 2606 풀이 코드1 132ms (21/12/06)
 >  ![image](https://user-images.githubusercontent.com/66898243/144859432-9f733596-8854-44d5-a30d-d7f62ab1a4d7.png)
+
  
-### - 2667 단지번호붙이기
+### - 2667 	단지번호붙이기
 ![image](https://user-images.githubusercontent.com/66898243/145054205-df2f5b31-2d2e-401a-a997-4d2e6d849ac5.png)
 
 #### 2667 풀이 코드1 228ms (21/12/08)
@@ -35,13 +36,13 @@ toc_label: 목차
 ![image](https://user-images.githubusercontent.com/66898243/145592734-15b64042-11ac-4baa-a62a-0018bef9e0b8.png)
 
 #### 1012 풀이 코드1  180ms (21/12/10)
+>  ![image](https://user-images.githubusercontent.com/66898243/145592872-4aafa6ee-15a9-4b58-836b-517fb36cd5b4.png)
+
+#### 1012 풀이 코드2  184ms (21/12/11)
 >  ![image](https://user-images.githubusercontent.com/66898243/145831574-cc97e5bf-dff8-4304-b31f-fb76095cc5d7.png)
 
 #### 1012 풀이 코드3  180ms (21/12/12)
->  ![image](https://user-images.githubusercontent.com/66898243/145831436-6ae10ea1-a3d4-4f11-9f34-2a187ff75457.png)
-
-#### 1012 풀이 코드3  180ms (21/12/12)
-> ![image](https://user-images.githubusercontent.com/66898243/146388100-d8205d11-be2f-42ab-b52d-e223b8be5d46.png)
+>  ![image](https://user-images.githubusercontent.com/66898243/146388100-d8205d11-be2f-42ab-b52d-e223b8be5d46.png)
 
 ### - 2178 미로 탐색
 ![image](https://user-images.githubusercontent.com/66898243/145830434-a57ce74a-6c7c-437b-8363-35ff40329a1e.png)
@@ -49,29 +50,39 @@ toc_label: 목차
 #### 2178 풀이 코드1  144ms (21/12/14)
 >  ![image](https://user-images.githubusercontent.com/66898243/146014073-214361da-7764-4524-85b6-df1b469f7768.png)
 
+
 ### - 7576 토마토
 ![image](https://user-images.githubusercontent.com/66898243/146183626-75abadc4-b141-4048-a583-54cf25916872.png)
 
 #### 7576 풀이 코드1
 >
 
+### - 7569 토마토
+
+#### 7569 풀이 코드1
+>
+
 ### - 1697 숨바꼭질
 ![image](https://user-images.githubusercontent.com/66898243/146199661-113d691b-dfe5-4307-849a-c731ce58fb07.png)
 
 #### 1697 풀이 코드1  164ms (21/12/15)
->  ![image](https://user-images.githubusercontent.com/66898243/146200409-567997c9-8b87-4375-a6cb-e03bebdc25ef.png
+>  ![image](https://user-images.githubusercontent.com/66898243/146200409-567997c9-8b87-4375-a6cb-e03bebdc25ef.png)
+
 
 ### - 2206 벽 부수고 이동하기
 
 #### 2206 풀이 코드1
 >
+
 ### - 7562 나이트의 이동	다국어
 
 #### 7562 풀이 코드1
 >
+
 ### - 1707	이분 그래프
 
 #### 1707 풀이 코드1
 >
+
 #### - 참고 목록
 - https://www.acmicpc.net/problem/2557
