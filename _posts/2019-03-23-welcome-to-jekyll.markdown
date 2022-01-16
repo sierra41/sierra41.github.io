@@ -2,12 +2,12 @@
 layout: single
 title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
-read_time: true
 
 categories: 
  - Blog
 tags: 
- - Blog
+ - Blog 
+ - Jekyll
 last_modified_at: '2020-07-01 14:16:00 +0800'
 toc: true
 toc_sticky: true

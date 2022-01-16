@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Dependabot alerts 해결"
-read_time: true
 
 categories: 
- - Jekyll
+ - Blog
 tags: 
+ - Blog
  - Ruby
  - Jekyll
  - Dependabot alerts
