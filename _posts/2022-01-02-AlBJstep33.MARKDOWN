@@ -1,16 +1,17 @@
- ﻿---
-layout: single
+---
 title: "BaeckJoon 단계별(JAVA)_최소 신장 트리 9372, 1197, 4386, 1774, 2887, 17472"
-read_time: true
+
 categories:  
  - BaeckJoon 
 tags: 
  - Algorithm
  - BaeckJoon 
 last_modified_at: '2022-01-02 23:43:00 +0800'
+
 toc: true
 toc_sticky: true
 toc_label: 목차
+
 ---
 ## 백준 알고리즘 _단계별로 풀어보기(JAVA)
 ### 최소 신장 트리
