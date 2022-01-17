@@ -1,7 +1,7 @@
 ---
-layout: single
+
 title: "Android 개발공부 - 생명주기"
-read_time: true
+
 
 categories: 
  - Android

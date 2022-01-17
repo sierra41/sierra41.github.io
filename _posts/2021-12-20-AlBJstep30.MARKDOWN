@@ -1,7 +1,7 @@
- ﻿---
-layout: single
+---
+ 
 title: "BaeckJoon 단계별(JAVA)_동적 계획법과 최단거리 역추적 12852, 14002, 14003, 9252, 2618, 13913, 9019, 11779, 11780"
-read_time: true
+ 
 categories:  
  - BaeckJoon 
 tags: 

@@ -1,7 +1,7 @@
 ---
-layout: single
+
 title: "Android 개발공부 - Android 4대 컴포넌트(Component)"
-read_time: true
+
 
 categories: 
  - Android

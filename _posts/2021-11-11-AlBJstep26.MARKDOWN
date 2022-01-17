@@ -1,7 +1,7 @@
- ﻿---
-layout: single
+﻿---
+ 
 title: "BaeckJoon 단계별(JAVA)_동적 계획법 2 11066, 11049, 1520, 10942, 2629, 2293, 7579"
-read_time: true
+ 
 categories:  
  - BaeckJoon 
 tags: 

@@ -1,7 +1,6 @@
 ---
-layout: single
+
 title: "Android 개발공부 - 앱 출시 과정"
-read_time: true
 
 categories: 
  - Android

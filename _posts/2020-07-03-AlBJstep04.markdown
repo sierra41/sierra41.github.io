@@ -1,7 +1,6 @@
 ---
-layout: single
 title: "BaeckJoon 단계별_ IF문 1330, 9498, 2753, 14681, 2884"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

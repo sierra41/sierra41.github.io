@@ -1,7 +1,7 @@
 ﻿---
-layout: single
+
 title: "정보처리기사 시험 내용"
-read_time: true
+
 categories: 
  - Certificate
 tags: 

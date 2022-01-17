@@ -1,7 +1,7 @@
 ---
-layout: single
+
 title: "Android 개발공부 - Android 계층구조"
-read_time: true
+
 
 categories: 
  - Android

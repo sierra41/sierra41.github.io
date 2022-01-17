@@ -1,7 +1,7 @@
 ﻿---
-layout: single
+
 title: "BaeckJoon 단계별(JAVA)_ 문자열 11654, 11720, 10809, 2675, 1157, 1152, 2908, 5622, 2941, 1316"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

@@ -1,7 +1,6 @@
 ---
-layout: single
+
 title: "Android 개발공부 - APK"
-read_time: true
 
 categories: 
  - Android

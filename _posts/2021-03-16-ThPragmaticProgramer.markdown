@@ -1,7 +1,6 @@
 ---
-layout: single
+
 title: "The Pragmatic Programer _00"
-read_time: true
 
 categories: 
  - The Pragmatic Programer

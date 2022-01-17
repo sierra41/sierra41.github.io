@@ -1,7 +1,7 @@
 ﻿---
-layout: single
+
 title: "BaeckJoon 단계별(JAVA)_ 브루트 포스 2798, 2231, 7568, 1018, 1436"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

@@ -1,13 +1,13 @@
 ---
-layout: single
 title: "BaeckJoon 단계별_ 입출력과 사칙연산 10718 We love kriii"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 
  - Algorithm
  - BaeckJoon 
 last_modified_at: '2020-07-02 17:31:00 +0800'
+
 toc: true
 toc_sticky: true
 toc_label: 목차

@@ -1,7 +1,7 @@
- ﻿---
-layout: single
+﻿---
+ 
 title: "BaeckJoon 단계별(JAVA)_DFS와 BFS 1260, 2606, 2667, 1012, 2178, 7576, 7569, 1697, 2206, 7562, 1707"
-read_time: true
+ 
 categories:  
  - BaeckJoon 
 tags: 

@@ -1,7 +1,6 @@
 ﻿---
-layout: single
 title: "BaeckJoon 단계별(JAVA)_ 실습1 10039, 5543, 10817, 2523, 2446, 10996"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

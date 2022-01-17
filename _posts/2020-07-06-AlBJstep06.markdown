@@ -1,7 +1,6 @@
 ﻿---
-layout: single
 title: "BaeckJoon 단계별(JAVA)_ While문 10952, 10951, 1110"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

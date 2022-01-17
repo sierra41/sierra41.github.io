@@ -1,9 +1,9 @@
 ﻿---
-layout: single
+
 title: "이클립스 단축키"
-read_time: true
+
 categories: 
- - Certificate
+ - Etc
 tags: 
  - Eclipse
 last_modified_at: '2020-08-13 23:11:00 +0800'

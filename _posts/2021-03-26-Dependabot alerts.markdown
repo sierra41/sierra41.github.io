@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: "Dependabot alerts 해결"
 
 categories: 

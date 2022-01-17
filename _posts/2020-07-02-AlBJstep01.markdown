@@ -1,5 +1,5 @@
 ---
-layout: single
+
 title: "BaeckJoon 단계별_ 입출력과 사칙연산 2557 Hello World"
 read_time: true
 
@@ -9,6 +9,7 @@ tags:
  - Algorithm
  - BaeckJoon 
 last_modified_at: '2020-07-02 14:16:00 +0800'
+
 toc: true
 toc_sticky: true
 toc_label: 목차

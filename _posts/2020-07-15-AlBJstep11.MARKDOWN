@@ -1,7 +1,7 @@
 ﻿---
-layout: single
+
 title: "BaeckJoon 단계별(JAVA)_ 수학1 1712, 2839, 2292, 1193, 2869, 10250, 2775, 1011"
-read_time: true
+
 categories: 
  - BaeckJoon 
 tags: 

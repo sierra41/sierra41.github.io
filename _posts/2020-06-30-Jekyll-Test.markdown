@@ -1,5 +1,4 @@
 ---
-layout: single
 title: "Jekyll Test"
 
 categories: 
@@ -7,6 +6,7 @@ categories:
 tags: 
  - Blog
  - Jekyll
+
 last_modified_at: '2020-07-01 14:16:00 +0800'
 toc: true
 toc_sticky: true
