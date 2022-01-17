@@ -1,6 +1,6 @@
 ﻿---
 
-title: "BaeckJoon 단계별(JAVA)_ 수학1" 
+title: "BaeckJoon 단계별(JAVA)_ 수학 1" 
 excerpt: "1712, 2839, 2292, 1193, 2869, 10250, 2775, 1011"
 
 categories: 
