@@ -1,5 +1,6 @@
 ﻿---
-title: "BaeckJoon 단계별(JAVA)_ While문 10952, 10951, 1110"
+title: "BaeckJoon 단계별(JAVA)_ While문"
+excerpt: "10952, 10951, 1110"
 
 categories: 
  - BaeckJoon 

@@ -1,6 +1,7 @@
  ﻿---
  
-title: "BaeckJoon 단계별(JAVA)_ 이분 탐색 1920, 10816, 1654, 1629, 2110, 1300, 12015"
+title: "BaeckJoon 단계별(JAVA)_ 이분 탐색" 
+excerpt: "1920, 10816, 1654, 1629, 2110, 1300, 12015"
  
 categories: 
  - BaeckJoon 

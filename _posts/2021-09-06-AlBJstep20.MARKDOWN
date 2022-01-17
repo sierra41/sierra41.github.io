@@ -1,6 +1,7 @@
 ﻿---
  
-title: "BaeckJoon 단계별(JAVA)_스택 10828, 10773, 9012, 4949, 1874, 17298"
+title: "BaeckJoon 단계별(JAVA)_스택" 
+excerpt: "10828, 10773, 9012, 4949, 1874, 17298"
  
 categories: 
  - BaeckJoon 

@@ -1,6 +1,7 @@
 ﻿---
 
-title: "BaeckJoon 단계별(JAVA)_ 1차원 배열 10818, 2562, 2577, 3052, 1546, 8958, 4344"
+title: "BaeckJoon 단계별(JAVA)_ 1차원 배열" 
+excerpt: "10818, 2562, 2577, 3052, 1546, 8958, 4344"
 
 categories: 
  - BaeckJoon 

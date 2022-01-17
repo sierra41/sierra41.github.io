@@ -1,6 +1,7 @@
 ﻿---
  
-title: "BaeckJoon 단계별(JAVA)_큐, 덱 18258, 2164, 11866, 1966, 10866, 1021, 5430"
+title: "BaeckJoon 단계별(JAVA)_큐, 덱" 
+excerpt: "18258, 2164, 11866, 1966, 10866, 1021, 5430"
  
 categories: 
  - BaeckJoon 

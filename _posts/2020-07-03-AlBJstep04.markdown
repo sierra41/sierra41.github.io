@@ -1,5 +1,6 @@
 ---
-title: "BaeckJoon 단계별_ IF문 1330, 9498, 2753, 14681, 2884"
+title: "BaeckJoon 단계별_ IF문"
+excerpt: "1330, 9498, 2753, 14681, 2884"
 
 categories: 
  - BaeckJoon 

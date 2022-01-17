@@ -1,6 +1,7 @@
 ﻿---
  
-title: "BaeckJoon 단계별(JAVA)_투 포인터 3273, 2470, 1806, 1644, 1450"
+title: "BaeckJoon 단계별(JAVA)_투 포인터" 
+excerpt: "3273, 2470, 1806, 1644, 1450"
  
 categories:  
  - BaeckJoon 

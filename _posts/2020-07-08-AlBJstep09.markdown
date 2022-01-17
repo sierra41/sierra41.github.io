@@ -1,6 +1,7 @@
 ﻿---
 
-title: "BaeckJoon 단계별(JAVA)_ 함수 15596, 4673, 1065"
+title: "BaeckJoon 단계별(JAVA)_ 함수" 
+excerpt: "15596, 4673, 1065"
 
 categories: 
  - BaeckJoon 
