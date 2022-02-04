@@ -94,11 +94,11 @@ author:
   avatar           : "/assets/images/profile/poto.jpg" # 프로필 이미지
   bio              : "keep going"
   location         : "South Korea"
-  email            : "actin45@gmail.com"
+  email            : "mailto:actin45@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "actin45@gmail.com" # url: "mailto:your.name@email.com"
+    - #label: "Email"
+      #icon: "fas fa-fw fa-envelope-square"
+      #url: "actin45@gmail.com" # url: "mailto:your.name@email.com"
     - #label: "Website"
       #icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -120,7 +120,7 @@ footer:
   links:
     - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
-      url: "actin45@gmail.com"
+      url: "mailto:actin45@gmail.com"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url:
