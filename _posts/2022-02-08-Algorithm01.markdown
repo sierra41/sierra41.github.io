@@ -1,7 +1,7 @@
 ---
-layout: single
-title: "[Algorithm] 시간복잡도.markdown"
-read_time: true
+
+title: "Algorithm 시간복잡도"
+
 
 categories: 
  - Android
@@ -16,6 +16,8 @@ toc_label: 목차
 
 ## 시간복잡도    
 문제를 해결하는데 걸리는 시간과 입력의 함수 관계.   
+
+
 **알고리즘의 시간복잡도**    
  ⇒ 입력하는 자료의 양과 알고리즘 실행에 걸리는 시간사이의 관계   
     
@@ -59,37 +61,10 @@ f(n)이 n0보다 크거나 같은 모든 n에서 0 이상이고 cg(n) 이상이�
 (Asymptotically Tight Bound) 점근적 상한과 하한의 교집합    
 f(n)이 n0보다 크거나 같은 모든 n에서 0 이상이고 c1g(n) 이상 c2g(n) 이하이면, Θ(g(n)) = f(n)   
    
-### Big O의 시간복잡도 표기법
-> O(1) < O(logn) < O(n) < O(n*logn) < O(n²) < O(n³) < O(2n) < O(n!)    
-|표기 | 설명|        
-|---|---|       
-|<center> O(1) </center> | <center> 상수 형태. n의 값에 상관없이 일정한 양의 계산만 한다. </center>|   
-|<center> O(logn) </center> | <center> 로그 형태 </center>|   
-|<center> O(n) </center> | <center> 선형 </center>|   
-|<center> O(n*logn) </center> | <center> 선형로그 </center>|   
-|<center> O(n²) </center> | <center> 다차 형태 </center> |   
-|<center> O(n³) </center> | <center> 지수 형태 </center> |   
-|<center> O(2n) </center> | <center> 팩토리얼 형태 </center> |   
-   
-|표기 | 설명|        
-|---|---|       
-|<center> O(1) </center> | <center> 상수 형태. n의 값에 상관없이 일정한 양의 계산만 한다. </center>|   
-|<center> O(logn) </center> | <center> 로그 형태 </center>|   
-|<center> O(n) </center> | <center> 선형 </center>|   
-|<center> O(n*logn) </center> | <center> 선형로그 </center>|   
-|<center> O(n²) </center> | <center> 다차 형태 </center> |   
-|<center> O(n³) </center> | <center> 지수 형태 </center> |   
-|<center> O(2n) </center> | <center> 팩토리얼 형태 </center> |     
+### Big O의 시간복잡도 효율 
 
-Title1|Title2
--|-
-content1|content2
-content3|content4
-
-   
-위에서 아래로 내려올수록 시간복잡도가 높고 느려진다.   
-
-
+O(1) < O(logn) < O(n) < O(n*logn) < O(n²) < O(n³) < O(2n) < O(n!)    
+ 
 
     
 
