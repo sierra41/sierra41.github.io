@@ -69,8 +69,8 @@ O(1) < O(logn) < O(n) < O(n*logn) < O(n²) < O(n³) < O(2n) < O(n!)
     
 
 ## 참고
-[구하는 법 + 코딩 팁](https://mimimimamimimo.tistory.com/2)   
-[시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
-[시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
-[알고리즘 공부 시작 방법 및 순서](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)   
-[0x01강 - 기초 코드 작성 요령 I](https://blog.encrypted.gg/922)   
+- [구하는 법 + 코딩 팁](https://mimimimamimimo.tistory.com/2)   
+- [시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
+- [시간 복잡도 알아보기](https://minwook-shin.github.io/time-complexity/)   
+- [알고리즘 공부 시작 방법 및 순서](https://blog.yena.io/studynote/2018/11/14/Algorithm-Basic.html)   
+- [0x01강 - 기초 코드 작성 요령 I](https://blog.encrypted.gg/922)   
