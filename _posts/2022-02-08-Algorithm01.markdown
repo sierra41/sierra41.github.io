@@ -1,12 +1,12 @@
 ---
 
-title: "Algorithm 시간복잡도"
+title: "[Algorithm] 시간복잡도"
 
 
 categories: 
- - Android
+ - Algorithm
 tags: 
- - Android
+ - Algorithm
 last_modified_at: '2021-04-19 20:55:00 +0800'
 toc: true
 toc_sticky: true

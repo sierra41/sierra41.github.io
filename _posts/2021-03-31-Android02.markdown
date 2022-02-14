@@ -1,6 +1,6 @@
 ---
 
-title: "Android 개발공부 - Android 계층구조"
+title: "[Android] 계층구조"
 
 
 categories: 

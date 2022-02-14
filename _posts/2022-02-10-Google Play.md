@@ -1,13 +1,13 @@
 ---
  
-title: "Google Play에 신규 앱 출시 과정" 
+title: "[Android] Google Play에 신규 앱 출시 과정" 
 excerpt: "구글 플레이에 신규 앱을 게시하려면 어떻게 해야할까?"
  
 categories:  
  - Android
 tags: 
  - Android
- - Google
+ - Google Play
 last_modified_at: '2022-02-9 23:43:00 +0800'
 toc: true
 toc_sticky: true

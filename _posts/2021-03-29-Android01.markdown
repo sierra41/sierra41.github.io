@@ -1,6 +1,6 @@
 ---
 
-title: "Android 개발공부 - 생명주기"
+title: "[Android] - 생명주기"
 
 
 categories: 
