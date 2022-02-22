@@ -46,11 +46,14 @@ int LSearch(int ar[], int len, int target) {
 
 ### 평균의(일반적) 경우
 > 평균적 경우 시간복잡도
+> 
 > 탐색 대상이 저장되지 않은 경우 50% : 연산 수 n  
+> 
 > 탐색 대상이 존재하는 경우 50% : 연산 수 n/2
-> T(n) = n \times \frac{1}{2}  + \frac{n}{2} \times  \frac{1}{2} = \frac{3}{4}n
+> 
+T(n) = n \times \frac{1}{2}  + \frac{n}{2} \times  \frac{1}{2} = \frac{3}{4}n
 
-![평균적경우](/assets/images/posts/date03.png)
+![평균적경우](/assets/images/posts/data03.png)
 
 - 최악과 최상이 아닌 나머지 경우
 - 상황에 따라 달라지며 평균적인 경우의 증명이 어렵다
