@@ -21,7 +21,7 @@ toc_label: 목차
 ## 피보나치 수열 (Fibonacci Sequence)
 
 ### 피보나치 수열의 표현
-![피보나치](/assets/images/posts/date09.png)
+![피보나치](/assets/images/posts/data09.png)
 
 ### 피보나치 수열의 특징
 - f(0) = 0, f(1) = 1 로 시작
@@ -29,7 +29,7 @@ toc_label: 목차
 - 0, 1, 1, 2, 3, 5, 8, 13, 21
 
 ### 피보나치 수열의 흐름
-![피보나치](/assets/images/posts/date09-2.png)
+![피보나치](/assets/images/posts/data09-2.png)
 
 
 ## 참고
