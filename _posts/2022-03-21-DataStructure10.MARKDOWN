@@ -31,7 +31,8 @@ toc_label: 목차
 	- 작은 원반 위에 큰 원반은 올릴 수는 없다
 
 ### 하노이 타워 문제 풀이
-![풀이](/assets/images/posts/date01.png)
+
+![풀이](/assets/images/posts/data10.png)
 
 ### 반복 패턴 연구 
 - 원반의 숫자가 많은 경우에도 풀이 패턴은 동일하다
