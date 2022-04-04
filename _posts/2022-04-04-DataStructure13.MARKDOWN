@@ -1,6 +1,6 @@
 ---
 title: "[자료구조] 3.2 배열을 이용한 리스트의 구현 (2) " 
-excerpt: "연결 리스트(Linked List) 1 - 배열을 이용한 리스트의 구현 (2)
+excerpt: "연결 리스트(Linked List) 1 - 배열을 이용한 리스트의 구현 (2)"
  
 categories:  
  - 자료구조
@@ -11,6 +11,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 ---
+
 # 배열을 이용한 리스트의 구현 (2)
 
 <aside>
@@ -23,24 +24,30 @@ toc_label: 목차
 - ArrayList.c 리스트 자료구조의 소스파일
 - ListMain.c 리스트 관 main 함수가 담긴 소스파일
 ### 리스트 초기화 
+
 ```
 int main(void) {
- List list; // 생성
- ListInit(&list); // 초기화
+    List list; // 생성
+    ListInit(&list); // 초기화
 }
 ```
+
 ### 데이터 저장 
+
 ```
 int main(void) {
- LInsert(&list, 11); 
- LInsert(&list, 22); 
- LInsert(&list, 33); 
- // 데이터 입력
+    LInsert(&list, 11); 
+    LInsert(&list, 22); 
+    LInsert(&list, 33); 
+    // 데이터 입력
 }
 ```
+
 - 데이터가 일 열로 저장
 - 데이터의 입력 순서는 관계없음 
+- 
 ### 데이터 참조 
+
 ```
 int main(void) {
     if(LFirst(&list, &data))  {
@@ -53,11 +60,14 @@ int main(void) {
     }
 }
 ```
+
   1. LFirst 함수로 첫 번째 데이터 값 저장
      - LFirst 함수는 첫번 째 참조에서만 사용
   2. 저장된 데이터 참조(출력)
   3. LNext 함수로 다음 참조
+   
 ### 데이터 삭제
+
 ```
 int main(void) {
     if(LFirst(&list, &data)) {
@@ -74,6 +84,7 @@ int main(void) {
     }
 }
 ```
+
 - LRemove 함수는 연이은 호출이 불가
 - LFirst함수와 LNext 함수를 통해 참조하여 삭제 가능
 
