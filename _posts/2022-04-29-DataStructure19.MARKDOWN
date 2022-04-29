@@ -20,7 +20,9 @@ toc_label: 목차
 
 ## 연결 리스트
 ### 연결리스트 개념
+
 ![연결리스트](/assets/images/posts/data19-1.png)
+
 -  방향성을 가지고 메모리를 동적 할당받아 연결시킴
 -  배열과 같이 미리 사용할 길이가 정해진 리스트가 아닌 필요할 때 마다 메모리를 할당받아 사용
 -  새로운 데이터의 입력으로 메모리가 추가 할당되어도 Head/Tail로 연결하여 사용
@@ -40,16 +42,16 @@ toc_label: 목차
 - malloc 함수에서 메모리를 할당 > 힙 메모리에 공간 생성 > 사용 종료 후 메모리를 해제 필요(free의 역할)
 - 메모리 누수 방지
 
-
-```
-typedef struct _node {
-	int data; 
-    // 데이터 공간
-	struct _node * next; // 연결 도구. 
-    // _node가 구조체 변수(데이터를 담고 연결)가 되고 next는 _node를 추적하는 구조체 포인터 변수
-} Node;
-```
-![연결리스트2](/assets/images/posts/data19-2.png)
+    ```
+    typedef struct _node {
+      int data; 
+        // 데이터 공간
+      struct _node * next; // 연결 도구. 
+        // _node가 구조체 변수(데이터를 담고 연결)가 되고 next는 _node를 추적하는 구조체 포인터 변수
+    } Node;
+    ```
+    
+    ![연결리스트2](/assets/images/posts/data19-2.png)
 
 
 ## 참고
