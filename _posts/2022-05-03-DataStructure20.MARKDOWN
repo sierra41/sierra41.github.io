@@ -20,10 +20,10 @@ toc_label: 목차
 
 ## 연결 리스트
 ### 연결리스트 개념 - 예제(LinkedRead.c)
-- node.date : 데이터 저장
-- node.next : 다음 node의 주소값 저장
+> node.date : 데이터 저장
+> node.next : 다음 node의 주소값 저장
   
-####초기화
+#### 초기화
 ```
 typedef struct _node {
  int data;
@@ -45,8 +45,11 @@ int main(void) {
  - cur : 참조&조회에 필요. 순차적 조회시 사용하는 pointer 변수
  - 
 #### 데이터 삽입 
+
 ![연결리스트](/assets/images/posts/data20-1.png)
+
 ![연결리스트](/assets/images/posts/data20-2.png)
+
 ```
 while(1)
 {
@@ -79,10 +82,12 @@ while(1)
   tail = newNode;
   // 마지막노드 주소값
 }
-
 ```
+
 #### 데이터 조회
+
 ![연결리스트](/assets/images/posts/data20-3.png)
+
 ```
 if(head == NULL) {
   printf("저장된 자연수가 존재하지 않습니다. \n");
@@ -102,8 +107,11 @@ if(head == NULL) {
   }
 }
 ```
+
 #### 데이터 삭제
+
 ![연결리스트](/assets/images/posts/data20-4.png)
+
 ```
 // 전체 노드 삭제------------------
 if(head == NULL) {
