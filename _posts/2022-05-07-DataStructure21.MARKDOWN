@@ -39,13 +39,18 @@ toc_label: 목차
 - 단점 : head 와 tail 모두 필요
 
 ### SetSortRule 함수
-| void SetSortRule ( List * plist, int (*comp)(LData d1, LData d2) );
+> void SetSortRule ( List * plist, int (*comp)(LData d1, LData d2) );
 - 반환형이 int
+   
     **int** (*comp)(LData d1, LData d2) 
 - LData형 인자를 2개 전달받음
+   
     int (*comp)(**LData d1, LData d2**) 
 - 함수 주소값 전달
-    **int** (***comp**)(LData d1, LData d2)    
+   
+    int (***comp**)(LData d1, LData d2)    
+
+    
 ```
 int WhoIsPrecede(LData d1, LData d2) {
  if(d1 < d2) {
