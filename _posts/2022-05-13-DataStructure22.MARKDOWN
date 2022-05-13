@@ -35,14 +35,17 @@ toc_label: 목차
 - 구조체의 표현을 통하여 연결리스트 관리
   - 구조체로 연결리스트에 피요한 변수를 묶는 것은 좋지 않음.
 - 구조체 표현
-  - ![구조체](/assets/images/posts/data22-2.png)
+  
+   ![구조체](/assets/images/posts/data22-2.png)
 
 
 #### 헤더파일
 - 앞부분
-  - ![헤더](/assets/images/posts/data22-3.png)
+  
+   ![헤더](/assets/images/posts/data22-3.png)
 - 뒷부분
-  - ![헤더](/assets/images/posts/data22-4.png)
+  
+   ![헤더](/assets/images/posts/data22-4.png)
 
 
 ## 참고
