@@ -31,7 +31,7 @@ toc_label: 목차
     ```
 
   - **`LinkedList의  comp`**
-    - `SetSortRule`  에서 전달된 정렬 기준을 comp 에서 저장
+    - **`SetSortRule`**  에서 전달된 정렬 기준을 comp 에서 저장
   
     ```
     typedef struct _linkedList {
@@ -43,7 +43,7 @@ toc_label: 목차
     } LinkedList;
     ```
   - **`SInsert`**
-    - `comp` 에 저장된 정렬 기준을 근거로 데이터를 정렬하여 저장하는 함수
+    -**`comp`** 에 저장된 정렬 기준을 근거로 데이터를 정렬하여 저장하는 함수
     ```
     void LInsert(List * plist, LData data) {
         if(plist->comp == NULL) {
@@ -56,7 +56,7 @@ toc_label: 목차
  
 
   
-  =>   `SetSortRule` 함수의 호출 > 정렬의 기준이 `comp`에 등록 > `SInsert` 로 `comp` 를 근거로 데이터 정렬
+  =>  **`SetSortRule`** 함수의 호출 > 정렬의 기준이 `comp`에 등록 > `SInsert` 로 `comp` 를 근거로 데이터 정렬
 
 ### SInsert 함수
   ![SInsert](/assets/images/posts/data24-1.png)
@@ -75,8 +75,10 @@ toc_label: 목차
 
       // 조건2) plist->comp(data, pred->next->data) != 0
       // 새로 삽입되는 데이터와 pred 다음 노드 데이터 사이의 비교를 위한 함수호출
-      // comp 반환값 = 0 : 첫 번째 인자의 data가 앞 순서로 정렬되어야 하는 경우(head로 방향으로)
-      // comp 반환값 = 1 : 두 번째 인자의 pred->next->data가 앞 순서로 정렬되어야 하는 경우(head로 방향으로)
+      // comp 반환값 = 0 
+	//  첫 번째 인자의 data가 앞 순서로 정렬되어야 하는 경우(head로 방향으로)
+      // comp 반환값 = 1 
+	// 두 번째 인자의 pred->next->data가 앞 순서로 정렬되어야 하는 경우(head로 방향으로)
       
           pred = pred->next;
           // 다음 노드로 이동
@@ -111,5 +113,5 @@ int WhoIsPrecede(int d1, int d2) {
 
 ## 참고
 
-[윤성우의 열혈 자료구조](https://book.naver.com/bookdb/book_detail.nhn?bid=6809127) 
-[윤성우의 열혈 자료구조 강의](http://www.orentec.co.kr/teachlist/DA_ST_1/teach_sub1.php)
+- [윤성우의 열혈 자료구조](https://book.naver.com/bookdb/book_detail.nhn?bid=6809127) <br>
+- [윤성우의 열혈 자료구조 강의](http://www.orentec.co.kr/teachlist/DA_ST_1/teach_sub1.php)
