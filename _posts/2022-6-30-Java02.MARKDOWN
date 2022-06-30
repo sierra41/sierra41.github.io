@@ -19,7 +19,7 @@ toc_label: 목차
 >  왜 해당 버전들이 많이 사용되는지, 버전별 특징은 어떤 차이가 있는지 알아보자
 
 
-## :grey_question: 8, 11, 17 버전이 선호되는 이유
+##  8, 11, 17 버전이 선호되는 이유
 
 ### LTS(Long-Term Support) 버전
 >  LTS(Long-Term Support)란? 
@@ -29,11 +29,11 @@ toc_label: 목차
 
 ### 버전별 지원 기간
 
-![java](/assets/images/posts/java02.png)
+  ![java](/assets/images/posts/java02.png)
 
 
 
-## :grey_exclamation: 8, 11, 17 버전별 특징
+## 8, 11, 17 버전별 특징
 
 ### JAVA 8
   - 현재까지 가장 많이 사용되었던 버전으로 2030년까지 지원 기간 연장
@@ -44,7 +44,7 @@ toc_label: 목차
 
 ### JAVA 11
 
-  [java11](/assets/images/posts/java02-2.png) 
+  ![java11](/assets/images/posts/java02-2.png) 
   
   - java 8 이후 새로운 표준 - 최근 가장 일반적으로 사용되는 버전
   - 새롭게 추가& 향상된 기능
@@ -75,7 +75,7 @@ toc_label: 목차
 
   
 
-## 어떤 버전을 써야 할까 :speech_balloon:
+## 어떤 버전을 써야 할까 :
 
 - Java8 보다는 11, 17버전을 고민중
    - Java의 새로운 버전이 나올 수록 새 기능이 추가되고 사용성이 향상되고 있음  
