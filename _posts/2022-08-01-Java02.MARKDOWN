@@ -1,0 +1,82 @@
+---
+title: "[Git] 자주쓰는 Git 기본 명령어 목록"
+excerpt: "자주 쓰는 명령어"
+
+categories:
+ - Git
+tags:
+ - Git
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 "자주쓰는 Git 기본 명령어 목록"
+</aside>
+
+> 자주 사용하지만 잊어버리기 쉬운 Git 명령어 <br>
+
+### 생성
+```
+$ git init [project_name] #새로운 로컬 저장소 생성
+
+$ git clone [url] #저장소 가져오기
+```
+
+### 확인
+```
+$ git status #작업 디렉토리에 변경된 파일 보기
+
+$ cat 파일명.확장자 # 변경된 내용 확인
+
+$ git diff #변경된 staged 파일 보기
+
+$ git log #변경 이력 보기
+
+$ git stash list #임시 변경사항 보기
+```
+
+### 변경
+```
+$ git add [file] #파일의 변경 사항을 다음 커밋에 반영하기
+
+$ git add * #모든 파일을 staged 상태로 만든다. .gitignore로 git에 올리지 않는다고 한
+						파일들도 git add *로 다 올린다.
+
+$ git add . # .gitignore에 있는 파일은 제외하고 staged에 올린다
+
+$ git commit -m "commit message" #메시지와 함께 커밋하기
+
+$ git commit -a #모든 변경 사항을 반영하면서 커밋하기
+
+$ git tag <tag-name> #현재 커밋에 태그 달기
+
+$ git stash #임시로 변경사항 저장하기
+```
+
+### 취소 및 삭제
+```
+$ git commit --amend #마지막 커밋 수정하기. (published commit에서는 하지말기)
+
+$ git reset # staging area에 모든 변경 버리기
+
+$ git reset --hard HEAD #워킹 디렉토리까지도 변경전으로 되돌림(변경내용 소멸)
+
+$ git revert <commit> #커밋 되돌아가기
+
+# 저장소 최초 커밋 취소
+git update-ref -d HEAD
+git rm --cached -rf .
+```
+
+### 원격저장소
+```
+$ git remote -v		#현재 원격저장소와 연결된 로컬저장소 이름 목록 보기
+$ git remote add origin (원격 저장소 github URL)
+		#현재 폴더에 origin이라는 로컬저장소를 만들고 원격 저장소 연결(push/pull 전에)
+
+$ git remote remove 원격저장소명 #해당 원격저장소 삭제
+
+$ git branch --set-upstream-to=origin/<branch> <branch> #브랜치와 리모트 연결 추적
+```
