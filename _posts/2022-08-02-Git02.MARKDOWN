@@ -1,6 +1,6 @@
 ---
-title: "[Git] 자주쓰는 Git 기본 명령어 목록"
-excerpt: "자주 쓰는 명령어"
+title: "[Git] 하나의 PC에서 Git 계정 2개 연동하기"
+excerpt: "ssh key를 이용하여 git 계정 2개 연동하기"
 
 categories:
  - Git
@@ -12,71 +12,140 @@ toc_sticky: true
 toc_label: 목차
 ---
 <aside>
-💡 "자주쓰는 Git 기본 명령어 목록"
+💡 "하나의 PC에서 Git 계정 2개 연동하기"
 </aside>
 
-> 자주 사용하지만 잊어버리기 쉬운 Git 명령어 <br>
+> 회사용 git 계정과 개인용 git 계정을 둘 다 연동해두고 사용하고 싶다.
+> ssh key를 이용하여 git 계정 2개 연동해보자 <br>
 
-### 생성
+##  rsa 키 생성
+> 먼저 콘솔에서 ssh key 생성에 필요한 rsa 키를 생성한다.
+### ssh 폴더 생성 & 이동
 ```
-$ git init [project_name] #새로운 로컬 저장소 생성
+# 생성
+$ mkdir .ssh
+(이미 존재하면 생략)
 
-$ git clone [url] #저장소 가져오기
-```
+# 권한 오류 : mkdir: .ssh: Permission denied
+# 해결
+$ sudo mkdir .ssh
 
-### 확인
-```
-$ git status #작업 디렉토리에 변경된 파일 보기
-
-$ cat 파일명.확장자 # 변경된 내용 확인
-
-$ git diff #변경된 staged 파일 보기
-
-$ git log #변경 이력 보기
-
-$ git stash list #임시 변경사항 보기
+# 이동
+$ cd ~/.ssh
 ```
 
-### 변경
+### rsa 키 생성
 ```
-$ git add [file] #파일의 변경 사항을 다음 커밋에 반영하기
+# 키 생성
+ssh-keygen -t rsa -C "이메일" -f "키이름"
 
-$ git add * #모든 파일을 staged 상태로 만든다. .gitignore로 git에 올리지 않는다고 한
-						파일들도 git add *로 다 올린다.
+# 예시
+# 회사키
+ssh-keygen -t rsa -C "company@company.kr" -f "id_rsa_company"
+# 개인키
+ssh-keygen -t rsa -C "personal@gmail.com" -f "id_rsa_personal"
 
-$ git add . # .gitignore에 있는 파일은 제외하고 staged에 올린다
-
-$ git commit -m "commit message" #메시지와 함께 커밋하기
-
-$ git commit -a #모든 변경 사항을 반영하면서 커밋하기
-
-$ git tag <tag-name> #현재 커밋에 태그 달기
-
-$ git stash #임시로 변경사항 저장하기
+# 사용할 패스워드 입력(입력안하면 패스)
+# 생성 된 키는 보관
 ```
 
-### 취소 및 삭제
+### rsa 키 확인
 ```
-$ git commit --amend #마지막 커밋 수정하기. (published commit에서는 하지말기)
+# 확인
+$ ls -al
 
-$ git reset # staging area에 모든 변경 버리기
-
-$ git reset --hard HEAD #워킹 디렉토리까지도 변경전으로 되돌림(변경내용 소멸)
-
-$ git revert <commit> #커밋 되돌아가기
-
-# 저장소 최초 커밋 취소
-git update-ref -d HEAD
-git rm --cached -rf .
+# 예시
+drwxr-xr-x  6 root  admin   192 12 21 15:05 .
+drwxr-xr-x  6 root  admin   192 12 21 15:02 ..
+-rw-------  1 root  admin  2655 12 21 15:05 id_rsa_company
+-rw-r--r--  1 root  admin   571 12 21 15:05 id_rsa_company.pub
+-rw-------  1 root  admin  2655 12 21 15:04 id_rsa_personal
+-rw-r--r--  1 root  admin   574 12 21 15:04 id_rsa_personal.pub
 ```
 
-### 원격저장소
+### rsa 등록
 ```
-$ git remote -v		#현재 원격저장소와 연결된 로컬저장소 이름 목록 보기
-$ git remote add origin (원격 저장소 github URL)
-		#현재 폴더에 origin이라는 로컬저장소를 만들고 원격 저장소 연결(push/pull 전에)
+# 키 등록
+$ ssh-add [키이름]
 
-$ git remote remove 원격저장소명 #해당 원격저장소 삭제
+# 예시
+$ ssh-add id_rsa_company
+$ ssh-add id_rsa_personal
 
-$ git branch --set-upstream-to=origin/<branch> <branch> #브랜치와 리모트 연결 추적
+# 비밀번호 입력 필요
+```
+
+
+###  config 생성 & 편집
+```
+# 파일보기
+cat config
+
+# 없으면 생성
+cat > config
+# 작성 저장 : control + c
+
+# 권한 에러 1
+1) sudo cat > config
+# (상위폴더로 이동 후)
+2) sudo chmod -r 777 .ssh
+
+# 권한에러 2 : no such file or directory나 zsh 권한 없음
+# 시스템환경설정 > 사용자및그룹 > 아이디 우클릭 > 고급옵션 > 로그인셸 경로 /bin/bash 로 변경
+
+-----config 내용--------
+# 개인 계정
+Host github.com-personal
+   HostName github.com-personal
+   User git
+   IdentityFile ~/.ssh/id_rsa_personal
+
+# 업무 계정
+Host github.com-company
+   HostName github.com-company
+   User git
+   IdentityFile ~/.ssh/id_rsa_company
+----------------------
+
+# repository clone 할 때 Host에 작성한 github.com-company 를 사용함.
+# clone 하려는 repo ssh주소가 git@github.com:user234/new-api.git 이면
+  git@github.com-company:user234/new-api.git 으로 변경해서 입력하여 클론
+
+```
+
+
+### .pub(공개키) 복사
+```
+# 상위 폴더 오픈
+sudo open .ssh
+
+# .pub 파일 > 텍스트 편집기로 오픈 전체 복사
+```
+
+
+## git 계정 ssh 키 등록
+### ssh 키 생성
+> 각 git 계정마다 setting > ssh 키 생성 에서
+> 계정에 맞는 .pub(공개키) 복사 내용을 입력 후 완료
+>
+### 연동 확인
+```
+# 확인
+$ ssh -T git@github.com-키이름;
+
+# 예시
+$ ssh -T git@github.com-company
+$ ssh -T git@github.com-personal
+
+# connecting 연결 확인 후
+
+Hi user234! You've successfully authenticated, but GitHub does not provide shell access.
+=> 성공
+```
+
+### project clone
+> clone 하려는 git repo ssh 주소 복사
+> 복사된 내용이 git@github.com:user234/my-project.git 이면
+> git@github.com-company:user234/my-project.git
+> 와 같이 계정에 맞게 변경 후 사용
 ```
