@@ -1,0 +1,16 @@
+---
+title: "[Java] 어떤 Java version을 써야 할까?"
+excerpt: "Java version 8, 11, 17 차이점"
+
+categories:
+ - Java
+tags:
+ - Java
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 "새 프로젝트를 진행하려고 하는데 어떤 Java version을 써야 할까?"
+</aside>

@@ -12,9 +12,11 @@ toc_sticky: true
 toc_label: 목차
 ---
 <aside>
-💡 "회사용 git 계정과 개인용 git 계정을 둘 다 연동해두고 사용하고 싶다.
- ssh key를 이용하여 git 계정 2개 연동해보자"
+💡 "하나의 PC에서 Git 계정 2개 연동하기"
 </aside>
+
+> 회사용 git 계정과 개인용 git 계정을 둘 다 연동해두고 사용하고 싶다.
+> ssh key를 이용하여 git 계정 2개 연동해보자 <br>
 
 ##  rsa 키 생성
 > 먼저 콘솔에서 ssh key 생성에 필요한 rsa 키를 생성한다.
