@@ -1,151 +1,53 @@
 ---
-title: "[Git] 하나의 PC에서 Git 계정 2개 연동하기"
-excerpt: "ssh key를 이용하여 git 계정 2개 연동하기"
+title: "[Java] [입출력] System 클래스"
+excerpt: "자바 기본 입출력 클래스"
 
 categories:
- - Git
+ - Java
 tags:
- - Git
+ - Java
 
 toc: true
 toc_sticky: true
 toc_label: 목차
 ---
 <aside>
-💡 "하나의 PC에서 Git 계정 2개 연동하기"
+💡 Java 의 기본 입출력 클래스인 System 클래스를 알아보자
 </aside>
 
-> 회사용 git 계정과 개인용 git 계정을 둘 다 연동해두고 사용하고 싶다.
-> ssh key를 이용하여 git 계정 2개 연동해보자 <br>
+> Java의 기본 입출력 클래스 System Class
 
-##  rsa 키 생성
-> 먼저 콘솔에서 ssh key 생성에 필요한 rsa 키를 생성한다.
-### ssh 폴더 생성 & 이동
-```
-# 생성
-$ mkdir .ssh
-(이미 존재하면 생략)
+## System Class
 
-# 권한 오류 : mkdir: .ssh: Permission denied
-# 해결
-$ sudo mkdir .ssh
+### 멤버 변수
 
-# 이동
-$ cd ~/.ssh
-```
+| static PrintStream | in |
+| --- | --- |
+| static InputStream | out |
+| static OutputStream | error |
 
-### rsa 키 생성
-```
-# 키 생성
-ssh-keygen -t rsa -C "이메일" -f "키이름"
+### 함수
+| 함수               | 설명                                 |
+|------------------|------------------------------------|
+| System.in.read() | 하나의 char를 아스키 코드값으로 입력됨. int형태로 출력 |
+| readLine()       | 한 줄을 읽어서 String 으로 출력              |
+| println()        | 리터럴 또는 변수 + 개행                     |
+| print()          | 리터럴 또는 변수                          |
+| printf()         | 형식문자열, 값                           |
 
-# 예시
-# 회사키
-ssh-keygen -t rsa -C "company@company.kr" -f "id_rsa_company"
-# 개인키
-ssh-keygen -t rsa -C "personal@gmail.com" -f "id_rsa_personal"
+### 서식
 
-# 사용할 패스워드 입력(입력안하면 패스)
-# 생성 된 키는 보관
-```
+| 지시자 | 설명 |
+| --- | --- |
+| %b | 논리형식으로 출력 |
+| %d | 정수형식으로 출력 |
+| %o | 8진수 형식으로 출력 |
+| %x 또는 %X | 16진수 형식으로 출력 |
+| %f | 실수형식으로 출력 |
+| %c | 문자형식으로 출력 |
+| %s | 문자열형식으로 출력 |
+| %n | 줄바꿈 |
+| %e 또는 %E | 지수 표현식의 형식으로 출력 |
 
-### rsa 키 확인
-```
-# 확인
-$ ls -al
-
-# 예시
-drwxr-xr-x  6 root  admin   192 12 21 15:05 .
-drwxr-xr-x  6 root  admin   192 12 21 15:02 ..
--rw-------  1 root  admin  2655 12 21 15:05 id_rsa_company
--rw-r--r--  1 root  admin   571 12 21 15:05 id_rsa_company.pub
--rw-------  1 root  admin  2655 12 21 15:04 id_rsa_personal
--rw-r--r--  1 root  admin   574 12 21 15:04 id_rsa_personal.pub
-```
-
-### rsa 등록
-```
-# 키 등록
-$ ssh-add [키이름]
-
-# 예시
-$ ssh-add id_rsa_company
-$ ssh-add id_rsa_personal
-
-# 비밀번호 입력 필요
-```
-
-
-###  config 생성 & 편집
-```
-# 파일보기
-cat config
-
-# 없으면 생성
-cat > config
-# 작성 저장 : control + c
-
-# 권한 에러 1
-1) sudo cat > config
-# (상위폴더로 이동 후)
-2) sudo chmod -r 777 .ssh
-
-# 권한에러 2 : no such file or directory나 zsh 권한 없음
-# 시스템환경설정 > 사용자및그룹 > 아이디 우클릭 > 고급옵션 > 로그인셸 경로 /bin/bash 로 변경
-
------config 내용--------
-# 개인 계정
-Host github.com-personal
-   HostName github.com-personal
-   User git
-   IdentityFile ~/.ssh/id_rsa_personal
-
-# 업무 계정
-Host github.com-company
-   HostName github.com-company
-   User git
-   IdentityFile ~/.ssh/id_rsa_company
-----------------------
-
-# repository clone 할 때 Host에 작성한 github.com-company 를 사용함.
-# clone 하려는 repo ssh주소가 git@github.com:user234/new-api.git 이면
-  git@github.com-company:user234/new-api.git 으로 변경해서 입력하여 클론
-
-```
-
-
-### .pub(공개키) 복사
-```
-# 상위 폴더 오픈
-sudo open .ssh
-
-# .pub 파일 > 텍스트 편집기로 오픈 전체 복사
-```
-
-
-## git 계정 ssh 키 등록
-### ssh 키 생성
-> 각 git 계정마다 setting > ssh 키 생성 에서
-> 계정에 맞는 .pub(공개키) 복사 내용을 입력 후 완료
->
-### 연동 확인
-```
-# 확인
-$ ssh -T git@github.com-키이름;
-
-# 예시
-$ ssh -T git@github.com-company
-$ ssh -T git@github.com-personal
-
-# connecting 연결 확인 후
-
-Hi user234! You've successfully authenticated, but GitHub does not provide shell access.
-=> 성공
-```
-
-### project clone
-> clone 하려는 git repo ssh 주소 복사
-> 복사된 내용이 git@github.com:user234/my-project.git 이면
-> git@github.com-company:user234/my-project.git
-> 와 같이 계정에 맞게 변경 후 사용
-```
+## 참고
+- [Java 입출력](https://coding-factory.tistory.com/859)
