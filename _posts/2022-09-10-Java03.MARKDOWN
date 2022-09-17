@@ -89,6 +89,3 @@ toc_label: 목차
   | void | write(int c), write(String s, int offset, int length), write(Char[] cbuf, int offset, int length) | 글자를 버퍼에 저장, 버퍼 offset위치부터 length크기만큼 글자 저장, 각각으로 저장된 글&숫자는 개행이 없어서 한줄로 이어지므로 필요하다면 각 저장시 "\n"을 추가해줘야한다. |
 
 
-
-## 참고
-- [Java 입출력](https://coding-factory.tistory.com/859)
