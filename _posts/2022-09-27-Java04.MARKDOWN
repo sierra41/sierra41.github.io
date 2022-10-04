@@ -1,0 +1,61 @@
+---
+title: "[Java] 문자열 분리"
+excerpt: "자바 문자열 분리 방법"
+
+categories:
+ - Java
+tags:
+ - Java
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java 문자열 분리의 2가지 방법에 대해 알아보자
+</aside>
+
+> StringTokenizer 클래스와 split() 함수
+
+## StringTokenizer
+- StringTokenizer는 new StringTokenizer(str, " ") 선언되는 순간 입력받는 자리가 생긴다.
+  - 반복 입력을 위해 StringTokenizer 를 여러번 선언해줘야하는 경우 중에서 입력받는 수가 정수 10 이하라면 다음과 같은 형태로 사용가능
+    ```java
+    String변수.charAt(0) - 48
+    String변수.charAt(0) - '0'
+    ```
+- 문자열을 구분자 기준으로 나눠주는 함수로 앞뒤 공백을 인식을 못한다.
+- 사용 예시
+  ```java
+  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+  String str = br.readLine();
+  StringTokenizer stz = new StringTokenizer(str, " ");
+
+  // 꺼내기1 (값이 적은경우) : 연속해서 선언
+  int A = Integer.parseInt(stz.nextToken);
+  int B = Integer.parseInt(stz.nextToken);
+
+  // 꺼내기2 (값이 많은경우) while문 : 배열이 필요없을 때(단순 계산 등)
+  int sum = 0;
+  while(stz.hasMoreTokens()){
+  sum += Integer.parseInt(stz.nextToken());
+  }
+
+  // 꺼내기3 (값이 많은경우) for문
+  int[] nums = new int[stz.countTokens()];
+  int temp = stz.countTokens(); //따로 선언하지않고 바로 for문에 넣으면 안읽힘
+  for(int h=0; h<temp; h++) {
+  scores[h] = Integer.parseInt(stz.nextToken());
+  }
+  ```
+
+## 함수 split()
+- 앞 뒤 공백을 인식할 수 있다. (java의 trim()으로 제거)
+- 빈 공백하나도 단어 1개로 인식
+- 사용
+  ```java
+  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+  String[] str = br.readLine().split(" ");
+  int A = Integer.parseInt(str[0]);
+  int B = Integer.parseInt(str[1]);
+  ```
