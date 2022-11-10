@@ -1,0 +1,41 @@
+---
+title: "[Java] [Math] 문자열 분리"
+excerpt: "Java Math Class 의 사용 "
+
+categories:
+ - Java
+tags:
+ - Java
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java 의 Math Class 대해 알아보자
+</aside>
+
+> java.lang 패키지에 포함 된 수학 관련 동작을 수행하는 클래스
+
+
+# Math Class란?
+
+- 모든 함수가 static 으로 구현되어 있음 → 객체 생성 없이 사용 가능
+- 사용법
+
+    ```java
+    int num = Math.min(A, B) // A,B 중에서 적은 수를 num에 넣음
+    ```
+# 종류
+
+| 함수 | 설명 | 사용 |
+| --- | --- | --- |
+| random() | 0.0~1.0 사이의 임의의 double형 데이터 생성하여 반환 |  |
+| max() | 두 수 중 더 큰 수를 반환 (int, long, double, float) | static int max(int a, int b) |
+| min() | 두 수 중 더 큰 수를 반환 (int, long, double, float) | static int min(int a, int b) |
+| round() | 소수점 첫번째 자리에서 반올림 후 반환 | static long round(double a) |
+| floor() | 소수점 아래 값은 버린 정수 반환(버림) | static double floor(double a) |
+| ceil() | 소수점 값을 올려서 반환 (올림) | static double ceil(double a) |
+| pow() | 전달된 두 수의 제곱 연산 수행 (a^b) | static double pow(double a, double b) |
+| sqrt() | 전달된 수의 제곱근 반환 | static double sqrt(double a) |
+| subtractExact() | 전달된 두 수의 차이를 반환 : b-a (int, long) | static int subtractExact(int a, int b) |
