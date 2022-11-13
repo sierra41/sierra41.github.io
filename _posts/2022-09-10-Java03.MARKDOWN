@@ -21,13 +21,19 @@ toc_label: 목차
 - BufferedReader : 버퍼를 이용한 입력
 - BufferedWriter : 버퍼를 이용한 출력
 
-## Buffer 함수
+# Buffer 함수
+
+---
+
 - 버퍼를 이용하기 때문에 입출력의 효율이 Scanner/System.out.print()보다 좋아진다
 ![buffer이용](/assets/images/posts/java03.png)
 - 한번 거쳐서 가기 때문에 느릴 것 같지만 빠른 이유 : 하드디스크는 원래 속도가 아주 느리므로 키보드가 눌릴 때마다 눌린 데이터를 즉시 이동시키기보다 메모리 버퍼에 데이터를 묶었다가 이동시키는게  효율적이다.
 - 많은 데이터를 입력받아야 할 상황에서 주로 이용한다.
 
-### BufferedReader
+## BufferedReader
+
+---
+
 - Scanner와  비교
   - Scanner는 띄어쓰기와 엔터를 경계로 입력값을 인식하기 때문에 가공이 필요없어서 편하지만 BufferedReader는 엔터만 경계로 인식하고 받은 데이터가 String으로 고정되므로 데이터를 가공해야하는 경우가 많다.
 - 사용
@@ -63,7 +69,10 @@ toc_label: 목차
   |  |  |  |
 
 
-### BufferedWriter
+## BufferedWriter
+
+---
+
 - System.out.print()와  비교
   - System.out.print()는 문자열출력과 개행을 동시에 해주지만 BufferedWriter는 개행을 하려면 "\n"을 넣거나 newLine함수를 이용해야한다.
 - 사용

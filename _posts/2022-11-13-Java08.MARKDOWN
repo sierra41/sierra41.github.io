@@ -19,6 +19,8 @@ toc_label: 목차
 
 # abstract
 
+---
+
 - 하나의 상위 클래스에게만 상속가능하며 하위로 갈수록 생성자, 메서드가 정의되면서 구체화 됨
 - 상위클래스와 하위클래스 - 수직적인 구조
   ![buffer이용](/assets/images/posts/java08-1.png)
@@ -71,6 +73,8 @@ toc_label: 목차
 
 # Interface
 
+---
+
 - 클래스들의 형식을 담당하는 틀. 대규모 개발에서 정형화된 표준을 규정할 수 있다
 - 추상클래스와 달리 연결된 클래스끼리 수평적
   ![buffer이용](/assets/images/posts/java08-2.png)
@@ -107,6 +111,8 @@ toc_label: 목차
 
 
 # Interface & Abstract 비교
+
+---
 
 - 추상 메소드는 생성자, 필드, 일반 메소드가 포함 가능하나 인터페이스는 추상 메소드와 상수만 포함 가능
 - Interface 보다 Abstract가 속도가 빠르다
