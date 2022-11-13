@@ -1,0 +1,170 @@
+---
+title: "[Java] abstract & interface"
+excerpt: "abstract & interface 비교"
+
+categories:
+ - Java
+tags:
+ - Java
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 abstract & interface 의 사용 및 차이를 알아보자
+</aside>
+
+> 객체지향 설계에서 abstract & interface 의 사용
+
+# **abstract**
+
+- 하나의 상위 클래스에게만 상속가능하며 하위로 갈수록 생성자, 메서드가 정의되면서 구체화 됨
+- 상위클래스와 하위클래스 - 수직적인 구조
+  ![buffer이용](/assets/images/posts/java08-1.png)
+- 사용
+
+    ```jsx
+    abstract class Animal {
+        abstract void cry();
+    }
+    class Cat extends Animal {
+        @Override
+        void cry() {
+            System.out.println("냐옹");
+        }
+    }
+    class Dog extends Animal{
+        @Override
+        void cry() {
+            System.out.println("멍멍");
+        }
+    }
+
+
+    //호출 및 결과
+    Cat c = new Cat();
+    Dog d = new Dog();
+    c.cry(); // 냐옹
+    d.cry(); // 멍멍
+    ```
+
+
+### **추상 클래스 (abstract classs)**
+
+- 추상 메소드를 단 하나라도 포함하는 클래스
+- 객체지향 프로그래밍의 다형성을 가지는 메소드의 집합을 정의하도록 한다
+- 반드시 사용해야하는 메소드를 추상 메소드로 포함해두면 해당 클래스를 상속받는 모든 클래스에서는 추상 클래스를 반드시 재정의해서 사용해야만 한다
+- 동작이 정의되지 않은 추상 메소드를 포함하고 있으므로 인스턴스를 생성할 수 없다
+  - 자식 클래스 상속 후 추상 메소드를 재정의한 다음 인스턴스 생성 가능
+- 추상 메소드 이외에 일반 메소드들도 포함될 수 있다
+- 추상 클래스간에 상속이 가능하다. (오버라이드 필수가 아님)
+- 접근지정자는 어떤 것이든 가능하다
+- 인스턴스를 만들 수 없고 상속받은 클래스를 통해 인스턴스화 가능하다
+
+### **추상 메소드 (abstract method)**
+
+- 반드시 오버라이딩해야만 사용가능한 메소드
+- 클래스를 상속받아 사용할 때, 공통적이거나 중복되는 부분은 그대로 사용하고 사용자가 수정이 필요한 부분만 재정의해서 사용함으로써 코드의 중복을 막고 생산성을 향상시킬 수 있다.
+- 추상 메소드는 선언부만 존재하며 구현부는 작성되어 있지 않다
+- 일반 메소드와는 다르게 클래스를 상속받는다면 반드시 재정의하여 구현하도록 되어 있다.
+
+# Interface
+
+- 클래스들의 형식을 담당하는 틀. 대규모 개발에서 정형화된 표준을 규정할 수 있다
+- 추상클래스와 달리 연결된 클래스끼리 수평적
+  ![buffer이용](/assets/images/posts/java08-2.png)
+- 자바에서는 메소드 출처의 모호성 등의 이유로 클래스의 다중 상속을 지원하지 않는다 이에 따라 인터페이스를 활용하여 다중 상속이 필요한 상황에 활용한다.
+- 다른 클래스와의 중간 매개 역할을 담당할 수 있다
+- 인터페이스간 상속이 가능하다. 내용이 없는 메소드를 상속받으며 extands를 사용.
+- 접근지정자는 없거나 public, abstract 만 가능하다
+- 메소드에 final을 붙일 수 없고 변수는 모두 static 이어야 한다
+- 사용
+
+    ```jsx
+    interface Animal {
+        void cry();
+    }
+    class Cat implements Animal{
+        @Override
+        public void cry() {
+            System.out.println("냐옹");
+        }
+    }
+    class Dog implements Animal{
+        @Override
+        public void cry() {
+            System.out.println("멍멍");
+        }
+    }
+
+    // 결과
+    Cat c = new Cat();
+    Dog d = new Dog();
+    c.cry(); // 냐옹
+    d.cry(); // 멍멍
+    ```
+
+
+# Interface & Abstract 비교
+
+- 추상 메소드는 생성자, 필드, 일반 메소드가 포함 가능하나 인터페이스는 추상 메소드와 상수만 포함 가능
+- Interface 보다 Abstract가 속도가 빠르다
+- 다중상속 사용 : Interface만 가능하고 Abstract는 불가
+
+    ```jsx
+    interface Animal {
+        void cry();
+    }
+    interface Pet {
+        void play();
+    }
+    class Cat implements Animal,Pet{
+        @Override
+        public void cry() {
+            System.out.println("냐옹");
+        }
+        @Override
+        public void play() {
+            System.out.println("쥐잡기");
+        }
+    }
+    class Dog implements Animal,Pet{
+        @Override
+        public void cry() {
+            System.out.println("멍멍");
+        }
+        @Override
+        public void play() {
+            System.out.println("산책하기");
+        }
+    }
+
+    호출 및 결과
+    Cat c = new Cat();
+    Dog d = new Dog();
+    c.cry(); // 냐옹
+    c.play(); // 쥐잡기
+    d.cry(); // 멍멍
+    d.play(); // 산책하기
+    ```
+
+- 사용
+
+  | 상황 | 사용 |
+  | --- | --- |
+  | 추상 메소드만 사용 | 인터페이스 |
+  | 일반 메소드 및 다른 메소드 사용 | 추상클래스 |
+  | 중복되는 동작이 많을 때  | 추상클래스 |
+  | 상속의 계층이 명확해야할 때 | 추상클래스 |
+  | 디자인을 구성하는 요소가 자주 변경될 때 | 인터페이스 |
+  | 클래스 전체가 아닌 일부 메소드만 사용할 때  | 인터페이스 |
+
+## 참고
+
+https://reinvestment.tistory.com/48
+http://alecture.blogspot.com/2011/05/abstract-class-interface.html
+https://brunch.co.kr/@kd4/6
+http://tcpschool.com/java/java_polymorphism_interface
+http://tcpschool.com/java/java_polymorphism_abstract
+https://jroomstudio.tistory.com/7

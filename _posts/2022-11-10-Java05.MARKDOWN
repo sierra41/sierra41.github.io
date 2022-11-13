@@ -1,5 +1,5 @@
 ---
-title: "[Java] [Math] 문자열 분리"
+title: "[Java] [Math] class 함수"
 excerpt: "Java Math Class 의 사용 "
 
 categories:
@@ -39,3 +39,7 @@ toc_label: 목차
 | pow() | 전달된 두 수의 제곱 연산 수행 (a^b) | static double pow(double a, double b) |
 | sqrt() | 전달된 수의 제곱근 반환 | static double sqrt(double a) |
 | subtractExact() | 전달된 두 수의 차이를 반환 : b-a (int, long) | static int subtractExact(int a, int b) |
+
+
+## 참고
+- [Java Math](https://velog.io/@chosj1526/JAVA-Math-class-%EC%88%98%ED%95%99%EA%B4%80%EB%A0%A8-%EC%B2%98%EB%A6%AC-%ED%81%B4%EB%9E%98%EC%8A%A4)
