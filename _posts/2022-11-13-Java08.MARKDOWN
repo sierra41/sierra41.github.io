@@ -167,9 +167,9 @@ toc_label: 목차
 
 ## 참고
 
-https://reinvestment.tistory.com/48
-http://alecture.blogspot.com/2011/05/abstract-class-interface.html
-https://brunch.co.kr/@kd4/6
-http://tcpschool.com/java/java_polymorphism_interface
-http://tcpschool.com/java/java_polymorphism_abstract
-https://jroomstudio.tistory.com/7
+- https://reinvestment.tistory.com/48
+- http://alecture.blogspot.com/2011/05/abstract-class-interface.html
+- https://brunch.co.kr/@kd4/6
+- http://tcpschool.com/java/java_polymorphism_interface
+- http://tcpschool.com/java/java_polymorphism_abstract
+- https://jroomstudio.tistory.com/7
