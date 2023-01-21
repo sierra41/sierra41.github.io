@@ -18,6 +18,9 @@ toc_label: 목차
 > StringTokenizer 클래스와 split() 함수
 
 ## StringTokenizer
+
+---
+
 - StringTokenizer는 new StringTokenizer(str, " ") 선언되는 순간 입력받는 자리가 생긴다.
   - 반복 입력을 위해 StringTokenizer 를 여러번 선언해줘야하는 경우 중에서 입력받는 수가 정수 10 이하라면 다음과 같은 형태로 사용가능
     ```java
@@ -50,6 +53,9 @@ toc_label: 목차
   ```
 
 ## 함수 split()
+
+---
+
 - 앞 뒤 공백을 인식할 수 있다. (java의 trim()으로 제거)
 - 빈 공백하나도 단어 1개로 인식
 - 사용
@@ -59,3 +65,9 @@ toc_label: 목차
   int A = Integer.parseInt(str[0]);
   int B = Integer.parseInt(str[1]);
   ```
+
+## 참고
+
+---
+
+- 자바의 정석

@@ -59,3 +59,10 @@ toc_label: 목차
     System.out.println(Math.round(money*1000)/1000); //결과 5000
     System.out.println(String.format("%.3f", money)); //결과 : 5000.00
     ```
+
+
+## 참고
+
+---
+
+- 자바의 정석
