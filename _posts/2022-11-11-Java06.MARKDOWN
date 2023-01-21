@@ -18,6 +18,9 @@ toc_label: 목차
 > Math.rount() 와 String.format() 함수
 
 ## Math.rount()
+
+---
+
 - 실수의 소수점 첫번째 자리를 반올림하여 정수로 리턴
 - 사용법
 
@@ -30,6 +33,9 @@ toc_label: 목차
     ```
 
 ## String.format()
+
+---
+
 - 실수의 소수점 첫번째 자리를 반올림하여 정수로 리턴
 - 사용법
 
@@ -42,6 +48,9 @@ toc_label: 목차
     ```
 
 ## Math.round() 와 String.format() 비교
+
+---
+
 - Math.round()함수는 소수점아래가 0일경우 절삭하지만 String.format은 절삭하지 않고 그대로 리턴
 - 사용법
 
