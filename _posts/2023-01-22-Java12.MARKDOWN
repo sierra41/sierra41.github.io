@@ -1,0 +1,24 @@
+---
+title: "[Java] Collection - List"
+excerpt: "Java Collection List의 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Collection Framework - List 을 알아보자
+</aside>
+
+>
+
+## 참고
+
+---
+
+-
