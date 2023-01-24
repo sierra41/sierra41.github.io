@@ -17,16 +17,21 @@ toc_label: 목차
 
 > Java의 기본 입출력 클래스 System Class
 
-## System Class
+# System Class
 
-### 멤버 변수
+## 멤버 변수
+
+---
 
 | static PrintStream | in |
 | --- | --- |
 | static InputStream | out |
 | static OutputStream | error |
 
-### 함수
+## 함수
+
+---
+
 | 함수               | 설명                                 |
 |------------------|------------------------------------|
 | System.in.read() | 하나의 char를 아스키 코드값으로 입력됨. int형태로 출력 |
@@ -35,7 +40,9 @@ toc_label: 목차
 | print()          | 리터럴 또는 변수                          |
 | printf()         | 형식문자열, 값                           |
 
-### 서식
+## 서식
+
+---
 
 | 지시자 | 설명 |
 | --- | --- |
@@ -49,5 +56,9 @@ toc_label: 목차
 | %n | 줄바꿈 |
 | %e 또는 %E | 지수 표현식의 형식으로 출력 |
 
+
 ## 참고
+
+---
+
 - [Java 입출력](https://coding-factory.tistory.com/859)
