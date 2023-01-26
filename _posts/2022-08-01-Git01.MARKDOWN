@@ -17,14 +17,14 @@ toc_label: 목차
 
 > 자주 사용하지만 잊어버리기 쉬운 Git 명령어 <br>
 
-### 생성
+## 생성
 ```
 $ git init [project_name] #새로운 로컬 저장소 생성
 
 $ git clone [url] #저장소 가져오기
 ```
 
-### 확인
+## 확인
 ```
 $ git status #작업 디렉토리에 변경된 파일 보기
 
@@ -37,7 +37,7 @@ $ git log #변경 이력 보기
 $ git stash list #임시 변경사항 보기
 ```
 
-### 변경
+## 변경
 ```
 $ git add [file] #파일의 변경 사항을 다음 커밋에 반영하기
 
@@ -55,7 +55,7 @@ $ git tag <tag-name> #현재 커밋에 태그 달기
 $ git stash #임시로 변경사항 저장하기
 ```
 
-### 취소 및 삭제
+## 취소 및 삭제
 ```
 $ git commit --amend #마지막 커밋 수정하기. (published commit에서는 하지말기)
 
@@ -70,7 +70,7 @@ git update-ref -d HEAD
 git rm --cached -rf .
 ```
 
-### 원격저장소
+## 원격저장소
 ```
 $ git remote -v		#현재 원격저장소와 연결된 로컬저장소 이름 목록 보기
 $ git remote add origin (원격 저장소 github URL)

@@ -17,6 +17,8 @@ toc_label: 목차
 </aside>
 
 ##  rsa 키 생성
+
+---
 > 먼저 콘솔에서 ssh key 생성에 필요한 rsa 키를 생성한다.
 ### ssh 폴더 생성 & 이동
 ```
@@ -122,6 +124,9 @@ sudo open .ssh
 
 
 ## git 계정 ssh 키 등록
+
+---
+
 ### ssh 키 생성
 > 각 git 계정마다 setting > ssh 키 생성 에서
 > 계정에 맞는 .pub(공개키) 복사 내용을 입력 후 완료
