@@ -32,7 +32,7 @@ toc_label: 목차
 - 클래스와 클래스의 상속, 인터페이스와 인터페이스의 상속에 사용
 - 사용
 
-    ```jsx
+    ```java
     class Vehicle {
       protected int speed = 3;
 
@@ -72,7 +72,7 @@ toc_label: 목차
 - 인터페이스를 구현
 - 사용
 
-    ```jsx
+    ```java
     interface TestInterface{
       public static int num = 8;
       public void fun1();
