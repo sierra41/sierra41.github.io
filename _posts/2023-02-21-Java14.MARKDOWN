@@ -1,0 +1,46 @@
+---
+title: "[Java] Collection - Linked List"
+excerpt: "Java Collection Linked List의 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-01-23T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Collection Framework - Linked List 를 알아보자
+</aside>
+
+> 데이터를 효율적으로 저장, 삭제하기 위한 리스트
+
+
+## Linked List 란?
+
+---
+
+- 자료가 불연속적으로 존재한다.
+- 저장된 객체 요소는 모두 자신과 연결된 이전, 다음 요소의 주소값을 가지고 있으며 해당 주소값으로 모든 객체가 연결된다.
+- 중간 객체가 삭제되어도 이전, 다음의 주소값만 변경되기 때문에 중간에 위치한 자료의 수정이 용이하고 빠르다
+- ⇒ 데이터의 단순 조회보다 많은 변경이 필요한 상황에는 유리한 자료구조
+
+### Linked List 의 중간 데이터 수정
+
+---
+
+1. List에 A 객체, B 객체, C 객체가 저장
+2. A 객체의 back 주소값에 B 객체 위치가 저장, B 객체의 front 주소값에 A 객체 위치가 저장되고 back 주소값에 C 객체 위치가 저장, C 객체의 front 주소값에 B 객체 위치가 저장
+3. B 객체의 삭제시 : A 객체의 back 주소값에 C 객체 위치가 저장, C 객체의 front 주소값에 A 객체 위치가 저장
+
+![01](/assets/images/posts/java14.png)
+
+## 참고
+
+---
+
+- 자바의 정석
+- UDM lecture linked List
