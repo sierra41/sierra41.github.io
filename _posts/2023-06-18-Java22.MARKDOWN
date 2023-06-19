@@ -1,6 +1,6 @@
 ---
 title: "[Java] 스레드(Thread)"
-excerpt: "Java 스레드(Thread)"
+excerpt: "Java 스레드(Thread)의 사용"
 
 categories:
  - Java
@@ -18,17 +18,15 @@ toc_label: 목차
 
 > 프로세스(process) 내에서 실제로 작업을 수행하는 주체
 
-
-# **프로세스(process) & 스레드(thread)**
+# 프로세스(process) & 스레드(thread)
 
 ---
-
-### **프로세스(process)**
+### 프로세스(process)
 - 실행 중인 프로그램(program)
 - 운영체제에서 메모리 공간을 할당받아 실행 중인 것
 - 프로그램 데이터, 메모리 등 자원, 스레드로 구성
 
-### 스레드**(thread)**
+### 스레드(thread)
 - 프로그램 실행 흐름
 - 모든 프로세스에는 한 개 이상의 스레드가 존재
   - 싱글 스레드(single thread program) : 스레드가 하나뿐인 프로그램
@@ -37,7 +35,7 @@ toc_label: 목차
 - 각각의 스레드는 서로가 생성한 객체를 공유 가능.
 - 동시성, 동기화 문제를 해결해줘야함
 
-# **스레드의 생성과 실행**
+# 스레드의 생성과 실행
 
 ---
 ## Thread 클래스 이용
@@ -95,7 +93,6 @@ public class Thread01 {
 # 참고
 
 ---
-
 - https://www.tcpschool.com/java
 - https://www.daleseo.com/java-thread-runnable/
 
