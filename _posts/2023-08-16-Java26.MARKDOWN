@@ -1,0 +1,75 @@
+---
+title: "[Java] Enum 클래스"
+excerpt: "Java Enum 클래스 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-08-16T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Enum 클래스를 알아보자
+</aside>
+
+> 자바의 열거체(enumeration type)
+
+=
+
+# **Enum 클래스는**?
+
+---
+- JDK 1.5부터 지원
+- 열거체 비교시 실제 값뿐만 아니라 타입까지 비교
+- 상수값이 재정의 되더라도 재컴파일할 필요 없음
+- 모든 자바 열거체의 공통된 조상 클래스
+
+# 사용
+
+---
+- 정의 : enum 열거체이름 { 상수1이름, 상수2이름, ... }
+    ```jsx
+    enum Rainbow { RED, ORANGE, YELLOW, GREEN, BLUE, INDIGO, VIOLET }
+    ```
+
+- 사용 : 열거체이름**.**상수이름
+    ```jsx
+    Rainbow.RED
+    ```
+
+- 상숫값 정의 및 추가
+    ```jsx
+    enum Rainbow {
+        RED(3), ORANGE(10), YELLOW(21), GREEN(5), BLUE(1), INDIGO(-1), VIOLET(-11);
+        private final int value;
+        Rainbow(int value) { this.value = value; }
+        public int getValue() { return value; }
+    }
+    ```
+
+
+# 함수
+
+---
+
+| 함수 | 설명 |
+| --- | --- |
+| values() | 해당 열거체의 모든 상수를 저장한 배열을 생성하여 반환.  |
+| valueOf() | 전달된 문자열과 일치하는 해당 열거체의 상수를 반환 |
+| ordinal() | 해당 열거체 상수가 열거체 정의에서 정의된 순서(0부터 시작)를 반환. 해당 열거체 상수가 정의된 순서이며, 상숫값 자체가 아님 |
+| static E values() | 해당 열거체의 모든 상수를 저장한 배열을 생성하여 반환 |
+| static E valueOf(String name) | 전달된 문자열과 일치하는 해당 열거체의 상수를 반환 |
+| protected void finalize() | 해당 Enum 클래스가 final 메소드를 가질 수 없게 됨 |
+| String name() | 해당 열거체 상수의 이름을 반환 |
+
+# 참고
+
+---
+
+- [https://www.tcpschool.com/java](https://www.tcpschool.com/java/java_api_enum)
+- [https://inpa.tistory.com/entry/JAVA-☕-열거형Enum-타입-문법-활용-정리](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%97%B4%EA%B1%B0%ED%98%95Enum-%ED%83%80%EC%9E%85-%EB%AC%B8%EB%B2%95-%ED%99%9C%EC%9A%A9-%EC%A0%95%EB%A6%AC)
+-
