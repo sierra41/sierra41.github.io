@@ -25,17 +25,16 @@ toc_label: 목차
 - now() : 현재의 날짜와 시간을 이용하여 새로운 객체를 생성하여 반환
 - of() : 전달된 인수를 가지고 특정 날짜와 시간을 표현하는 새로운 객체를 생성하여 반환
 
-    ```jsx
+    ```java
     LocalDate today = LocalDate.now();
     LocalTime present = LocalTime.now();
     System.out.println(today + " " + present);
 
-    // static LocalDate of(int year, int month, int dayOfMonth)
     LocalDate birthDay = LocalDate.of(1982, 02, 19);
-    // static LocalTime of(int hour, int minute, int second, int nanoOfSecond)
     LocalTime birthTime = LocalTime.of(02, 02, 00, 100000000);
     System.out.println(birthDay + " " + birthTime);
 
+    // 결과
     // 2017-02-16 09:21:50.634
     // 1982-02-19 02:02:00.100
     ```
