@@ -1,0 +1,24 @@
+---
+title: "[Java] Arrays"
+excerpt: "Java Arrays 용법"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-01-19T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Arrays 의 사용 및 차이를 알아보자
+</aside>
+
+> 배열(Arrays)은 선형 자료구조 중 하나로 동일한 타입의 연관된 데이터를 메모리에 연속적으로 저장하여 하나의 변수로 묶어서 관리하기 위한 자료구조이다.
+- 최소 선언한 값으로 크기가 고정되며 변하지 않는다
+- index를 통해 데이터에 접근한다
+
+## 기본 배열
+
