@@ -25,8 +25,8 @@ toc_label: 목차
 ---
 - 사용법
 
+```java
 
-    ```java
 
     //초기화 & 크기 할당 없이 참조변수만 선언
     int[] arr;
@@ -54,7 +54,8 @@ toc_label: 목차
     System.out.println(arr); //주소값이 출력됨
     System.out.println(Arrays.toString(arr)); //배열내용 출력
 
-    ```
+```
+
 
 ## 배열 함수
 
