@@ -1,0 +1,73 @@
+---
+title: "[Java] LocalDate & LocalTime"
+excerpt: "Java 날짜와 시간의 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-08-31T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java LocalDate & LocalTime 을 알아보자
+</aside>
+
+> LocalDate : 날짜
+> LocalTime : 시간
+
+# 생성 함수
+
+---
+- now() : 현재의 날짜와 시간을 이용하여 새로운 객체를 생성하여 반환
+- of() : 전달된 인수를 가지고 특정 날짜와 시간을 표현하는 새로운 객체를 생성하여 반환
+
+    ```java
+    LocalDate today = LocalDate.now();
+    LocalTime present = LocalTime.now();
+    System.out.println(today + " " + present);
+
+    LocalDate birthDay = LocalDate.of(1982, 02, 19);
+    LocalTime birthTime = LocalTime.of(02, 02, 00, 100000000);
+    System.out.println(birthDay + " " + birthTime);
+
+    // 결과
+    // 2017-02-16 09:21:50.634
+    // 1982-02-19 02:02:00.100
+    ```
+
+
+# 접근 함수
+
+---
+
+- LocalDate
+
+    | 메소드 | 설명 |
+    | --- | --- |
+    | int get(TemporalField field), long getLong(TemporalField field) | 해당 날짜 객체의 명시된 필드의 값을 int형이나 long형으로 반환함. |
+    | int getYear() | 해당 날짜 객체의 연도(YEAR) 필드의 값을 반환함. |
+    | Month getMonth() | 해당 날짜 객체의 월(MONTH_OF_YEAR) 필드의 값을 Month 열거체를 이용하여 반환함. |
+    | int getMonthValue() | 해당 날짜 객체의 월(MONTH_OF_YEAR) 필드의 값을 반환함. (1~12) |
+    | int getDayOfMonth() | 해당 날짜 객체의 일(DAY_OF_MONTH) 필드의 값을 반환함. (1~31) |
+    | int getDayOfYear() | 해당 날짜 객체의 일(DAY_OF_YEAR) 필드의 값을 반환함. (1~365, 윤년이면 366) |
+    | DayOfWeek(), getDayOfWeek() | 해당 날짜 객체의 요일(DAY_OF_WEEK) 필드의 값을 DayOfWeek 열거체를 이용하여 반환함. |
+- LocalTime
+
+    | 메소드 | 설명 |
+    | --- | --- |
+    | int get(TemporalField field)long getLong(TemporalField field) | 해당 시간 객체의 명시된 필드의 값을 int형이나 long형으로 반환함. |
+    | int getHour() | 해당 시간 객체의 시(HOUR_OF_DAY) 필드의 값을 반환함. |
+    | int getMinute() | 해당 시간 객체의 분(MINUTE_OF_HOUR) 필드의 값을 반환함. |
+    | int getSecond() | 해당 시간 객체의 초(SECOND_OF_MINUTE) 필드의 값을 반환함. |
+    | int getNano() | 해당 시간 객체의 나노초(NANO_OF_SECOND) 필드의 값을 반환함. |
+
+# 참고
+
+---
+- 자바의 정석
+- https://www.daleseo.com/java8-local-date-time/
+- [https://www.tcpschool.com/java](https://www.tcpschool.com/java/java_time_localDateTime)
