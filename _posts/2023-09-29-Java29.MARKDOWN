@@ -1,0 +1,61 @@
+---
+title: "[Java] 스트림(stream) 2"
+excerpt: "Java 스트림(stream) 활용 - 바이트 기반 스트림"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-09-29T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java 바이트 기반 스트림을 알아보자
+</aside>
+
+> Java SE 8 버전부터 추가된 스트림 API는 앞서 설명한 스트림과는 전혀 다른 개념
+
+> 실제의 입력이나 출력이 표현된 데이터의 이상화된 흐름
+
+
+# **바이트 기반 스트림**
+
+---
+
+- 자바 스트림은 기본적으로 바이트 스트림
+
+| 입력 스트림 | 출력 스트림 | 입출력 대상 |
+| --- | --- | --- |
+| FileInputStream | FileOutputStream | 파일 |
+| ByteArrayInputStream | ByteArrayOutputStream | 메모리 |
+| PipedInputStream | PipedOutputStream | 프로세스 |
+| AudioInputStream | AudioOutputStream | 오디오 장치 |
+
+# 보조 스트림
+
+---
+
+- 실제 데이터를 주고받지는 못하지만 다른 스트림의 기능을 향상시키거나 새로운 기능을 추가함
+
+| 입력 스트림 | 출력 스트림 | 설명 |
+| --- | --- | --- |
+| FilterInputStream | FilterOutputStream | 필터를 이용한 입출력 |
+| BufferedInputStream | BufferedOutputStream | 버퍼를 이용한 입출력 |
+| DataInputStream | DataOutputStream | 입출력 스트림으로부터 자바의 기본 타입으로 데이터를 읽어올 수 있게 함. |
+| ObjectInputStream | ObjectOutputStream | 데이터를 객체 단위로 읽거나, 읽어 들인 객체를 역직렬화시킴. |
+| SequenceInputStream | X | 두 개의 입력 스트림을 논리적으로 연결함. |
+| PushbackInputStream | X | 다른 입력 스트림에 버퍼를 이용하여 push back이나 unread와 같은 기능을 추가함. |
+| X | PrintStream | 다른 출력 스트림에 버퍼를 이용하여 다양한 데이터를 출력하기 위한 기능을 추가함. |
+
+
+
+## 참고
+
+---
+
+- 자바의 정석
+- https://www.daleseo.com/java8-local-date-time/
+- [강의](https://www.tcpschool.com/java]
