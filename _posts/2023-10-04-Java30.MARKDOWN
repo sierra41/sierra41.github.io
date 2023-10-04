@@ -1,0 +1,60 @@
+---
+title: "[Java] 스트림(stream) 2"
+excerpt: "Java 스트림(stream) 활용 - 문자 기반 스트림"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-10-04T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java 문자 기반 스트림을 알아보자
+</aside>
+
+
+> Java SE 8 버전부터 추가된 스트림 API는 앞서 설명한 스트림과는 전혀 다른 개념
+
+> 실제의 입력이나 출력이 표현된 데이터의 이상화된 흐름
+
+
+# **문자 기반** 스트림
+
+---
+
+- 자바의 가장 작은 타입인 char 형은 2바이트 이므로 바이트 기반 스트림으로는 원활하지 않을 수 있음
+  - ⇒ 문자 기반의 스트림도 별도로 제공
+  - InputStream → Reader
+  - OutputStream → Writer
+
+| 입력 스트림 | 출력 스트림 | 입출력 대상 |
+| --- | --- | --- |
+| FileReader | FileWriter | 파일 |
+| CharArrayReader | CharArrayWriter | 메모리 |
+| PipedReader | PipedWriter | 프로세스 |
+| StringReader | StringWriter | 문자열 |
+
+# **문자 기반** 보조 스트림
+
+---
+
+- 마찬가지로 실제로 데이터를 주고받을 수는 없지만, 문자 기반 스트림의 기능을 향상시키거나 새로운 기능을 추가해 주는 스트림
+
+| 입력 스트림 | 출력 스트림 | 설명 |
+| --- | --- | --- |
+| FilterReader | FilterWriter | 필터를 이용한 입출력 |
+| BufferedReader | BufferedWriter | 버퍼를 이용한 입출력 |
+| PushbackReader | X | 다른 입력 스트림에 버퍼를 이용하여 push back이나 unread와 같은 기능을 추가함. |
+| X | PrintWriter | 다른 출력 스트림에 버퍼를 이용하여 다양한 데이터를 출력하기 위한 기능을 추가함. |
+
+## 참고
+
+---
+
+- 자바의 정석
+- https://www.daleseo.com/java8-local-date-time/
+- [강의](https://www.tcpschool.com/java]
