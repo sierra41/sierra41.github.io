@@ -1,0 +1,84 @@
+---
+title: "[Java] 예외 처리"
+excerpt: "Java 예외 처리 - 오류와 에러"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-10-19T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java 예외 처리를 알아보자
+</aside>
+
+> 컴퓨터 시스템이 비정상적으로 종료하는 상황에 대처하는 것
+
+
+# 오류(error)와 예외(exception)
+
+---
+
+- 컴퓨터 시스템이 동작하는 도중에 예상하지 못한 사태가 발생하여 실행 중인 프로그램이 영향을 받는 것을 오류(error)와 예외(exception) 두 가지로 구분가능 하다
+
+## 오류(error)
+
+---
+
+- 시스템 레벨에서 프로그램에 심각한 문제를 야기하여 실행 중인 프로그램을 종료
+- 개발자가 예측하기 어려우며 오류에 대한 처리는 할 수 없다
+- 문법오류 - 자바 프로그램을 작성할 때 컴파일러가 문법 오류(syntax error)를 발생
+
+## 예외(exception)
+
+---
+
+- 개발자가 미리 예측이 가능하다
+- 예외처리(exception handling)를 통해 컴퓨터가 비정상적으로 종료되는 경우를 핸들링 할 수 있다.
+
+# **예외 처리(exception handling)**
+
+---
+
+- try / catch / finally 문
+  - try : 기본적으로 맨 먼저 실행되는 코드로 여기에서 발생한 예외는 catch 블록에서 처리
+  - catch : try 블록에서 발생한 예외 코드나 예외 객체를 인수로 전달받아 그 처리를 담당
+  - finally : try 블록에서 예외가 발생하건 안 하건 맨 마지막에 무조건 실행
+  - 중괄호 생략 불가
+
+```jsx
+try {
+    예외를 처리하길 원하는 실행 코드
+} catch (e1) {
+    e1 예외가 발생할 경우에 실행될 코드;
+} catch (e2) {
+    e2 예외가 발생할 경우에 실행될 코드;
+}
+
+..
+finally
+    예외 발생 여부와 상관없이 무조건 실행될 코드;
+}
+```
+
+## 매커니즘
+
+1. try 실행시 예외가 발생(throw)하지 않고, finally 블록이 존재하면 프로그램의 제어는 바로 finally 블록으로 이동
+2. try 실행 예외 발생하면 catch 핸들러는 가까운 순서대로 차례대로 검사
+3. 적절한 catch 블록을 찾게 되면, throw 문의 피연산자는 예외 객체의 형식 매개변수로 전달
+4. 모든 예외 처리가 끝나면 프로그램의 제어는 finally 블록으로 이동
+- 만약 모든 catch 블록이 해당 예외를 처리할 수 없으면, 예외는 처리되지 못한 채 해당 프로그램은 강제 종료
+
+![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4615add5-d10d-4215-ba61-af05d4ba7cc3/e4c0f246-91a8-4dd6-8900-3c037dc6c3fc/image.png)
+
+
+## 참고
+
+---
+
+- 자바의 정석
+- [강의](https://www.tcpschool.com/java]
