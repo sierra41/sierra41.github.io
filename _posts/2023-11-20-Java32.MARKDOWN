@@ -1,0 +1,70 @@
+---
+title: "[Java] 예외 클래스"
+excerpt: "Java Exception 클래스의 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-11-20T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Exception 클래스 을 알아보자
+</aside>
+
+> 자바에서 모든 예외의 조상 클래스가 되는 Exception 클래스는 RuntimeException 와  그 외의 Exception 클래스의 자식 클래스로 나뉜다
+
+![01](/assets/images/posts/java32.png)
+
+# RuntimeException 클래스
+
+---
+
+- RuntimeException을 상속받는 자식 클래스들은 주로 치명적인 예외 상황을 발생시키지 않는 예외들로 구성된다
+- try / catch 문의 사용보다는 예외가 발생하지 않도록 주의
+
+# 그 외의 Exception 클래스
+
+---
+
+- 치명적인 예외 상황을 발생
+- 반드시 try / catch 문을 사용하여 예외를 처리할 필요가 있음
+- 자바 컴파일러는 RuntimeException 이외에 속하는 예외가 발생할 가능성이 있는 구문에는 반드시 예외를 처리하도록 강제함
+
+# **예외 처리의 계층 관계**
+
+---
+
+- 예외 처리는 try 블록과 가장 가까운 catch 블록부터 순서대로 검사하므로 catch 블록의 순서는 범위가 더 좁은 예외를 처리하는 catch 블록을 먼저 명시 → 범위가 더 넓은 예외를 처리하는 catch 블록은 나중에 명시
+
+    ```jsx
+    try {
+        System.out.write(list);
+    } catch (Exception e) {
+        e.printStackTrace();
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+    // 위와 같은 형태에서는 IOException 블록은 영원히 수행되지 못한다 따라서
+
+    try {
+        System.out.write(list);
+    } catch (IOException e) {
+        e.printStackTrace();
+    } catch (Exception e) {
+        e.printStackTrace();
+    }
+    // 다음과 같은 순서대로 명시해야 한다
+    ```
+
+
+## 참고
+
+---
+
+- 자바의 정석
+- [강의](https://www.tcpschool.com/java]
