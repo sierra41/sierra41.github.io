@@ -1,0 +1,252 @@
+---
+title: "[Java] [Test] JUnit 프레임워크"
+excerpt: "Java Test code 사용"
+
+categories:
+ - Java
+tags:
+ - Java
+
+date: 2023-12-07T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 JUnit 프레임워크로 테스트를 해보자
+</aside>
+
+> JUnit 프레임워크로 테스트 작성
+
+1. src/test/파일경로/클래스네임Test로 파일 만들기
+2. @Test 어노테이션 붙이고 실행할 함수 만들기
+3. 테스트 코드 입력 후 assertThat 으로 검증
+  3-1. 테스트할 원본 선언
+  3-2. given, when, then 셋 을 검증
+
+      ```java
+      //given
+              Member member1 = new Member();
+              member1.setName("newName1");
+              Member member2 = new Member();
+              member2.setName("newName1");
+
+              //when
+                  //방법1 : try catch
+      /*          memberService.join(member1);
+            try {
+                  memberService.join(member2);
+                  fail("예외가 발생해야합니다");
+
+              } catch (IllegalStateException e) {
+                  // 성공
+                  // assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+                  //실패
+                  assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+              }*/
+
+                  //방법2
+              memberService.join(member1);
+              IllegalStateException e = assertThrows(IllegalStateException.class, () -> memberService.join(member2));
+
+              //then
+              assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+      ```
+
+4. 여러 함수를 동시에 테스트 할 경우 테스트 하는 원본 파일에 clearStore함수 작성 후 테스트파일에 @AfterEach어노테이션과 함수 작성 후 클리어 적용
+  4-1. clear함수 있는 class 에서 test 할 때
+
+  ```java
+
+  -----------------------원본 파일에서 테스트관련 코드
+  public void clearStore() {
+          store.clear();
+      }
+  }
+  ----------------------------------------Test File
+  package com.kpgoing.deliveryplatform.repository;
+
+  import com.kpgoing.deliveryplatform.domain.Member;
+  import org.junit.jupiter.api.AfterEach;
+  import org.junit.jupiter.api.Test;
+
+  import java.util.List;
+
+  import static org.assertj.core.api.Assertions.assertThat;
+  class MemoryMemberRepositoryTest {
+
+      MemoryMemberRepository repository = new MemoryMemberRepository();
+
+      @AfterEach
+      public void afterEach() {
+          repository.clearStore();
+      }
+
+      @Test
+      public void save() {
+          Member member = new Member();
+          member.setName("testGo");
+
+          //꺼내기
+          repository.save(member);
+          Member result =  repository.findById(member.getId()).get();
+
+          //검증1 = log 글자로 확인 - 보기 힘듦
+          //System.out.println("result = " + (result == member));
+
+          //검증2 = assertions.assertEquals
+          //Assertions.assertEquals(member, result);
+
+          //검증2 = assertions.org asserti
+          assertThat(member).isEqualTo(result);
+
+          //실무에서는 build 툴이랑 엮어서 오류면 다음 단계로 못넘어가게 막음
+      }
+
+      @Test
+      public void findByName() {
+          Member member1 = new Member();
+          member1.setName("name1");
+          repository.save(member1);
+
+          Member member2 = new Member();
+          member2.setName("name22");
+          repository.save(member2);
+
+          Member result = repository.findByName("name1").get();
+
+          assertThat(result).isEqualTo(member1);
+
+      }
+
+      @Test
+      public void findAll() {
+          Member member1 = new Member();
+          member1.setName("name1");
+          repository.save(member1);
+
+          Member member2 = new Member();
+          member2.setName("name22");
+          repository.save(member2);
+
+          List<Member> result = repository.findAll();
+          assertThat(result.size()).isEqualTo(2);
+      }
+  }
+  ```
+
+4-2. clear함수 없는 다른 class  함수 - 의존성주입으로 같은 객체 사용
+  4-2-1. service(테스트할 파일)에 의존성 주입해서
+
+
+    private final MemberRepository memberRepository;
+        public MemberService(MemberRepository memberRepository) {
+            this.memberRepository = memberRepository;
+        }
+
+
+  4-2-2. test에서 가져와서 사용
+
+
+    package com.kpgoing.deliveryplatform.service;
+
+    import com.kpgoing.deliveryplatform.domain.Member;
+    import com.kpgoing.deliveryplatform.repository.MemoryMemberRepository;
+    import org.junit.jupiter.api.AfterEach;
+    import org.junit.jupiter.api.BeforeEach;
+    import org.junit.jupiter.api.Test;
+
+    import static org.assertj.core.api.Assertions.assertThat;
+    import static org.junit.jupiter.api.Assertions.assertThrows;
+
+    class MemberServiceTest {
+
+        MemberService memberService;
+        MemoryMemberRepository memberRepository;
+
+        //afterEach를 써야하는데 서비스에는 해당 함수가 없음
+        //MemberService memberService = new MemberService();
+        //MemoryMemberRepository memberRepository = new MemoryMemberRepository();
+        // 이렇게 new 로 따로 MemoryMemberRepository를 선언하면 새로운 객체를 만드는 것이기 때문에
+        // MemberService에서 사용하는 MemoryMemberRepository와는 다른 게 됨
+        //같은 인스턴스를 쓰도록 바꿔야함
+        // 1) service 로 가서 외부에서 MemoryMemberRepository를 넣어주도록 바꿔야 함
+        // 2) before each로 추가
+
+        @BeforeEach
+        public void beforeEach() {
+            memberRepository = new MemoryMemberRepository();
+            memberService = new MemberService(memberRepository);
+        }
+
+        @AfterEach
+        public void afterEach() {
+            memberRepository.clearStore();
+        }
+
+        @Test
+        void 회원가입() {
+            //given
+            Member member = new Member();
+            member.setName("newName1");
+
+            //when
+            Long saveId = memberService.join(member);
+
+            //then
+            Member findMember = memberService.findOne(saveId).get();
+
+            assertThat(member.getName()).isEqualTo(findMember.getName());
+        }
+
+        @Test
+        public void 중복회원예외() {
+            //given
+            Member member1 = new Member();
+            member1.setName("newName1");
+            Member member2 = new Member();
+            member2.setName("newName1");
+
+            //when
+                //방법1
+    /*          memberService.join(member1);
+          try {
+                memberService.join(member2);
+                fail("예외가 발생해야합니다");
+
+            } catch (IllegalStateException e) {
+                // 성공
+                // assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+                //실패
+                assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+            }*/
+
+                //방법2
+            memberService.join(member1);
+            IllegalStateException e = assertThrows(IllegalStateException.class, () -> memberService.join(member2));
+
+            //then
+            assertThat(e.getMessage()).isEqualTo("이미 존재하는 회원입니다.");
+
+        }
+
+        @Test
+        void 멤버찾기() {
+        }
+
+        @Test
+        void findOne() {
+        }
+    }
+
+
+
+## 참고
+
+---
+
+
+- 자바의 정석
+- [강의](https://www.tcpschool.com/java]
+
+-
