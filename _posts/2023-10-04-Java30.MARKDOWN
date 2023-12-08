@@ -56,5 +56,4 @@ toc_label: 목차
 ---
 
 - 자바의 정석
-- https://www.daleseo.com/java8-local-date-time/
 - [강의](https://www.tcpschool.com/java]
