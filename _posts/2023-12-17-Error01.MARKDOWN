@@ -1,0 +1,30 @@
+---
+title: "[Java] [Error] No tests found for given includes:"
+excerpt: "Java Test error"
+
+categories:
+ - Java, Error
+tags:
+ - Java, Error
+
+date: 2023-12-17T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Test error
+</aside>
+
+## No tests found for given includes:
+
+> 현재 클래스에 테스트를 발견할 수 없음.
+
+- @Test 어노테이션을 잡지 못하는 상태
+- Settings > Build,Execution,Deployment > Build Tools > Gradle > "Run tests using: IntelliJ IDEA" 로 변경
+
+## 참고
+
+---
+
+-
