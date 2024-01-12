@@ -1,0 +1,30 @@
+---
+title: "[Java] [Error] No EntityManager with actual transaction available for current thread"
+excerpt: "Java Test error"
+
+categories:
+ - Java, Error
+tags:
+ - Java, Error
+
+date: 2023-12-17T00:00:00Z
+toc: true
+toc_sticky: true
+toc_label: 목차
+---
+<aside>
+💡 Java Test error
+</aside>
+
+```
+org.springframework.dao.InvalidDataAccessApiUsageException:
+No EntityManager with actual transaction available for current thread
+- cannot reliably process 'persist' call;
+nested exception is javax.persistence.TransactionRequiredException:
+No EntityManager with actual transaction available for current thread
+- cannot reliably process 'persist' call
+
+```
+
+
+> 엔티티 메니저를 통한 모든 데이터 변경은 트렌잭션 아래에서 이루어져야함
