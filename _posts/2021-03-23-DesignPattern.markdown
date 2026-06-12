@@ -15,8 +15,8 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
-
 ## MVC, MVP, MVVM 디자인 패턴은 왜 필요한가?
 
 프로그램의 크기가 점점 커짐에 따라 코드의 관리가 어렵고 유지보수와 개발효율이 떨어지게 되는데,    

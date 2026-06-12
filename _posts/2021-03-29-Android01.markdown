@@ -12,6 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 # Android 생명 주기   
 > 유투브는 사용자가 다른 앱을 키거나 전화를 받으면 자동으로 일시정지 되고, 네트워크 연결을 종료시킬 수 있다.    

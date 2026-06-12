@@ -14,6 +14,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 ## Dependabot alerts   
 ![image](https://user-images.githubusercontent.com/66898243/112602505-1e80f980-8e57-11eb-8ed5-a2e33428e800.png)     

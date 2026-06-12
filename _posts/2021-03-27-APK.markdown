@@ -12,6 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 ## APK(Android Package) 란?
 안드로이드 앱을 설치하는 역할을 하는 안드로이드 앱 확장자.    

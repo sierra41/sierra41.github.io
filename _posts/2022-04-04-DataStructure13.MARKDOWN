@@ -10,8 +10,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+published: false
 ---
-
 # 배열을 이용한 리스트의 구현 (2)
 
 <aside>

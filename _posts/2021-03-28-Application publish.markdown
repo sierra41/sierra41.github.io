@@ -11,6 +11,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 # 애플리케이션 출시 기본작업
 애플리케이션을 출시하려면 먼저 애플리케이션의 출시 버전을 구성, 빌드, 테스트해야 한다.   

@@ -10,6 +10,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+published: false
 ---
 <aside>
 💡 "회사용 git 계정과 개인용 git 계정을 둘 다 연동해두고 사용하고 싶다.

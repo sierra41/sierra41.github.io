@@ -12,6 +12,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 ## Android 개발 언어 및 개념
 

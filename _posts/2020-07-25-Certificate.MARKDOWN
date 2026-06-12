@@ -11,6 +11,7 @@ last_modified_at: '2020-07-25 23:11:00 +0800'
 toc: true
 toc_sticky: true
 toc_label: 목차
+published: false
 ---
 ## 정보처리기사/산업기사
 - 개정전 전자계산기(2과목) 과목 제외(13~25)

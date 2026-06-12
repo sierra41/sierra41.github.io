@@ -14,19 +14,21 @@ GEM
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    backports (3.20.2)
+    backports (3.25.3)
     colorator (1.1.0)
     concurrent-ruby (1.1.8)
     em-websocket (0.5.2)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
+    eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     faraday (1.3.0)
       faraday-net_http (~> 1.0)
       multipart-post (>= 1.2, < 3)
       ruby2_keywords
     faraday-net_http (1.0.1)
-    ffi (1.15.0-x64-mingw32)
+    ffi (1.17.2)
+    ffi (1.17.2-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.9)
@@ -57,7 +59,7 @@ GEM
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-paginate (1.1.0)
-    jekyll-sass-converter (2.1.0)
+    jekyll-sass-converter (2.2.0)
       sassc (> 2.0.1, < 3.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
@@ -83,8 +85,8 @@ GEM
     rack (1.6.13)
     rack-protection (1.5.5)
       rack
-    rack-test (1.1.0)
-      rack (>= 1.0, < 3)
+    rack-test (2.2.0)
+      rack (>= 1.3)
     rake (13.0.3)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -93,6 +95,8 @@ GEM
     rouge (3.26.0)
     ruby2_keywords (0.0.4)
     safe_yaml (1.0.5)
+    sassc (2.4.0)
+      ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sawyer (0.8.2)
@@ -102,7 +106,7 @@ GEM
       sinatra (~> 1.4.0)
       tilt (>= 1.3, < 3)
     sinatra (1.4.8)
-      rack (~> 2.2.3)
+      rack (~> 1.5)
       rack-protection (~> 1.4)
       tilt (>= 1.3, < 3)
     sinatra-contrib (1.4.7)
@@ -114,10 +118,11 @@ GEM
       tilt (>= 1.3, < 3)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tilt (2.0.10)
+    tilt (2.7.0)
     unicode-display_width (1.7.0)
 
 PLATFORMS
+  ruby
   x64-mingw32
 
 DEPENDENCIES

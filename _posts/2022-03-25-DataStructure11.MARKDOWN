@@ -10,6 +10,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+published: false
 ---
 # 추상 자료형: Abstract Data Type
 

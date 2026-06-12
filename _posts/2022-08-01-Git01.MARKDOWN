@@ -10,6 +10,7 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+published: false
 ---
 <aside>
 💡 "자주쓰는 Git 기본 명령어 목록"

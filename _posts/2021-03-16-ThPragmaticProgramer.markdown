@@ -11,6 +11,7 @@ toc: true
 toc_sticky: true
 toc_label: 목차
 
+published: false
 ---
 ## The Pragmatic Programer
 The Pragmatic Programer 리뷰&정리
