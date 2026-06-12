@@ -48,12 +48,12 @@ YouTube List Maker는 기능 제공을 위해 Google API 및 YouTube Data API를
 
 ## 5. 권한 철회 및 데이터 삭제
 
-사용자는 언제든지 Google 계정 설정에서 YouTube List Maker에 부여한 접근 권한을 철회할 수 있습니다.
+사용자는 Google 계정 권한 관리 페이지에서 YouTube List Maker에 부여한 접근 권한을 철회할 수 있습니다.
 
 Google 계정 권한 관리 페이지:
 <https://myaccount.google.com/permissions>
 
-YouTube List Maker는 사용자의 데이터를 서버에 영구 저장하지 않으므로, 별도의 서버 저장 데이터 삭제 절차는 필요하지 않습니다.
+YouTube List Maker는 사용자의 데이터를 서버에 영구 저장하지 않습니다.
 
 이미 생성된 YouTube 재생목록은 사용자의 YouTube 계정에 저장되며, 사용자가 YouTube 또는 YouTube Music에서 직접 삭제할 수 있습니다.
 
