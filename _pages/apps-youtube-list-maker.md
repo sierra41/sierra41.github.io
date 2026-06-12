@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# YouTube List Maker
-
 YouTube List Maker는 사용자가 입력한 가수 이름이나 검색어를 기반으로 YouTube 재생목록을 자동으로 만들어 주는 앱입니다.
 
 사용자는 Google 계정으로 로그인한 뒤, 원하는 가수 이름과 노래 개수를 입력하여 자신의 YouTube 계정에 재생목록을 생성할 수 있습니다. 생성된 재생목록은 YouTube 또는 YouTube Music에서 바로 열 수 있습니다.

@@ -5,8 +5,6 @@ layout: single
 author_profile: true
 ---
 
-# YouTube List Maker 개인정보처리방침
-
 시행일: 2026년 6월 12일
 
 YouTube List Maker는 사용자가 입력한 검색어를 기반으로 사용자의 YouTube 계정에 재생목록을 생성하는 앱입니다. 본 개인정보처리방침은 YouTube List Maker가 어떤 정보를 사용하고, 어떻게 처리하는지 설명합니다.
