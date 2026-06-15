@@ -9,5 +9,5 @@ author_profile: true
 
 ## YouTube List Maker
 
-- [프로젝트 정보](/DevLog/youtube-list-maker-project-info/)
-- [이슈 해결](/DevLog/youtube-list-maker-issues/)
+- [프로젝트 정보](/devlog/youtube-list-maker-project-info/)
+- [이슈 해결](/devlog/youtube-list-maker-issues/)
