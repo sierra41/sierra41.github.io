@@ -10,3 +10,4 @@ author_profile: true
 ## 개인정보처리방침
 
 - [YouTube List Maker 개인정보처리방침](/policies/youtube-list-maker/)
+- [고양이 방울방울 개인정보처리방침](/policies/cat-cozy-drop/)

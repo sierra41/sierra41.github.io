@@ -10,3 +10,4 @@ author_profile: true
 ## 앱 목록
 
 - [YouTube List Maker](/apps/youtube-list-maker/)
+- [고양이 방울방울](/apps/cat-cozy-drop/)
