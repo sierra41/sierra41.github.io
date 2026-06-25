@@ -34,7 +34,7 @@ author_profile: true
 - 플랫폼: Android
 - 가격: 무료
 - 앱 카테고리: 지도/내비게이션 또는 라이프스타일
-- 문의: actin45@gmail.com
+- 문의: sicorp.apps@gmail.com
 
 ## 관련 문서
 

@@ -29,7 +29,7 @@ author_profile: true
 - 앱 이름: 고양이 방울방울
 - 플랫폼: Android
 - 가격: 무료
-- 문의: actin45@gmail.com
+- 문의: sicorp.apps@gmail.com
 
 ## 관련 문서
 

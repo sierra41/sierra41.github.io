@@ -76,7 +76,7 @@ AdMob을 통해 처리되는 정보의 보관 및 삭제는 Google의 정책을 
 
 개인정보 관련 문의는 아래 연락처로 보내주세요.
 
-이메일: actin45@gmail.com
+이메일: sicorp.apps@gmail.com
 
 ## 관련 문서
 

@@ -11,6 +11,15 @@ The app helps users find aespa-related fan spots, cafes, restaurants, popup area
 
 This app does not require account registration or login. Saved spots are stored only on the user's device.
 
+## App Information
+
+- App name: aespa Fan Spots
+- Short description: A simple guide to aespa-related fan spots in Korea.
+- Platform: Android
+- Price: Free
+- Package name: artist1.spot.map
+- Contact: sicorp.apps@gmail.com
+
 ## Main Features
 
 - Explore aespa-related fan spots in Korea
@@ -30,14 +39,6 @@ This app does not require account registration or login. Saved spots are stored 
 4. Save favorite spots on your device.
 5. Open a place in Google Maps when you want to visit.
 6. Use the Suggest a Spot option to send a new place suggestion by email.
-
-## Service Information
-
-- App name: aespa Fan Spots
-- Platform: Android
-- Price: Free
-- Package name: artist1.spot.map
-- Contact: sicorp.apps@gmail.com
 
 ## Notes
 
