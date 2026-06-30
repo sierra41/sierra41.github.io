@@ -84,7 +84,7 @@ social:
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : # Google Analytics 4 measurement ID, e.g. "G-XXXXXXXXXX"
     anonymize_ip         : # true, false (default)
 
 
@@ -121,6 +121,9 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
       url: "mailto:sicorp.apps@gmail.com"
+    - label: "Privacy"
+      icon: "fas fa-fw fa-shield-alt"
+      url: "/policies/site-privacy/"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url:
