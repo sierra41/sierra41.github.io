@@ -34,3 +34,4 @@ author_profile: true
 ## 관련 문서
 
 - [개인정보처리방침](/policies/cat-cozy-drop/)
+- [프로젝트 정보](/devlog/cat-cozy-drop-project-info/)

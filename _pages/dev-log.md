@@ -11,3 +11,7 @@ author_profile: true
 
 - [프로젝트 정보](/devlog/youtube-list-maker-project-info/)
 - [이슈 해결](/devlog/youtube-list-maker-issues/)
+
+## 고양이 방울방울
+
+- [프로젝트 정보](/devlog/cat-cozy-drop-project-info/)
