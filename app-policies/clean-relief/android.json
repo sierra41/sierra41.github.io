@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "android": {
+    "minVersionCode": 17
+  }
+}
