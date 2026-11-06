@@ -67,5 +67,7 @@ image: /assets/images/apps/clean-relief/feature.png
 
 ## 관련 문서
 
+- [프로젝트 정보와 프로그램 구조](/devlog/clean-relief-project-info/)
+
 - [개인정보처리방침](/policies/clean-relief/)
 - [앱 목록](/apps/)
