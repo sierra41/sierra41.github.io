@@ -13,3 +13,4 @@ author_profile: true
 - [고양이 방울방울](/apps/cat-cozy-drop/)
 - [지하철 빈자리 찾기](/apps/subway-seat-finder/)
 - [aespa Fan Spots](/apps/aespa-fan-spots/)
+- [클린 릴리프: 아늑한 청소 게임](/apps/clean-relief/)
