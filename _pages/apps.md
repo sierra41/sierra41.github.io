@@ -14,3 +14,4 @@ author_profile: true
 - [지하철 빈자리 찾기](/apps/subway-seat-finder/)
 - [aespa Fan Spots](/apps/aespa-fan-spots/)
 - [클린 릴리프: 방청소 게임](/apps/clean-relief/)
+- [명화에 숨었냥 · Gallery Cats](/apps/cat-masterpiece-finder/)
