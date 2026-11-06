@@ -1,5 +1,5 @@
 ---
-title: "클린 릴리프: 아늑한 청소 게임"
+title: "클린 릴리프: 방청소 게임"
 permalink: /apps/clean-relief/
 layout: single
 author_profile: true
