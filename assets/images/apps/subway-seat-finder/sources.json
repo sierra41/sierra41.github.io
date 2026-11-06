@@ -1,0 +1,77 @@
+{
+  "checked_at": "2026-11-06",
+  "store_url": "https://play.google.com/store/apps/details?id=com.sicorp.subwayseatfinder&hl=ko",
+  "listing_updated_at": "2026-10-21",
+  "assets": [
+    {
+      "file": "icon.png",
+      "source_url": "https://lh3.googleusercontent.com/F3fDbQHW8ygDD3A95CBz-NvQLeuhoc7kr4aOJJizFVaNAlBPNzeerYXA3LYyyXIXuczgSQToiSLOW5nuqgv4SzQ",
+      "width": 512,
+      "height": 512,
+      "sha256": "854c91ce6fb7fa876615731071c22c7d5e4a25762eda2a8cc8bfe5ddc418be71"
+    },
+    {
+      "file": "feature-graphic.png",
+      "source_url": "https://lh3.googleusercontent.com/jLunzTyUnCmR0w3VCPo7w06uD_dzgl1Zc8Nu5tfNUsIWGEdjRclzMShfOAOF71Fc6AemFgUYwe131IQGW9bESw=s0",
+      "width": 1024,
+      "height": 500,
+      "sha256": "f5dc255ecb220f22d0fe0870fb82fe31d9829a447a84350b913d5b7e220c0485"
+    },
+    {
+      "file": "01-train-selection.webp",
+      "source_url": "https://play-lh.googleusercontent.com/NJaoYHzJT6qKqkHmkOcUbrWwrKL9ufbZkSc_CY0WabNkx4R-FUmjFtpZ6dFj29DaD7zOMJPR6RTtFpjfu7HqXsI=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "ea47f261ab465cc3d88a36175c7fa65318a11ad17851728dac2334bad74ebc19"
+    },
+    {
+      "file": "02-car-selection.webp",
+      "source_url": "https://play-lh.googleusercontent.com/3E4fH6GACNxT_zJvn_bboCRSM-hXRzfn_DYoYl6_ZzrCwjsBk9b1Oe5gdDtaKnl4SslfG2dCSJLigGv5tGv_5g=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "912e16260ac8dc7ea3308fa60cd8a8e8d870dc93eedfcad7d89746d983815754"
+    },
+    {
+      "file": "03-seat-selection.webp",
+      "source_url": "https://play-lh.googleusercontent.com/coML8U2MODZ2vuehe_kJN6CTslRY5e8rlzhZ0xgwCZhXLcfkdQ1e0iAaA_avd8yqo2AHKkq7rFh7zwIcwFi4=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "b5ca2b374b58a57af1829e64444452a11fb7c0a352c5cd923e5a79c3f71195c2"
+    },
+    {
+      "file": "04-seat-status.webp",
+      "source_url": "https://play-lh.googleusercontent.com/hS854Et0cXdLzJ1omaC0wkbEw14n3c8SWlz_lWEdVw1ZXhlmzw90vI9Cyud_MoG2C79Tbz88yz6iT7OXFsR2=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "8c927707c156f13bced6e681d3d7162f1e18077504d2e7f108b654a56815a502"
+    },
+    {
+      "file": "05-exit-station.webp",
+      "source_url": "https://play-lh.googleusercontent.com/pdf9c6fzHeoZiacucTXKWVQJ-S2rJ36drIEqVoT_p_1dmCss5lddAKLX9i-FIZ_bQx46zRRZ4M-lDW3d_kpu=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "00e1d327be13a157f7da4d42d98e5c3ef6e2d6cb0bb9489536e81345c490febe"
+    },
+    {
+      "file": "06-today-seats.webp",
+      "source_url": "https://play-lh.googleusercontent.com/nRF1pBIrRmc4E-avUWbZnzcx4eJf5VmykZcPMBgN7Zqq_4DPyCS0lmEOdld4W-nrHFrt0HRVCznW_Dl3xvRC=w1052-h592-rw",
+      "width": 290,
+      "height": 592,
+      "sha256": "bb7852656f1859bd3303a2be69b748e6b2b60f6a0d48e6a944ca0ea553d558e7"
+    },
+    {
+      "file": "07-tablet-car-selection.webp",
+      "source_url": "https://play-lh.googleusercontent.com/yIboUjeIRPnyoeEiyj7ZYzJngk-zULaAy1Sbq9ZcuYW4TL6sgPjftQBDdAtgJ5tHVrkJl9_XSnlIP_E_Mc6S5Q=w1052-h592-rw",
+      "width": 333,
+      "height": 592,
+      "sha256": "d7c06a82ed3901f84159565c25977b75f7ab84a586e236eb47ca72ace7a99e04"
+    },
+    {
+      "file": "08-tablet-train-selection.webp",
+      "source_url": "https://play-lh.googleusercontent.com/ENuRfDtd1oiStE-rJ6cgRj-wxfYt9vqcU9t0Xc5s4g3XIj_tOhWMkusjRF9FqYGfhkdsX-KWsg6KvG-Xamb7Xg=w1052-h592-rw",
+      "width": 370,
+      "height": 592,
+      "sha256": "1888d60db992b6b201b74bb77a9a94cd245a9b0589112d65bd5ce182a0343239"
+    }
+  ]
+}

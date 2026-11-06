@@ -19,3 +19,7 @@ author_profile: true
 ## 클린 릴리프: 방청소 게임
 
 - [프로젝트 정보](/devlog/clean-relief-project-info/)
+
+## 지하철 빈자리 찾기
+
+- [프로젝트 정보](/devlog/subway-seat-finder-project-info/)
