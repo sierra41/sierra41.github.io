@@ -19,21 +19,21 @@ image: /assets/images/apps/clean-relief/feature.png
 침실과 주방을 정리하고, 빨래와 설거지를 차근차근 마무리하세요. 아래 이미지를 누르면 크게 볼 수 있습니다.
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 220px), 1fr)); gap: 1.25rem; margin: 1.5rem 0;">
-  <figure style="margin: 0; text-align: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0; text-align: center;">
     <a href="/assets/images/apps/clean-relief/bedroom.jpg"><img src="/assets/images/apps/clean-relief/bedroom.jpg" alt="클린 릴리프 휴대폰 게임 화면: 쓰레기와 얼룩이 있는 침실" loading="lazy" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; border-radius: 12px;"></a>
-    <figcaption style="margin-top: 0.5rem;">침실 청소 · 휴대폰 화면</figcaption>
+    <figcaption style="width: 100%; margin-top: 0.5rem;">침실 청소 · 휴대폰 화면</figcaption>
   </figure>
-  <figure style="margin: 0; text-align: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0; text-align: center;">
     <a href="/assets/images/apps/clean-relief/kitchen.jpg"><img src="/assets/images/apps/clean-relief/kitchen.jpg" alt="클린 릴리프 휴대폰 게임 화면: 햇살이 비치는 주방" loading="lazy" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; border-radius: 12px;"></a>
-    <figcaption style="margin-top: 0.5rem;">주방 정리 · 휴대폰 화면</figcaption>
+    <figcaption style="width: 100%; margin-top: 0.5rem;">주방 정리 · 휴대폰 화면</figcaption>
   </figure>
-  <figure style="margin: 0; text-align: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0; text-align: center;">
     <a href="/assets/images/apps/clean-relief/laundry.jpg"><img src="/assets/images/apps/clean-relief/laundry.jpg" alt="클린 릴리프 세탁 화면: 이불 물 적시기 단계" loading="lazy" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; border-radius: 12px;"></a>
-    <figcaption style="margin-top: 0.5rem;">이불 세탁 · 태블릿 화면</figcaption>
+    <figcaption style="width: 100%; margin-top: 0.5rem;">이불 세탁 · 태블릿 화면</figcaption>
   </figure>
-  <figure style="margin: 0; text-align: center;">
+  <figure style="display: flex; flex-direction: column; align-items: center; margin: 0; text-align: center;">
     <a href="/assets/images/apps/clean-relief/dishes.jpg"><img src="/assets/images/apps/clean-relief/dishes.jpg" alt="클린 릴리프 설거지 화면: 싱크대 속 접시" loading="lazy" style="display: block; width: 100%; max-width: 300px; height: auto; margin: 0 auto; border-radius: 12px;"></a>
-    <figcaption style="margin-top: 0.5rem;">접시 설거지 · 태블릿 화면</figcaption>
+    <figcaption style="width: 100%; margin-top: 0.5rem;">접시 설거지 · 태블릿 화면</figcaption>
   </figure>
 </div>
 
