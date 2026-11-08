@@ -1,0 +1,12 @@
+{% assign records = site.categories.Records | sort: 'date' | reverse %}
+{% if include.app_id %}
+  {% assign records = records | where: 'app_id', include.app_id %}
+{% endif %}
+{% assign record_limit = include.limit | default: records.size %}
+{% if records.size > 0 %}
+<ul>
+  {% for record in records limit:record_limit %}
+    <li><time datetime="{{ record.date | date_to_xmlschema }}">{{ record.date | date: '%Y-%m-%d' }}</time> · <a href="{{ record.url | relative_url }}">{{ record.title | escape }}</a></li>
+  {% endfor %}
+</ul>
+{% endif %}

@@ -4,25 +4,14 @@ layout: single
 author_profile: true
 ---
 
-sicorp.apps는 개인 앱의 기본정보, 개인정보처리방침, 개발 기록을 정리하는 공간입니다.
+직접 만드는 앱과 개발·출시 과정을 기록합니다.
 
-## Apps
+## 앱
 
-- [YouTube List Maker](/apps/youtube-list-maker/)
-- [고양이 방울방울](/apps/cat-cozy-drop/)
-- [지하철 빈자리 찾기](/apps/subway-seat-finder/)
-- [aespa Fan Spots](/apps/aespa-fan-spots/)
+{% include app-list.html %}
 
-## Policies
+## 최근 기록
 
-- [sicorp.apps 개인정보처리방침](/policies/site-privacy/)
-- [YouTube List Maker 개인정보처리방침](/policies/youtube-list-maker/)
-- [고양이 방울방울 개인정보처리방침](/policies/cat-cozy-drop/)
-- [지하철 빈자리 찾기 개인정보처리방침](/policies/subway-seat-finder/)
-- [aespa Fan Spots 개인정보처리방침](/policies/aespa-fan-spots/)
+{% include record-list.html limit=5 %}
 
-## Dev Log
-
-- [YouTube List Maker 프로젝트 정보](/devlog/youtube-list-maker-project-info/)
-- [YouTube List Maker 이슈 해결](/devlog/youtube-list-maker-issues/)
-- [고양이 방울방울 프로젝트 정보](/devlog/cat-cozy-drop-project-info/)
+[기록 전체 보기]({{ '/records/' | relative_url }})

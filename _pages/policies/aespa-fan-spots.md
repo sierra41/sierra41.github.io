@@ -3,6 +3,7 @@ title: "aespa Fan Spots 개인정보처리방침"
 permalink: /policies/aespa-fan-spots/
 layout: single
 author_profile: true
+published: false
 ---
 
 시행일: 2026년 6월 25일

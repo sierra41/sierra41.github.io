@@ -4,6 +4,9 @@ permalink: /apps/clean-relief/
 layout: single
 author_profile: true
 image: /assets/images/apps/clean-relief/feature.png
+app_id: clean-relief
+document_type: app
+nav_order: 5
 ---
 
 <img src="/assets/images/apps/clean-relief/icon.png" alt="클린 릴리프 앱 아이콘" width="96" height="96" style="border-radius: 20px; margin-bottom: 1rem;">

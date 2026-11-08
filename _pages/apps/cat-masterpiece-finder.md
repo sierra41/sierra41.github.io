@@ -4,6 +4,9 @@ permalink: /apps/cat-masterpiece-finder/
 layout: single
 author_profile: true
 comments: false
+app_id: cat-masterpiece-finder
+document_type: app
+nav_order: 6
 ---
 
 명화에 숨었냥(Gallery Cats)은 명화 속에 숨어 있는 고양이를 찾는 Android 게임입니다. 붓질과 사물의 경계에 섞인 고양이 윤곽선을 찾아 나만의 작은 미술관을 채워 보세요.

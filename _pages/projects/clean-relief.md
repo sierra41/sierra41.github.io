@@ -4,6 +4,9 @@ permalink: /devlog/clean-relief-project-info/
 layout: single
 author_profile: true
 image: /assets/images/apps/clean-relief/feature.png
+app_id: clean-relief
+last_modified_at: 2026-11-06T11:09:38+09:00
+document_type: project
 ---
 
 클린 릴리프(Clean Relief)는 Flutter로 만든 Android 청소 게임입니다. 침실과 주방의 쓰레기와 얼룩을 정리하고, 세탁과 설거지를 단계별 터치 조작으로 즐길 수 있도록 만들었습니다.

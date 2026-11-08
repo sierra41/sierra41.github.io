@@ -3,6 +3,9 @@ title: "고양이 방울방울 프로젝트 정보"
 permalink: /devlog/cat-cozy-drop-project-info/
 layout: single
 author_profile: true
+app_id: cat-cozy-drop
+last_modified_at: 2026-07-06T12:00:00+09:00
+document_type: project
 ---
 
 # 고양이방울방울

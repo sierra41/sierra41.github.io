@@ -3,6 +3,10 @@ title: "aespa Fan Spots"
 permalink: /apps/aespa-fan-spots/
 layout: single
 author_profile: true
+published: false
+app_id: aespa-fan-spots
+document_type: app
+nav_order: 4
 ---
 
 aespa Fan Spots is an unofficial fan-made travel guide app for overseas MYs and aespa fans visiting Korea.

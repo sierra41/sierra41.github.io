@@ -3,6 +3,9 @@ title: "YouTube List Maker"
 permalink: /apps/youtube-list-maker/
 layout: single
 author_profile: true
+app_id: youtube-list-maker
+document_type: app
+nav_order: 1
 ---
 
 YouTube List Maker는 사용자가 입력한 가수 이름 또는 검색어를 기반으로 YouTube 및 YouTube Music에서 열 수 있는 음악 재생 링크를 만들어 주는 앱입니다.

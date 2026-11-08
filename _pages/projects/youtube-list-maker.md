@@ -1,7 +1,5 @@
 ---
 title: "YouTube List Maker 프로젝트 정보"
-categories:
-  - DevLog
 tags:
   - YouTube List Maker
   - Flutter
@@ -11,6 +9,11 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+permalink: /devlog/youtube-list-maker-project-info/
+app_id: youtube-list-maker
+date: 2026-06-15
+last_modified_at: 2026-06-15T17:53:31+09:00
+document_type: project
 ---
 
 ## 프로젝트 구조

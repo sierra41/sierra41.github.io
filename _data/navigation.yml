@@ -1,19 +1,7 @@
-# main links
 main:
-  - title: "Apps"
+  - title: "앱"
     url: /apps/
-
-  - title: "Dev Log"
-    url: /dev-log/
-
-  - title: "Policies"
-    url: /policies/
-
-  - title: "About"
+  - title: "기록"
+    url: /records/
+  - title: "소개"
     url: /about/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
-#    - #title: "About"
-    #url: /about/  #/year-archive/

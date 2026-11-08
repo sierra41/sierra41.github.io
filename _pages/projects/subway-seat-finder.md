@@ -4,6 +4,8 @@ permalink: /devlog/subway-seat-finder-project-info/
 layout: single
 author_profile: true
 last_modified_at: 2026-11-06
+app_id: subway-seat-finder
+document_type: project
 ---
 
 지하철 빈자리 찾기는 서울 지하철 이용자가 곧 비워질 좌석을 공유하고 같은 열차의 정보를 확인하는 Android 앱입니다.

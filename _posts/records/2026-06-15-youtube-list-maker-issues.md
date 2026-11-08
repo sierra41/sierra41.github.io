@@ -1,7 +1,7 @@
 ---
 title: "YouTube List Maker 이슈 해결"
 categories:
-  - DevLog
+  - Records
 tags:
   - YouTube List Maker
   - Cloud Run
@@ -11,6 +11,8 @@ tags:
 toc: true
 toc_sticky: true
 toc_label: 목차
+permalink: /devlog/youtube-list-maker-issues/
+app_id: youtube-list-maker
 ---
 
 ## 1. Cloud Run 비용 문제

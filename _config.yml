@@ -121,9 +121,9 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-twitter-square"
       url: "mailto:sicorp.apps@gmail.com"
-    - label: "Privacy"
+    - label: "정책 및 계정 삭제 안내"
       icon: "fas fa-fw fa-shield-alt"
-      url: "/policies/site-privacy/"
+      url: "/policies/"
     - #label: "Facebook"
       #icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -146,6 +146,8 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - _archive
+  - CONTENT.md
   - "*.sublime-project"
   - "*.sublime-workspace"
   - vendor
@@ -245,9 +247,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  tag_archive:
-  type: liquid
-  path: /years/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:

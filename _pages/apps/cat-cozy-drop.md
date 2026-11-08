@@ -3,6 +3,9 @@ title: "고양이 방울방울"
 permalink: /apps/cat-cozy-drop/
 layout: single
 author_profile: true
+app_id: cat-cozy-drop
+document_type: app
+nav_order: 2
 ---
 
 고양이 방울방울은 간단한 조작으로 즐길 수 있는 캐주얼 모바일 게임입니다.

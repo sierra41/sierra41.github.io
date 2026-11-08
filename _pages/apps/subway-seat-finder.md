@@ -41,6 +41,9 @@ gallery_tablet:
     image_path: /assets/images/apps/subway-seat-finder/08-tablet-train-selection.webp
     alt: "태블릿 열차 선택"
     title: "태블릿 열차 선택"
+app_id: subway-seat-finder
+document_type: app
+nav_order: 3
 ---
 
 <img src="{{ '/assets/images/apps/subway-seat-finder/icon.png' | relative_url }}" alt="지하철 빈자리 찾기 앱 아이콘" width="112" height="112">

@@ -1,0 +1,6 @@
+{% assign apps = site.pages | where: 'document_type', 'app' | sort: 'nav_order' %}
+<ul>
+  {% for app in apps %}
+    <li><a href="{{ app.url | relative_url }}">{{ app.title | escape }}</a></li>
+  {% endfor %}
+</ul>

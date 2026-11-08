@@ -1,17 +1,10 @@
 ---
-title: "Apps"
+title: "앱"
 permalink: /apps/
 layout: single
 author_profile: true
 ---
 
-만들고 있는 앱과 공개 문서를 정리하는 공간입니다.
+앱별 기능, 이용 안내와 출시 상태를 확인할 수 있습니다. 각 앱 소개에서 관련 기록과 개인정보처리방침으로 이동할 수 있습니다.
 
-## 앱 목록
-
-- [YouTube List Maker](/apps/youtube-list-maker/)
-- [고양이 방울방울](/apps/cat-cozy-drop/)
-- [지하철 빈자리 찾기](/apps/subway-seat-finder/)
-- [aespa Fan Spots](/apps/aespa-fan-spots/)
-- [클린 릴리프: 방청소 게임](/apps/clean-relief/)
-- [명화에 숨었냥 · Gallery Cats](/apps/cat-masterpiece-finder/)
+{% include app-list.html %}
