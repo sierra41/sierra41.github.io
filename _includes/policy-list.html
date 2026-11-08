@@ -1,0 +1,8 @@
+{% assign policies = site.pages | where_exp: 'policy', "policy.url contains '/policies/'" | sort: 'title' %}
+<ul>
+  {% for policy in policies %}
+    {% unless policy.url == '/policies/' %}
+      <li><a href="{{ policy.url | relative_url }}">{{ policy.title | escape }}</a></li>
+    {% endunless %}
+  {% endfor %}
+</ul>

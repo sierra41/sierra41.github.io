@@ -32,7 +32,7 @@ layout: default
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
           -->
-          {% if page.document_type == 'project' %}
+          {% if page.document_type == 'app' %}
             {% if page.last_modified_at %}
               <p class="page__date"><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> 최종 수정일: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date: "%Y-%m-%d" }}</time></p>
             {% endif %}
@@ -67,7 +67,7 @@ layout: default
           <h4 class="page__meta-title">{{ site.data.ui-text[site.locale].meta_label }}</h4>
         {% endif %}
         {% include page__taxonomy.html %}
-        {% unless page.document_type == 'project' %}
+        {% unless page.document_type == 'app' %}
           {% include page__date.html %}
         {% endunless %}
       </footer>

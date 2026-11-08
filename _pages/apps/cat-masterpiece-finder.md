@@ -39,7 +39,6 @@ Android 앱은 시작하거나 다시 활성화될 때 최소 지원 버전을 �
 - 지원 언어: 한국어 · English
 - 문의: [sicorp.apps@gmail.com](mailto:sicorp.apps@gmail.com)
 
-## 관련 문서
+## 정책
 
 - [개인정보처리방침](/policies/cat-masterpiece-finder/)
-- [앱 목록](/apps/)

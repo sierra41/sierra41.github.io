@@ -3,5 +3,7 @@ main:
     url: /apps/
   - title: "기록"
     url: /records/
+  - title: "정책"
+    url: /policies/
   - title: "소개"
     url: /about/
