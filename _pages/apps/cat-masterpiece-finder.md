@@ -1,7 +1,7 @@
 ---
 title: "명화에 숨었냥 · Gallery Cats"
 permalink: /apps/cat-masterpiece-finder/
-last_modified_at: 2026-11-11
+last_modified_at: 2026-11-12
 layout: single
 author_profile: true
 comments: false
@@ -24,7 +24,7 @@ gallery_phone:
     image_path: /assets/images/apps/cat-masterpiece-finder/04-hint.png
     alt: "그림 제목 정답을 입력하는 힌트 화면"
     title: "그림 제목 힌트"
-app_id: cat-masterpiece-finder
+app_id: gallery-cats
 document_type: app
 nav_order: 6
 ---
@@ -69,6 +69,7 @@ Android 앱은 시작하거나 다시 활성화될 때 최소 지원 버전을 �
 
 - 플랫폼: Android
 - 지원 언어: 한국어 · English
+- 가격: 무료 · 광고 포함
 - 문의: [sicorp.apps@gmail.com](mailto:sicorp.apps@gmail.com)
 
 ## 서비스와 개발 정보
